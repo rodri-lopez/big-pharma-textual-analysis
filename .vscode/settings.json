@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "c:\\users\\mexro\\appdata\\roaming\\python\\python311\\site-packages"
+    ]
+}

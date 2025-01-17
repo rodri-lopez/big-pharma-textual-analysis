@@ -1,0 +1,104 @@
+Topic: Governance
+	Keywords: align, aligned, aligning, alignment, aligns, bylaw, bylaws, charter, charters, culture, death, duly, parents, independent
+	Category: Corporate governance
+		Keywords: conduct, conformity, governance, misconduct, parachute, parachutes, perquisites, plane, planes, poison, retirement
+		Subcategory: Audit and control
+			Keywords: approval, approvals, approve, approved, approves, approving, assess, assessed, assesses, assessing, assessment, assessments, audit, audited, auditing, auditor, auditors, audits, control, controls, coso, detect, detected, detecting, detection, evaluate, evaluated, evaluates, evaluating, evaluation, evaluations, examination, examinations, examine, examined, examines, examining, irs, oversee, overseeing, oversees,oversight, review, reviewed, reviewing, reviews, rotation,test, tested, testing, tests, treadway
+		Subcategory: Board structure
+			Keywords: backgrounds, independence, leadership, nomination, nominations, nominee, nominees, perspectives, qualifications, refreshment, skill, skills, succession, tenure, vacancies, vacancy
+		Subcategory: Remuneration 
+			Keywords: appreciation, award, awarded, awarding, awards, bonus, bonuses, cd, compensate, compensated, compensates, compensating, compensation, eip, iso, isos, payout, payouts, pension, prsu, prsus, recoupment, remuneration, reward, rewarding, rewards, rsu, rsus, salaries, salary, severance, vest, vested, vesting, vests
+		Subcategory: Shareholder rights
+			Keywords: ballot, ballots, cast, consent, elect, elected, electing, election, elections, elects, nominate, nominated, plurality, proponent, proponents, proposal, proposals, proxies, quorum, vote, voted, votes, voting
+		Subcategory: Transparency
+			Keywords: brother, clicking, conflict, conflicts, family, grandchildren, grandparent, grandparents, inform, insider, insiders, inspector, inspectors, interlocks, nephews, nieces, posting, relatives, siblings, sister, son, spousal, spouse, spouses, stepchildren, stepparents,transparency, transparent, visit, visiting, visits, webpage, website
+		Subcategory: Talent
+			Keywords: attract, attracting, attracts, incentive, incentives, interview, interviews, motivate,motivated, motivates, motivating,motivation, recruit, recruiting, recruitment, retain, retainer, retainers, retaining, retention, talent, talented, talents
+	Category: Business ethics
+		Keywords: cobc, ethic, ethical, ethically, ethics, honesty
+		Subcategory: Bribery and corruption
+			Keywords: bribery, corrupt, corruption, crimes, embezzlement
+		Subcategory: Political influence
+			Keywords: grassroots, influence, influences, influencing, lobbied, lobbies, lobby, lobbying, lobbyist, lobbyists
+		Subcategory: Whistle-blowing system
+			Keywords: whistleblower
+	Category: Sustainability management and reporting
+		Keywords: announce, announced, announcement, announcements, announces, announcing, communicate, communicated, communicates, communicating, erm, fairly, integrity, liaison, presentation, presentations 
+		Subcategory: Disclosure and reporting
+			Keywords: asc, disclose, disclosed, discloses, disclosing, disclosure, disclosures, fasb, gaap, objectivity, press, sarbanes
+		Subcategory: Stakeholder engagement
+			Keywords: engagement, engagements, feedback, hotline, investor, invite, invited, mail, mailed, mailing, mailings, notice, relations, stakeholder, stakeholders
+		Subcategory: UNGC compliance
+			Keywords: compact, ungc
+
+Topic: Environmental
+	Keywords: clean, environmental, epa, sustainability, green, sustainable
+	Category: Climate change
+		Keywords: Climate, warming
+		Subcategory: Biofuels
+			Keywords: biofuels, biofuel, ethanol, biodiesel
+		Subcategory: Climate change strategy
+			Keywords: renewable, solar, stewardship, wind
+		Subcategory: Emissions management and reporting
+			Keywords: emission, emissions, ghg, ghgs, greenhouse, atmosphere, emit, footprint, net-zero
+	Category: Ecosystem Service
+		Keywords: agriculture, deforestation, pesticide, pesticides, wetlands
+		Subcategory: Access to land
+			Keywords: zoning, regulation
+		Subcategory: Biodiversity management
+			Keywords: biodiversity, species, wilderness, wildlife, conservation, ecosystem, habitat, endangered, forest, protection, restoration
+		Subcategory: Water
+			Keywords: freshwater, groundwater, water, drought, irrigation, river
+	Category: Environmental management
+		Keywords: cleaner, cleanup, coal, contamination, fossil, resource
+		Subcategory: Environmental standards
+			Keywords: compliance, policy, eco-friendly, standards, guidelines
+		Subcategory: Pollution control
+			Keywords: air, carbon, nitrogen, pollution, superfund, hazardous
+		Subcategory: Product opportunities
+			Keywords: biodegradable, recyclable, compost
+		Subcategory: Supply chain environmental standards
+			Keywords: sourcing, traceability, certification
+		Subcategory: Waste and recycling
+			Keywords: biphenyls, householding, pollutants, printing, recycling, toxic, waste, wastes, landfill, circular
+			
+Topic: Social
+	Keywords: citizen, citizens, csr, disabilities, disability, disabled, human, nations, social, un, veteran, veterans, vulnerable
+	Category: Public health
+		Keywords: children, epidemic, health, healthy, ill, illness, pandemic
+		Subcategory: Access to medicine
+			Keywords: childbirth, drug,medicaid,medicare,medicine,medicines
+		Subcategory: HIV and AIDS
+			Keywords: hiv
+		Subcategory: Nutrition
+			Keywords: alcohol, drinking
+		Subcategory: Product safety
+			Keywords: bugs, conformance, defects, fda, inspection, inspections,minerals, standardization, warranty
+	Category: Human rights
+		Keywords: dignity, discriminate, discriminated, discriminating, discrimination, equality, freedom, humanity, nondiscrimination, sexual
+		Subcategory: Community relations
+			Keywords: communities, community
+		Subcategory: Privacy and free expression
+			Keywords: expression, marriage, privacy
+		Subcategory: Security
+			Keywords: peace
+		Subcategory: Weak governance zones
+			Keywords:
+	Category: Labor standards
+		Keywords: bargaining, eeo, fairness, fla, harassment,injury, labor, overtime, ruggie, sick, wage, wages,workplace
+		Subcategory: Diversity
+			Keywords: bisexual, diversity, ethnic, ethnically, ethnicities,ethnicity, female, females, gay, gays, gender, genders,homosexual, immigration, lesbian, lesbians, lgbt, minorities, minority, ms, race, racial, religion, religious,sex, transgender, woman,women
+		Subcategory: Health and safety
+			Keywords: occupational, safe, safely, safety
+		Subcategory: ILOcore conventions
+			Keywords: ilo, labour
+		Subcategory: Supply chain labor standards
+			Keywords: eicc
+	Category: Society
+		Keywords: endowment, endowments, people, philanthropic, philanthropy, socially, societal, society, welfare
+		Subcategory: Charity 
+			Keywords: charitable, charities, charity, donate, donated,donates, donating, donation, donations, donors, foundation, foundations, gift, gifts, nonprofit, poverty
+		Subcategory: Education
+			Keywords: courses, educate, educated, educates, educating, education, educational, learning, mentoring, scholarships, teach, teacher, teachers, teaching, training
+		Subcategory: Employment
+			Keywords: employ, employment, headcount, hire, hired, hires, hiring, staffing, unemployment

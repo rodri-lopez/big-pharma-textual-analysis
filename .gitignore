@@ -1,0 +1,12 @@
+# Ignore any subfolders containing 'TEST'
+*TEST*/
+*/TEST*/
+
+# Ignore the specific subfolder '10-K'
+10-K/*
+
+# Ignore zip files
+*.zip
+*.pdf
+**/*.pdf
+**/*.csv

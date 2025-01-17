@@ -1,0 +1,3469 @@
+Consolidated Financial Statements
+for the fiscal year ended December 31, 2018
+Otsuka Holdings Co., Ltd.
+－1－Financial Information
+1. Basis of Preparation of Consolidated Financial Statements
+The consolidated financial statements of Otsuka Holdings Company Limited (hereinafter referred to as the
+“Company”) are prepared in accordance with International Financial Reporting Standards (hereinafter referred
+to as “IFRS”) pursuant to the provision of Article 93 of the Ordinance on Terminology, Forms, and Preparation
+Methods of Consolidated Financial Statements (Ordinance of the Ministry of Finance No. 28 of 1976;
+hereinafter referred to as the “Ordinance on Consolidated Financial Statements”).
+2. Audit Certification
+In accordance with the provision of Article 193-2, Paragraph 1 of the Financial Instruments and Exchange Act,
+the consolidated financial statements for the fiscal year ended December 31, 2018 were audited by Deloitte
+Touche Tohmatsu LLC.
+3. Special Effort to Ensure the Appropriateness of Consolidated Financial Statements and Others, and
+Development of a System for Preparing Consolidated Financial Statements Appropriately in Accordance
+with IFRS
+The Company has been making special effort to ensure the appropriateness of consolidated financial statements
+and others, and developing a system for preparing consolidated financial statements and others appropriately in
+accordance with IFRS. The details are as follows:
+(1) In order to develop a system that ensures a proper understanding of the contents of accounting standards,
+etc. or an adequate response to changes in accounting standards, etc. and others, the Company has joined
+the Financial Accounting Standards Foundation, regularly provides internal training, subscribes to
+professional journals published by the Japanese Institute of Certified Public Accountants, attends seminars
+hosted by the Financial Accounting Standards Foundation and auditing firms, etc., and makes other efforts.
+(2) With regard to application of IFRS, the Company keeps up on accounting standards by obtaining press
+releases and standards published by the International Accounting Standards Board. In addition, the
+Company has developed the Group’s accounting policies and accounting guidelines in accordance with
+IFRS and practices accounting procedures based on these policies and guidelines to prepare appropriate
+consolidate financial statements in accordance with IFRS.
+－2－1. Consolidated Financial Statements
+(1) Consolidated Financial Statements
+(i) Consolidated Statement of Financial Position
+(Millions of yen)
+FY2017 FY2018
+Note
+(As of December 31, 2017) (As of December 31, 2018)
+Assets
+Current assets
+Cash and cash equivalents 6 336,613 285,022
+Trade and other receivables 7 363,920 378,520
+Inventories 8 144,538 157,128
+Income taxes receivable 11,453 9,226
+Other financial assets 9 116,383 66,614
+Other current assets 10 37,542 36,573
+Subtotal 1,010,451 933,085
+Assets held for sale 11 490 16
+Total current assets 1,010,942 933,102
+Non-current assets
+Property, plant and equipment 12 382,462 393,572
+Goodwill 13 249,463 284,097
+Intangible assets 13 455,862 483,942
+Investments in associates 15 188,234 189,633
+Other financial assets 9 176,104 155,153
+Deferred tax assets 16 6,980 28,428
+Other non-current assets 10 10,206 8,704
+Total non-current assets 1,469,313 1,543,532
+Total assets 2,480,256 2,476,634
+－3－(Millions of yen)
+FY2017 FY2018
+Note
+(As of December 31, 2017) (As of December 31, 2018)
+Liabilities and equity
+Liabilities
+Current liabilities
+Trade and other payables 17 159,898 170,854
+Bonds and borrowings 18 64,472 65,912
+Other financial liabilities 19 2,325 4,202
+Income taxes payable 8,036 7,211
+Contract liabilities 25 – 10,809
+Other current liabilities 21 151,718 168,511
+Subtotal 386,450 427,502
+Liabilities directly associated with assets held for sale 11 15 –
+Total current liabilities 386,465 427,502
+Non-current liabilities
+Bonds and borrowings 18 176,961 139,973
+Other financial liabilities 19 18,981 22,826
+Net defined benefit liabilities 23 14,678 18,337
+Provisions 22 3,749 619
+Contract liabilities 25 – 87,245
+Deferred tax liabilities 16 44,685 35,564
+Other non-current liabilities 21 12,784 12,300
+Total non-current liabilities 271,840 316,865
+Total liabilities 658,306 744,368
+Equity
+Equity attributable to owners of the Company
+Share capital 24 81,690 81,690
+Capital surplus 24 505,620 505,894
+Treasury shares 24 (47,267) (47,268)
+Retained earnings 24 1,266,399 1,229,360
+Other components of equity 24 (13,165) (65,177)
+Total equity attributable to owners of the Company 1,793,278 1,704,499
+Non-controlling interests 28,671 27,766
+Total equity 1,821,950 1,732,266
+Total liabilities and equity 2,480,256 2,476,634
+－4－(ii) Consolidated Statement of Income
+(Millions of yen)
+FY2017 FY2018
+Note (From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Revenue 5, 25 1,239,952 1,291,981
+Cost of sales 26 (422,473) (441,823)
+Gross profit 817,478 850,157
+Selling, general and administrative expenses 22, 26 (558,677) (564,374)
+Research and development expenses 26 (175,558) (216,140)
+Share of profit of associates 15 19,307 16,508
+Other income 27 6,063 24,482
+Other expenses 28 (4,432) (2,328)
+Operating profit 104,181 108,304
+Finance income 29 4,268 9,178
+Finance costs 29 (5,068) (7,985)
+Other non-operating income (expenses) 30 331 –
+Profit before taxes 103,712 109,497
+Income tax expenses 16 10,674 (24,101)
+Profit for the year 114,387 85,395
+Attributable to:
+Owners of the Company 112,492 82,492
+Non-controlling interests 1,895 2,903
+Earnings per share:
+Basic earnings per share (Yen) 32 207.60 152.24
+Diluted earnings per share (Yen) 32 206.99 151.26
+－5－(iii) Consolidated Statement of Comprehensive Income
+(Millions of yen)
+FY2017 FY2018
+Note (From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Profit for the year 114,387 85,395
+Other comprehensive income
+Components that will not be reclassified to profit or loss
+Remeasurements of defined benefit plans 31 1,930 (2,516)
+Financial assets measured at fair value through other
+31 17,021 (11,582)
+comprehensive income
+Share of other comprehensive income of associates 15, 31 523 (652)
+Subtotal 19,475 (14,751)
+Components that may be reclassified to profit or loss
+Foreign currency translation reserve 31 (4,458) (26,289)
+Cash flow hedges 31 (14) 9
+Share of other comprehensive income of associates 15, 31 8,445 (7,486)
+Subtotal 3,972 (33,766)
+Total other comprehensive income 23,448 (48,518)
+Comprehensive income 137,835 36,877
+Attributable to:
+Owners of the Company 135,272 35,363
+Non-controlling interests 2,563 1,513
+Comprehensive income 137,835 36,877
+－6－(iv) Consolidated Statement of Changes in Equity
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Millions of yen)
+Equity attributable to owners of the Company
+Other components of equity
+Financial
+assets
+Remeasure- measured at
+Capital Treasury Retained ments of fair value
+Note Share capital
+surplus shares earnings defined through
+benefit plans other
+comprehen-
+sive income
+Balance as of January 1, 2017 81,690 503,979 (47,264) 1,209,139 – 22,358
+Profit for the year – – – 112,492 – –
+Other comprehensive income – – – – 2,121 17,389
+Comprehensive income – – – 112,492 2,121 17,389
+Purchase of treasury shares – – (2) – – –
+Dividends 24 – – – (54,184) – –
+Share-based payment
+– 235 – – – –
+transactions
+Changes in ownership
+interests in subsidiaries that – 1,405 – – – –
+do not result in loss of control
+Transfer from other
+components of equity to – – – (1,046) (2,121) 3,167
+retained earnings
+Total transactions with owners, etc. – 1,641 (2) (55,231) (2,121) 3,167
+Balance as of December 31, 2017 81,690 505,620 (47,267) 1,266,399 – 42,915
+Equity attributable to owners of the Company
+Other components of equity
+Foreign
+Non-
+currency Cash flow
+Note Total Total controlling Total equity
+translation hedges
+interests
+reserve
+Balance as of January 1, 2017 (59,377) 6 (37,012) 1,710,531 27,910 1,738,441
+Profit for the year – – – 112,492 1,895 114,387
+Other comprehensive income 3,283 (14) 22,780 22,780 668 23,448
+Comprehensive income 3,283 (14) 22,780 135,272 2,563 137,835
+Purchase of treasury shares – – – (2) – (2)
+Dividends 24 – – – (54,184) (645) (54,830)
+Share-based payment
+– – – 235 – 235
+transactions
+Changes in ownership
+interests in subsidiaries that 21 – 21 1,426 (1,156) 270
+do not result in loss of control
+Transfer from other
+components of equity to – – 1,046 – – –
+retained earnings
+Total transactions with owners, etc. 21 – 1,067 (52,524) (1,802) (54,327)
+Balance as of December 31, 2017 (56,072) (8) (13,165) 1,793,278 28,671 1,821,950
+－7－FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Equity attributable to owners of the Company
+Other components of equity
+Financial
+assets
+Remeasure- measured at
+Capital Treasury Retained ments of fair value
+Note Share capital
+surplus shares earnings defined through
+benefit plans other
+comprehen-
+sive income
+Balance as of January 1, 2018 81,690 505,620 (47,267) 1,266,399 – 42,915
+Changes in accounting policies – – – (70,242) – –
+Restated balance 81,690 505,620 (47,267) 1,196,157 – 42,915
+Profit for the year – – – 82,492 – –
+Other comprehensive income – – – – (2,725) (11,950)
+Comprehensive income – – – 82,492 (2,725) (11,950)
+Purchase of treasury shares – – (1) – – –
+Dividends 24 – – – (54,184) – –
+Share-based payment
+– (22) – – – –
+transactions
+Changes in ownership
+interests in subsidiaries that – 296 – – – –
+do not result in loss of control
+Disposal of subsidiaries – – – – – –
+Transfer from other
+components of equity to – – – 4,895 2,725 (7,621)
+retained earnings
+Total transactions with owners, etc. – 274 (1) (49,289) 2,725 (7,621)
+Balance as of December 31, 2018 81,690 505,894 (47,268) 1,229,360 – 23,344
+Equity attributable to owners of the Company
+Other components of equity
+Foreign
+Non-
+currency Cash flow
+Note Total Total controlling Total equity
+translation hedges
+interests
+reserve
+Balance as of January 1, 2018 (56,072) (8) (13,165) 1,793,278 28,671 1,821,950
+Changes in accounting policies – – – (70,242) – (70,242)
+Restated balance (56,072) (8) (13,165) 1,723,036 28,671 1,751,707
+Profit for the year – – – 82,492 2,903 85,395
+Other comprehensive income (32,461) 9 (47,128) (47,128) (1,389) (48,518)
+Comprehensive income (32,461) 9 (47,128) 35,363 1,513 36,877
+Purchase of treasury shares – – – (1) – (1)
+Dividends 24 – – – (54,184) (1,111) (55,295)
+Share-based payment
+– – – (22) – (22)
+transactions
+Changes in ownership
+interests in subsidiaries that 12 – 12 309 (805) (496)
+do not result in loss of control
+Disposal of subsidiaries – – – – (501) (501)
+Transfer from other
+components of equity to – – (4,895) – – –
+retained earnings
+Total transactions with owners, etc. 12 – (4,883) (53,900) (2,418) (56,318)
+Balance as of December 31, 2018 (88,521) 0 (65,177) 1,704,499 27,766 1,732,266
+－8－(v) Consolidated Statement of Cash Flows
+(Millions of yen)
+FY2017 FY2018
+Note (From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Cash flows from operating activities
+Profit before taxes 103,712 109,497
+Depreciation and amortization expenses 62,235 59,275
+Impairment loss and reversal of impairment loss 28,847 34,742
+Share of loss (profit) of associates (19,307) (16,508)
+Finance income (4,268) (9,178)
+Finance costs 5,068 7,985
+Other non-operating (income) expenses (331) –
+Decrease (increase) in inventories (8,437) (17,374)
+Decrease (increase) in trade and other receivables (9,942) (20,468)
+Increase (decrease) in trade and other payables (5,790) 16,311
+Other (12,313) (6,546)
+Subtotal 139,473 157,735
+Interest and dividends received 10,177 10,642
+Interest paid (3,608) (2,967)
+Income taxes paid (43,210) (29,589)
+Net cash flows from (used in) operating activities 102,832 135,821
+Cash flows from investing activities
+Proceeds from sales of property, plant and equipment 538 469
+Payments for acquisition of property, plant and equipment (54,153) (57,075)
+Payments for acquisition of intangible assets (23,388) (16,533)
+Proceeds from sales and redemption of investments 74,409 33,846
+Payments for acquisition of investments (48,416) (32,136)
+Payments for acquisition of subsidiaries 39 (47,100) (68,101)
+Decrease (increase) in time deposits 59,679 47,287
+Other (1,640) (1,097)
+Net cash flows from (used in) investing activities (40,072) (93,341)
+Cash flows from financing activities
+Purchase of treasury shares (2) (1)
+Increase (decrease) in current borrowings 40 (17,976) 4,013
+Proceeds from non-current borrowings 40 25,497 6,544
+Repayments of non-current borrowings 40 (40,037) (41,755)
+Dividends paid (54,861) (55,295)
+Other 40 (7,155) (2,703)
+Net cash flows from (used in) financing activities (94,537) (89,198)
+Increase (decrease) in cash and cash equivalents (31,777) (46,718)
+Cash and cash equivalents at beginning of period 369,875 336,613
+Effect of exchange rate changes on cash and cash equivalents (1,484) (4,871)
+Cash and cash equivalents at end of period 336,613 285,022
+－9－Notes to Consolidated Financial Statements
+1. Reporting Entity
+Otsuka Holdings Company Limited (hereinafter referred to as the “Company”) is a company incorporated in
+Japan. The addresses of its registered head office and principal business offices are disclosed on the
+Company’s website (URL https://www.otsuka.com/en/). The consolidated financial statements of the
+Company, which were prepared with the end of the fiscal year on December 31, 2018, comprise the Company
+and its subsidiaries (hereinafter collectively referred to as the “Group”) and interests in its associates.
+The details of businesses and principal business activities of the Group are stated in “5. Operating Segments.”
+2. Basis of Preparation
+(1) Compliance with IFRS
+Pursuant to the provision of Article 93 of the Ordinance on Consolidated Financial Statements, the
+consolidated financial statements of the Company have been prepared in compliance with IFRS since the
+Company qualifies as a “Specified Company under Designated International Accounting Standards”
+prescribed in Article 1-2 of the Ordinance.
+The Company’s consolidated financial statements for the fiscal year ended December 31, 2018 were
+approved on March 27, 2019 by Tatsuo Higuchi, President and Representative Director, and Yuko Makino,
+Executive Director in charge of Corporate Finance.
+(2) Basis of measurement
+The consolidated financial statements have been prepared on a historical cost basis except for financial
+instruments, etc. measured at fair value.
+(3) Functional currency and presentation currency
+The consolidated financial statements are presented in Japanese yen, which is the Company’s functional
+currency, and figures are rounded down to the nearest million yen.
+(4) Changes in accounting policies
+The Group has adopted the following standards from the current fiscal year.
+IFRS Description of new standards, interpretations and amendments
+Revenue from Contracts with
+IFRS 15 Amendment concerning accounting treatment for revenue recognition
+Customers
+Starting from the current fiscal year, the Group adopted IFRS 15, “Revenue from Contracts with Customers”
+(issued in May 2014), and “Clarifications to IFRS 15” (issued in April 2016) (together, hereinafter “IFRS
+15”).
+In accordance with the transitional measures under IFRS 15, the Group adopts the method where IFRS 15
+is applied retrospectively to contracts that have not been completed as of the initial application date
+(January 1, 2018), and the cumulative effect is recognized as an adjustment to the opening balance of
+retained earnings of the current fiscal year.
+In accordance with IFRS 15, except for interests and dividend income stipulated by IFRS 9, “Financial
+Instruments,” revenue is recognized based on the following five-step model.
+Step 1: Identify the contract with a customer
+Step 2: Identify the performance obligations in the contract
+Step 3: Determine the transaction price
+Step 4: Allocate the transaction price to the performance obligations in the contract
+Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation
+The details of the accounting policy for revenue are stated in “3. Significant Accounting Policies (17)
+Revenue.”
+Based on the above five-step model, as a result of reviewing the time of revenue recognition for license
+income (up-front income, etc.) in accordance with fulfillment of performance obligations under license
+agreements, in some contracts, license income which was already recognized based on the former
+－10－accounting standards was accounted for as contract liabilities, and related license income is recognized
+over a period in accordance with the method of measuring progress towards complete satisfaction of
+performance obligations determined by each contract based on IFRS 15. Furthermore, as a result of review
+of consideration payable to a customer, the portion of sales promotion and other expenses that is
+consideration paid by the Group to customers, which had previously been accounted for as selling, general
+and administrative expenses, is accounted for as reductions of revenue from the current fiscal year.
+In addition, with the application of IFRS 15, the portion of advances and deferred income, which had
+previously been included in other current liabilities, and long-term deferred income, which had previously
+been included in other non-current liabilities, are presented as contract liabilities from the current fiscal
+year.
+As a result, compared with the application of the former accounting standards, as of the beginning of the
+current fiscal year, mainly, retained earnings and deferred tax liabilities decreased by ¥70,242 million and
+¥17,108 million, respectively, while deferred tax assets and contract liabilities in current liabilities and non-
+current liabilities increased by ¥13,751 million, ¥11,170 million and ¥92,711 million, respectively.
+In the consolidated statement of income, as a result of a change in accounting policy, revenue and selling,
+general and administrative expenses decreased by ¥2,801 million and ¥8,004 million, respectively, and cost
+of sales increased by ¥212 million. Both operating profit and profit before taxes increased by ¥4,989
+million, and profit for the year increased by ¥3,464 million.
+In the consolidated statement of financial position, as a result of a change in accounting policy, deferred tax
+assets and contract liabilities in current liabilities and non-current liabilities increased by ¥21,480 million,
+¥10,809 million and ¥87,245 million, respectively, while retained earnings and deferred tax liabilities
+decreased by ¥66,778 million and ¥7,853 million, respectively.
+(5) New standards not yet adopted
+Major standards and interpretations newly established or amended that have not been early adopted by the
+Group are as follows.
+Mandatory adoption
+To be adopted by the Description of new standards,
+IFRS (From the fiscal year
+Group interpretations and amendments
+beginning on or after)
+Fiscal year ending Amendment concerning accounting
+IFRS 16 Leases January 1, 2019
+December 31, 2019
+treatment for leases
+(IFRS 16 “Leases”)
+In accordance with the transitional measures under IFRS 16 (hereinafter referred to as the “Standard”), the
+Group adopts the method where the cumulative effect of the initial application of the Standard is
+recognized on the initial application date (January 1, 2019), and recognizes lease liabilities for leases
+previously classified as operating leases under IAS 17 “Leases” (hereinafter referred to as “IAS 17”).
+As a result of examining operating lease contracts in accordance with the Standard, the Group expects that
+right-of-use assets and lease liabilities on the initial application date will increase approximately ¥60.0
+billion each. In addition, operating lease payments that were expensed in the consolidated statement of
+income as incurred will be recorded as depreciation expense for right-of-use assets and interest cost for
+lease liabilities, and reclassified from a reduction in cash flows from operating activities to a reduction in
+cash flows from financing activities in the consolidated statement of cash flows.
+In each of the condensed interim consolidated financial statements and the consolidated financial
+statements for the fiscal year from January 1, 2019 to December 31, 2019, the explanation of the difference
+between the contractual arrangement for operating leases disclosed under IAS 17 and lease liabilities
+recognized under the Standard will be provided.
+－11－3. Significant Accounting Policies
+(1) Basis of consolidation
+(i) Subsidiaries
+Subsidiaries are entities that are controlled by the Group. The Group controls an investee when the Group
+has power over the investee, is exposed or has rights to variable returns arising from the Group’s
+involvement in the investee and has an ability to affect those returns through its power over the investee.
+The financial statements of subsidiaries are included in the consolidated financial statements from the
+date that the Group gains control until the date that control is lost.
+If any accounting policies applied by a subsidiary differ from those applied by the Group, adjustments
+are made to the subsidiary’s financial statements where needed. The balances of payables and receivables
+and internal transactions within the group companies as well as unrealized gains or losses arising from
+internal transactions are offset in preparing the consolidated financial statements.
+When the ownership interest in a subsidiary is partially disposed of, the transaction is accounted for as an
+equity transaction if the Group retains control over the subsidiary. Any difference between the amount of
+adjustment to the non-controlling interests and the fair value of the consideration paid or received is
+recognized directly in equity attributable to owners of the Company.
+If the Group loses control over the subsidiary, gains or losses derived from such loss are recognized as
+profit or loss.
+(ii) Associates
+Associates are entities over which the Group has significant influence in terms of financial and operating
+policies but which the Group does not control or jointly control. The Group is presumed to have
+significant influence over another entity when it holds at least 20% but 50% or less of the voting rights of
+the entity.
+Investments in associates are recognized at cost at the time of acquisition and subsequently accounted for
+using the equity method. Goodwill recognized on acquisition is included in investments in associates.
+Because such goodwill is not separately recognized, it is not tested for impairment separately. Instead,
+the entire amount of the investments in associates is tested for impairment as a single asset whenever
+objective evidence indicates that the investments in associates may be impaired.
+If any accounting policies applied by an associate differ from those applied by the Group, adjustments
+are made to the associate’s financial statements where needed. When the Group has retained interests
+after losing significant influence, these interests are measured at fair value and any difference between
+the fair value and the carrying amount of the investment as of the date on which the equity method was
+discontinued is recognized as profit or loss.
+(2) Business combinations
+Business combinations are accounted for using the acquisition method.
+Goodwill is measured as the excess of the aggregate of the consideration transferred, the amount of non-
+controlling interests in the acquiree and the acquisition-date fair value of the acquirer’s previously held
+equity interest in the acquiree over the net of the acquisition-date amounts of the identifiable assets
+acquired and the liabilities assumed. In case the identifiable net asset exceeds the aggregate of the
+consideration and others, such excess is immediately recognized in profit or loss.
+The consideration transferred is calculated as the sum of the acquisition-date fair values of the assets
+transferred by the acquirer, the liabilities incurred by the acquirer to former owners of the acquiree and the
+equity interests issued by the acquirer. The consideration transferred includes any assets or liabilities
+resulting from a contingent consideration arrangement. The amount of non-controlling interests in the
+acquiree is measured for each business combination either at fair value or as the present ownership
+instruments’ proportionate share in the recognized amounts of the acquiree’s identifiable net assets.
+Identifiable assets acquired and liabilities assumed at the acquisition date are measured at their fair values
+as of the acquisition date, except for limited exceptions based on the requirements of IFRS 3 “Business
+Combinations.”
+Transaction costs incurred in relation to business combinations are recognized as expenses when they are
+incurred.
+If the initial accounting for business combinations is incomplete by the end of the fiscal year in which the
+business combinations occur, the Group reports provisional amounts for the items for which the accounting
+is incomplete. Those provisional amounts recognized at the acquisition date are retrospectively adjusted to
+reflect new information obtained during the measurement period about facts and circumstances that existed
+as of the acquisition date and, if known at the acquisition date, would have affected the measurement of the
+－12－amounts recognized. Additional assets or liabilities are recognized if new information is known to have
+resulted in the additional recognition of assets or liabilities. The measurement period does not exceed one
+year.
+(3) Foreign currency translation
+(i) Foreign currency transactions
+Foreign currency transactions are translated to the respective functional currencies of the group
+companies at exchange rates on the transaction dates or exchange rates which are close to the actual rate
+on the transaction dates. Foreign currency monetary assets and liabilities are translated to the functional
+currency at the closing rate. Foreign currency monetary assets and liabilities that are measured at fair
+value are translated into the functional currency using the exchange rate at the date of measurement.
+Translation differences arising from translations or settlements are recognized as profit or loss; provided,
+however, that translation differences arising from financial assets measured through other comprehensive
+income as well as from cash flow hedges are recognized as other comprehensive income.
+(ii) Foreign operations
+The assets and liabilities of foreign operations are translated into Japanese yen at the closing rate. The
+revenues and expenses of foreign operations are translated into Japanese yen at the average exchange rate
+for the reporting period. Translation differences arising from translation of financial statements of foreign
+operations are recognized as other comprehensive income. Foreign currency translation reserve is
+recognized as profit or loss for the period in which the foreign operations concerned are disposed.
+(4) Financial instruments
+(i) Financial assets
+i) Initial recognition and measurement
+Trade and other receivables are initially recognized on the date when they are incurred. All other
+financial assets are initially recognized on the contract date when the Group becomes a party to the
+contractual provisions of the financial instruments.
+At the initial recognition, all financial assets, except for those measured at fair value through profit or
+loss, are measured at fair value plus transaction costs that are directly attributable to the financial
+assets. Transaction costs of financial assets measured through profit or loss are recognized in profit or
+loss.
+At the initial recognition, financial assets are classified as (a) Financial assets measured at amortized
+cost, (b) Debt instruments measured at fair value through other comprehensive income, (c) Equity
+instruments measured at fair value through other comprehensive income or (d) Financial assets
+measured at fair value through profit or loss.
+(a) Financial assets measured at amortized cost
+Financial assets are classified as financial assets measured at amortized cost if both of the
+following conditions are met.
+ The financial asset is held within a business model whose objective is to hold financial
+assets in order to collect contractual cash flows.
+ The contractual terms of the financial asset give rise on specified dates to cash flows that
+are solely payments of principal and interest on the principal amount outstanding.
+(b) Debt instruments measured at fair value through other comprehensive income
+Financial assets are classified as debt instruments measured at fair value through other
+comprehensive income if both of the following conditions are met.
+ The financial asset is held within a business model whose objective is achieved by both
+collecting contractual cash flows and selling financial assets.
+ The contractual terms of the financial asset give rise on specified dates to cash flows that
+are solely payments of principal and interest on the principal amount outstanding.
+(c) Equity instruments measured at fair value through other comprehensive income
+For investments in some equity instruments, the Group has chosen an irrevocable option to
+present subsequent changes in the fair value of investments that are neither held for trading nor
+contingent consideration recognized by an acquirer in a business combination to which IFRS 3
+Business Combinations applies in other comprehensive income, and classifies such
+investments as equity instruments measured at fair value through other comprehensive income.
+－13－(d) Financial assets measured at fair value through profit or loss
+Financial assets, except for financial assets measured at amortized cost, debt instruments
+measured at fair value through other comprehensive income, and equity instruments measured
+at fair value through other comprehensive income stated above, are classified as financial
+assets measured at fair value through profit or loss.
+ii) Subsequent measurement
+After the initial recognition, financial assets are measured according to their classification as follows:
+(a) Financial assets measured at amortized cost
+Financial assets measured at amortized cost are measured at amortized cost using the effective
+interest method. Amortization using the effective interest method and gains or losses arising in
+the case of derecognition are recognized in profit or loss.
+(b) Equity instruments measured at fair value through other comprehensive income
+Equity instruments measured at fair value through other comprehensive income are measured
+at fair value. Any changes in fair value are recognized in other comprehensive income. When
+such financial assets are derecognized, the accumulated other comprehensive income is
+transferred to retained earnings. Meanwhile, dividends from such financial assets are
+recognized as profit or loss.
+(c) Financial assets measured at fair value through profit or loss
+Financial assets measured at fair value through profit or loss are measured at fair value, and
+any changes in fair value are recognized in profit or loss.
+iii) Impairment
+With respect to impairment of financial assets measured at amortized cost, the Group recognizes an
+allowance for expected credit losses on such financial assets.
+At the end of each fiscal year, the Group evaluates whether the credit risk on financial instruments has
+increased significantly since the initial recognition.
+If credit risk on a financial instrument has not increased significantly since the initial recognition, the
+allowance for such financial instrument is measured at an amount equal to the 12-month expected
+credit losses. If credit risk on a financial instrument has increased significantly since the initial
+recognition, the allowance for such financial instrument is measured at an amount equal to the
+lifetime expected credit losses.
+The Group considers, as a general rule, that there has been a significant increase in credit risk when
+payments have not been made and more than 30 days have passed since the contractual due date. The
+assessment of whether or not credit risk has increased significantly takes into account information that
+is reasonably available to the Group and supportable as well as past due information.
+When the credit risk on a financial asset is considered low at the end of the fiscal year, the Group
+determines that the credit risk on the financial asset has not increased significantly since initial
+recognition.
+However, with regards to trade receivables, etc., that do not contain a significant financing component,
+the allowance is always measured at an amount equal to the lifetime expected credit losses, regardless
+of whether or not there has been a significant increase in credit risk since initial recognition.
+Expected credit losses of a financial instrument are measured in a way that reflects the following
+items:
+ Unbiased and probability-weighted amount that is determined by evaluating a range of possible
+outcomes;
+ Time value of money; and
+ Reasonable and supportable information that is available without undue cost or effort at the
+reporting date about past events, current conditions and forecasts of future economic conditions.
+The amounts of these measurements are recognized in profit or loss. The amount of expected credit
+losses (or reversal) required to adjust the loss allowance at the end of the fiscal year to the amount
+that is required to be recognized is recognized in profit or loss, as impairment gains or impairment
+losses.
+iv) Derecognition
+The Group derecognizes financial assets only when the contractual rights to the cash flows from the
+financial assets expire, or when the Group transfers financial assets and substantially all the risks and
+rewards of ownership of the financial assets.
+－14－(ii) Financial liabilities
+i) Initial recognition and measurement
+Bonds and borrowings are initially recognized on the date when they are issued or incurred. All other
+financial liabilities are initially recognized on the contract date when the Group becomes a party to
+the contractual provisions of the financial instruments.
+At the initial recognition, financial liabilities are classified as (a) financial liabilities measured at
+amortized cost and (b) financial liabilities measured at fair value through profit or loss.
+At the initial recognition, financial liabilities measured at amortized cost are measured at fair value
+net of transaction costs that are directly attributable to the financial liability. Transaction costs of
+financial liabilities measured at fair value through profit or loss are recognized in profit or loss.
+ii) Subsequent measurement
+After the initial recognition, financial liabilities are measured according to their classification as
+follows:
+(a) Financial liabilities measured at amortized cost
+Financial liabilities measured at amortized cost are measured at amortized cost using the
+effective interest method. Amortization using the effective interest method and gains or losses
+arising in the case of derecognition are recognized in profit or loss.
+(b) Financial liabilities measured at fair value through profit or loss
+Financial liabilities measured at fair value through profit or loss are measured at fair value, and
+any changes in fair value are recognized in profit or loss.
+iii) Derecognition
+The Group derecognizes the financial liability when a financial liability is extinguished, that is, the
+obligations specified in a contract are discharged, cancelled or expired.
+(iii) Offsetting of financial assets and financial liabilities
+Financial assets and financial liabilities are offset and the net amount is presented only when the Group
+currently has a legally enforceable right to set off the recognized amount and intends either to settle on a
+net basis or realize the assets and settle the liabilities simultaneously.
+(iv) Derivatives and hedge accounting
+Derivatives are initially recognized at fair value. After the initial recognition, derivatives are measured at
+fair value.
+The Group utilizes forward foreign exchange contracts, currency swap agreements, currency option
+transactions, interest rate swap agreements and other derivatives to hedge foreign currency risk and
+interest rate risk.
+At the inception of a hedging relationship, the Group formally designates and documents the hedging
+relationship and the risk management objective and strategy for undertaking the hedge. The
+documentation includes identification of the hedging instrument, the hedged item, the nature of the risk
+being hedged, and the methods of assessing whether the hedging relationship meets the hedge
+effectiveness requirements. In addition, the Group assesses whether the hedging relationship meets the
+hedge effectiveness requirements, both at the inception and on an ongoing basis. Ongoing assessments
+are performed at each reporting date or upon a significant change in the circumstances affecting the
+hedge effectiveness requirements, whichever comes first.
+The Group applies hedge accounting to cash flow hedges which meet the criteria for hedge accounting
+and such hedges are accounted for as follows:
+The portions of the gain or loss on the hedging instrument that are determined to be effective hedges are
+recognized in other comprehensive income, while the remaining ineffective portions are recognized in
+profit or loss. The amounts associated with the hedging instruments recognized in other comprehensive
+income are reclassified to profit or loss when the hedged transactions affect profit or loss. However, in
+cases where the hedged forecast transaction subsequently results in the recognition of a non-financial
+asset or liability, the amount recognized in other comprehensive income is accounted for as an
+adjustment to the initial carrying amount of the non-financial asset or liability.
+When the hedging relationship ceases to meet the qualifying criteria, or the hedging instrument expires or
+is sold, terminated or exercised, the application of hedge accounting is discontinued prospectively. When
+forecast transactions or firm commitments are no longer expected to occur, any related cumulative gains
+or losses that have been recognized in equity through other comprehensive income are reclassified to
+profit or loss.
+－15－The Group does not undertake any fair value hedges or any hedges of net investment in foreign
+operations.
+(5) Cash and cash equivalents
+Cash and cash equivalents consist of cash on hand, demand deposits, and short-term investments with
+repayment terms of three months or less from the date of acquisition that are readily convertible to cash and
+subject to an insignificant risk of changes in value.
+(6) Inventories
+Inventories are measured at the lower of cost or net realizable value. Net realizable value is the estimated
+selling price in the ordinary course of business less the estimated costs of completion and the estimated
+costs necessary to make the sale. The cost of inventories is determined mainly by using the weighted-
+average cost formula. The cost of inventories comprises all costs of purchase, costs of conversion and other
+costs incurred in bringing the inventories to the present location and condition.
+(7) Property, plant and equipment
+The cost model is applied in measurement of property, plant and equipment. Property, plant and equipment
+are carried at cost less any accumulated depreciation and any accumulated impairment losses.
+The cost of property, plant and equipment includes cost directly incidental to the acquisition of assets, the
+initial estimated costs of dismantling and removing the assets and restoration costs.
+Depreciation expense for assets except for land and construction in progress is recognized mainly by the
+straight-line method over the respective estimated useful lives. The estimated useful lives of major asset
+items are as follows:
+ Buildings and structures: 2 to 65 years
+ Machinery and vehicles: 2 to 58 years
+ Tools, furniture and fixtures: 2 to 30 years
+The estimated useful lives, residual values and depreciation methods of assets are reviewed at the end of
+each fiscal year, and any changes are applied prospectively as a change in an accounting estimate.
+(8) Goodwill
+Measurement of goodwill at the initial recognition is stated in “(2) Business combinations.” After the
+initial recognition, the amount is recorded at its cost less any accumulated impairment losses.
+Goodwill is allocated to each of the cash-generating units or groups of cash-generating units (hereinafter
+referred to as the “Cash-Generating Units”) that is expected to benefit from the synergies of the business
+combination. Cash-Generating Units to which goodwill has been allocated are tested for impairment
+annually and whenever there is an indication that the unit may be impaired. If the recoverable amount of
+Cash-Generating Units is less than their carrying amounts, an impairment loss is recognized in profit or
+loss. With regard to allocation of impairment losses recognized in association with Cash-Generating Units,
+first the carrying amount of goodwill that has been allocated to the unit is reduced, and then the remaining
+amount of impairment loss is allocated to other assets of the unit pro rata on the basis of the carrying
+amount of each asset in the unit. For impairment losses recognized on goodwill, no reversal is made in
+subsequent periods.
+(9) Intangible assets
+The cost model is applied in measurement of intangible assets. Intangible assets are carried at cost less any
+accumulated amortization and any accumulated impairment losses.
+Separately acquired intangible assets are measured at cost at the time of the initial recognition.
+Intangible assets acquired in business combinations are measured at fair value at the acquisition date.
+Internally generated intangible assets, other than development expenses that meet the requirements for
+capitalization, are recognized as an expense when incurred.
+Amortization expense on each intangible asset with a finite useful life is recognized by the straight-line
+method over its estimated useful life. The estimated useful lives of major intangible assets are as follows:
+ Patents: 5 to 10 years
+ Trademarks, distribution rights and others: 3 to 16 years
+ Software: 2 to 10 years
+The estimated useful lives, residual values and amortization methods are reviewed at the end of each fiscal
+year, and any changes are applied prospectively as a change in an accounting estimate.
+－16－Intangible assets with indefinite useful lives consist mainly of brands and trademarks acquired separately or
+in business combinations, and are included in intangible assets as trademarks, distribution rights and others.
+Intangible assets with indefinite useful lives are reviewed at the end of each fiscal year to determine
+whether the indefinite useful life assessment remains appropriate. If it is no longer appropriate, the change
+in the useful life assessment from indefinite to finite is accounted for as a change in an accounting estimate.
+In-process research and development acquired separately or in business combinations are included in
+intangible assets as in-process research and development. Because these assets are intangible assets that are
+not yet available for use, they are not amortized and are tested for impairment. An asset in “in-process
+research and development” is transferred to trademarks, distribution rights and others when the asset
+becomes available for use by obtaining permits and approvals from regulatory authorities in a subsequent
+period, and begins to be amortized by the straight-line method over the estimated useful life from that time.
+(10) Leases
+Lease transactions in which substantially all the risks and rewards incidental to ownership are transferred to
+the Group are classified as finance leases. All other lease transactions are classified as operating leases.
+With regards to finance leases, the Group initially recognizes lease assets and liabilities at the fair value of
+the leased property or, if lower, the present value of the minimum lease payments, each determined at the
+inception of the lease.
+Leased assets are depreciated using the straight-line method over their estimated useful lives or lease terms,
+whichever is shorter. Lease payments are apportioned between the finance costs and the repayments of the
+lease obligations. Finance costs are allocated to each period during the lease term so as to produce a
+constant periodic rate of interest on the remaining balance of the liability.
+Lease payments under operating leases are recognized as expenses using the straight-line method over the
+lease term.
+(11) Impairment of property, plant and equipment and intangible assets
+The Group assesses whether there is any indication of impairment at the end of each fiscal year for property,
+plant and equipment and intangible assets. If any such indication exists, the recoverable amount of the asset
+is estimated. When it is not possible to estimate the recoverable amount of an individual asset, the Group
+estimates the recoverable amount of the cash-generating unit to which the asset belongs. A cash-generating
+unit is the smallest identifiable group of assets that generates cash inflows that are largely independent of
+the cash inflows from other assets or groups of assets. For the intangible assets with indefinite useful lives,
+or those not yet available for use, the recoverable amounts are estimated at the end of each fiscal year,
+regardless of whether there is any indication of impairment.
+The recoverable amount of an individual asset or a cash-generating unit is measured at the higher of its fair
+value less cost of disposal or its value in use. The value in use is calculated by discounting the estimated
+future cash flows to the present value using a pre-tax discount rate that reflects the time value of money
+and the risks specific to the asset.
+The corporate assets do not independently generate cash inflows. When there is an indication of
+impairment of the corporate assets, the recoverable amount of the cash-generating unit to which the
+corporate assets belong is calculated.
+An impairment loss is recognized in profit or loss when the carrying amount of the asset or cash-generating
+unit exceeds the recoverable amount.
+For an impairment loss recognized in prior periods, the Group assesses whether there is any indication of a
+decrease or disappearance of the impairment loss at the end of each fiscal year. If there is any indication of
+reversal of impairment loss, the recoverable amounts of assets or cash-generating units are estimated. In
+cases in which the recoverable amount exceeds the carrying amount of the asset or cash-generating unit,
+the impairment loss is reversed up to the lower of the recoverable amount or the carrying amount less any
+depreciation and amortization costs that would have been determined had no impairment loss been
+recognized.
+(12) Assets held for sale
+Assets or groups of assets expected to be recovered not by continuous use but by sale are classified as non-
+current assets or disposal groups held for sale when they are quite likely to be sold within one year, they are
+available for immediate sale in its present condition, and management of the Group is committed to such
+sale. In such case, non-current assets are neither depreciated nor amortized, and are measured at carrying
+amount or fair value less cost of sales, whichever is lower.
+－17－(13) Post-employment benefits
+The Group’s post-employment benefit plans for its employees include defined benefit plans and defined
+contribution plans.
+The Group uses the projected unit credit method to determine the present value of the defined benefit
+obligations, the related current service cost and the past service cost.
+The discount rate is determined based on market yields on high quality corporate bonds at the end of the
+fiscal year that are consistent with the discount period, which is set for the projected period until the
+expected date of benefit payment in each fiscal year.
+Net defined benefit liabilities or assets are calculated by deducting the fair value of the plan assets from the
+present value of the defined benefit obligations. If the defined benefit plan has surplus, the defined benefit
+asset is limited to the asset ceiling that is the present value of any future economic benefits available in the
+form of reductions in the future contributions to the plan or cash refunds.
+Service costs and net interest on the net defined benefit liabilities (assets) are recognized in profit or loss.
+The remeasured amount of a defined benefit plan is recognized at once in other comprehensive income
+when it occurs, and immediately transferred to retained earnings.
+Contributions to the defined contribution retirement benefits are recognized as expenses when employees
+have rendered service.
+(14) Provisions
+Provisions are recognized when there are present legal or constructive obligations as a result of past events,
+it is probable that outflows of resources embodying economic benefits will be required to settle the
+obligations, and reliable estimates can be made of the amount of obligations.
+The amount recognized as provisions is the best estimate taking into account the risks and uncertainties of
+the expenditure required to settle the present obligations on the reporting date. When the time value of
+money is material, the amount of provision is measured at the present value of the expenditures expected to
+be required to settle the obligation.
+(15) Treasury shares
+Treasury shares are measured at acquisition cost and deducted from equity. No gain or loss is recognized
+associated with the purchase, sale or retirement of treasury shares of the Company. Any difference between
+the carrying amount and the consideration received from the sale is recognized as capital surplus.
+(16) Share-based payments
+(i) Equity-settled share-based payment plan
+The Group has adopted a stock option plan accounted for as an equity-settled share-based payment plan.
+Stock options are measured at fair value at the grant date and recognized as expenses over the vesting
+periods with corresponding increases to equity, taking into account the estimated number of options to be
+vested. The fair value of stock options granted is measured using the Black-Scholes model at the grant
+date.
+(ii) Cash-settled share-based payment plan
+The Group has adopted equity-linked compensation entitlements as a cash-settled share-based payment
+plan.
+For the cash-settled share-based payments, the fair value of payments is recognized as a liability, and any
+changes in the fair value of the liability are recognized as profit or loss until the liability is settled.
+(17) Revenue
+(i) Sales of products
+For sales of products, the performance obligation is judged to have been satisfied and revenue is
+therefore recognized upon delivery of the products because legal title, physical possession, significant
+risks and rewards of ownership of the products are transferred to customer upon delivery, and the
+customer obtains control over the products.
+Products may be sold with rebate for the achievement of sales volume and amount. In such a case,
+transaction price is recognized at the consideration promised in contract with a customer, less estimated
+rebates and other items. Rebates are measured by most likely amount method based on historical
+performance; revenue is recognized only to the extent that it is highly probable that significant reversal
+will not occur.
+－18－The consideration of sales is received primarily within one year from the time of delivery, and it does not
+include significant financing component.
+(ii) License and royalty income
+License income is up-front and milestone payments that the Group receives based on license agreements,
+etc., which the Group and a third party enter into for development and distribution right of development
+and finished products. Under license agreements, etc., if contractual obligations are fulfilled at a specific
+point in time, up-front payments are recognized as revenue once development and distribution rights are
+granted. If contractual obligations are fulfilled over a period of time, such payments are recorded as
+contract liabilities and recognized as revenue over a period (estimated contract term, etc.) in accordance
+with the method of measuring progress towards complete satisfaction of performance obligations, such as
+those related to development cooperation, determined by each contract. Income from milestone payments
+received under license agreements is recognized as revenue from the point when the conditions are met
+to avoid future reversal of revenues.
+Royalty income is the income from license contracts, etc., calculated based on the sales, etc., of
+counterparties and its revenue is recognized at the later point of either the counterparty’s revenue
+recognition, etc., or satisfaction of performance obligations.
+License and royalty income is received primarily within one year from the time when the right to the
+amount is earned based on the contract, and it does not include material financing component.
+(18) Government grants
+Grant income is measured at fair value and recognized when there is reasonable assurance that the Group
+will comply with the conditions attached to the grants and that the grants will be received. Grants for
+revenue incurred are recorded as revenue in the fiscal year during which the expenses occurred. Grants for
+the assets are recorded as revenue regularly over the useful life of the asset, and unearned grant income is
+recorded as liability.
+(19) Finance income and finance costs
+Finance income principally consists of interest income, dividend income, gain on fair value valuation and
+foreign exchange gains. Interest income is recognized using the effective interest method when the income
+arises. Dividend income is recognized when the Group’s right to receive the dividend is established.
+Finance costs principally consist of interest expenses, loss on fair value valuation and foreign exchange
+losses.
+(20) Income taxes
+Income taxes consist of current taxes and deferred taxes. These taxes are recognized in profit or loss,
+except for those related to business combinations and items recognized directly in equity or other
+comprehensive income.
+Current taxes are measured at the amount of expected tax payment to or expected tax refund from tax
+authorities. The amount of taxes is computed in accordance with tax rates and tax laws that are in effect or
+substantially in effect by the end of the fiscal year in countries where the Group conducts business
+activities and earns taxable profits or losses.
+Deferred taxes are recognized for temporary differences between accounting carrying amounts of assets
+and liabilities at the reporting date and amounts of them for tax purposes, unused tax losses and unused tax
+credits.
+Deferred tax assets and liabilities are not recorded for the following temporary differences:
+ Temporary differences arising from goodwill
+ Temporary differences arising from initial recognition of assets and liabilities which occur through
+transactions that affect neither accounting profit nor taxable profit for tax purposes, except for business
+combinations
+ In cases where, for taxable temporary differences associated with investments in subsidiaries and
+associates, timing of reversal can be controlled and it is highly probable that such temporary differences
+are not reversed in a foreseeable period
+ In cases where, for deductible temporary differences associated with investments in subsidiaries and
+associates, it is highly probable that such temporary differences are not reversed to the extent
+foreseeable
+－19－Deferred tax liabilities are recognized, in principle, for all taxable temporary differences, while deferred tax
+assets are recognized for all deductible temporary differences to the extent that it is highly probable that
+taxable profits will be available against which the deductible temporary differences could be utilized.
+The carrying amount of deferred tax assets is reviewed in every period, and reduced by the amount of
+deferred tax assets for which taxable profit sufficient to use all or part of the deferred tax assets is unlikely
+to be earned. Unrecognized deferred tax assets are reassessed in every period and recognized to the extent
+that it is highly probable that deferred tax assets are realizable with future taxable profit.
+The Company and certain domestic subsidiaries have adopted the consolidated taxation system from the
+current fiscal year.
+Deferred tax assets and liabilities are calculated in accordance with tax rates and tax laws expected to be
+applied in the period in which the assets are realized or the liabilities are settled based on tax rates and tax
+laws that are in effect or substantially in effect at the end of the fiscal year.
+Deferred tax assets and liabilities are offset if the Group has a legally enforceable right to offset current tax
+assets against current tax liabilities, and they are related to income taxes levied by the same taxation
+authority on the same taxable entity.
+(21) Earnings per share
+Basic earnings per share are calculated by dividing profit or loss for the year attributable to ordinary equity
+holders of the Company, by the weighted average number of ordinary shares issued during the period that
+is adjusted by the number of treasury shares. Diluted earnings per share are calculated reflecting the
+adjustment of the impact from all diluted shares with dilutive effect.
+4. Significant Accounting Estimates and Judgments
+In preparing IFRS-compliant consolidated financial statements, the management is required to make
+judgments, estimates and assumptions that may affect the application of accounting policies and the reported
+amounts of assets, liabilities, revenue and expenses. Actual results may differ from these estimates.
+Such estimates and underlying assumptions are reviewed on an ongoing basis. The effects of the review of
+accounting estimates are recognized in the accounting period in which the review was conducted and future
+accounting periods.
+Of items for which the management made estimates and judgments, those that have significant effects on the
+amounts recognized in the consolidated financial statements are as follows:
+ Useful lives of property, plant and equipment and intangible assets (items (7) and (9) of “3. Significant
+Accounting Policies,” “12. Property, Plant and Equipment” and “13. Goodwill and Intangible Assets”)
+ Impairment of property, plant and equipment, goodwill and intangible assets (items (8) and (11) of “3.
+Significant Accounting Policies” and “14. Impairment of Assets”)
+ Fair value measurement of the financial instruments (“34. Financial Instruments”)
+ Recoverability of deferred tax assets (“16. Income Taxes”)
+ Accounting and measurement of provisions (“22. Provisions”)
+ Measurements of defined benefit obligations (“23. Post-employment Benefits”)
+ Revenue recognition (item (17) of “3. Significant Accounting Policies” and “25. Revenue”)
+ Contingent liabilities (“42. Contingent Liabilities”)
+5. Operating Segments
+(1) Overview of reportable segments
+The Group’s reportable segments are the constituent units of the Group for which separate financial
+information is available and which are subject to periodic reviews by the Board of Directors in order to
+make decisions on allocation of business resources and to evaluate the business performances of the
+respective segments.
+As the Group’s holding company, the Company directs the Group’s strategic planning, monitors group
+operations and provides various services to its group companies. Business activities are conducted by the
+Group’s subsidiaries and associates.
+Centering on healthcare business, the Group operates activities inside and outside Japan relating to the
+following four reportable segments: “Pharmaceuticals,” “Nutraceuticals,” “Consumer products” and
+“Others” businesses. The Group defines the reportable segments as follows:
+“Pharmaceuticals” comprises manufacturing and sales of prescription drugs, intravenous solutions, and
+others. “Nutraceuticals” comprises manufacturing and sales of functional beverages, etc., over-the-counter
+drugs and nutritional supplements. “Consumer products” comprises manufacturing and sales of mineral
+－20－water, soft beverages and food products. “Others” encompasses logistics, warehousing, manufacturing and
+sales of chemical products, evaluation systems for LED displays and spectroanalysis devices.
+(2) Revenue and performances by reportable segment
+Revenue and performances by the Group’s reportable segment are as follows.
+Segment profit is based on operating profit.
+Intersegment revenue and transfers reflect reasonable prices for intersegment transfers based on market
+value.
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Millions of yen)
+Reportable segment
+Adjustments
+Consolidated
+(Note 1)
+Pharma- Nutra- Consumer
+Others Total
+ceuticals ceuticals products
+Revenue
+Revenue from external
+774,762 314,651 35,333 115,204 1,239,952 – 1,239,952
+customers
+Intersegment revenue or
+– 11,570 261 35,928 47,759 (47,759) –
+transfers
+Total 774,762 326,221 35,595 151,133 1,287,711 (47,759) 1,239,952
+Segment profit 82,694 39,169 11,115 9,743 142,722 (38,541) 104,181
+Other items
+Depreciation and
+41,139 10,859 1,124 5,475 58,598 3,637 62,235
+amortization expenses
+Share of profit of
+3,115 575 13,261 2,354 19,307 – 19,307
+associates
+Capital expenditures
+82,371 53,322 1,186 12,494 149,375 2,882 152,257
+(Note 2)
+－21－FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Reportable segment
+Adjustments
+Consolidated
+(Note 1)
+Pharma- Nutra- Consumer
+Others Total
+ceuticals ceuticals products
+Revenue
+Revenue from external
+817,110 338,585 33,651 102,634 1,291,981 – 1,291,981
+customers
+Intersegment revenue or
+– 372 156 38,614 39,144 (39,144) –
+transfers
+Total 817,110 338,957 33,807 141,249 1,331,125 (39,144) 1,291,981
+Segment profit 84,823 43,041 8,668 9,882 146,415 (38,111) 108,304
+Other items
+Depreciation and
+38,655 10,448 1,028 6,043 56,176 3,099 59,275
+amortization expenses
+Share of profit of
+2,883 506 11,351 1,774 16,516 (7) 16,508
+associates
+Capital expenditures
+166,872 11,789 1,939 9,546 190,147 3,635 193,782
+(Note 2)
+(Notes) 1. Details of adjustments are as follows.
+(i) Segment profit
+Details of adjustments to segment profit are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Intersegment eliminations 37 (49)
+Unallocated expenses* (39,229) (39,161)
+Other income 650 1,098
+Total (38,541) (38,111)
+*Unallocated expenses consist mainly of costs of the headquarters functions of the Company and certain subsidiaries.
+(ii) Other items
+Depreciation and amortization expenses
+Adjustments include depreciation and amortization expenses of property, plant and equipment and intangible
+assets as assets associated with headquarters functions of the Company and certain subsidiaries.
+(iii) Capital expenditures
+Adjustments include capital expenditures relating to assets associated with headquarters and research functions of the
+Company and certain subsidiaries.
+2. Capital expenditures represent the amount of increases in property, plant and equipment, goodwill and intangible assets.
+Application of IFRS 15 “Revenue from Contracts with Customers”
+Starting from the current fiscal year, the Group adopted IFRS 15, as stated in note “2. Basis of Preparation (4) Changes in
+accounting policies.” Because the cumulative effect of the initial application was recognized as an adjustment to the opening
+balance of retained earnings of FY2018 in accordance with the transitional measures, figures in FY2017 have not been
+restated (The same applies hereinafter for FY2017).
+－22－(3) Information about products and services
+Revenue from external customers by major product and service is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+(Pharmaceuticals)
+ABILIFY MAINTENA 70,942 87,978
+REXULTI 47,291 69,482
+Samsca 59,933 75,927
+ABILIFY 67,312 51,111
+Clinical nutrition 111,191 111,133
+(Nutraceuticals)
+Functional beverages, etc. (Note 1) 111,068 109,361
+Functional foods, etc. (Note 2) 76,939 75,563
+Supplements 95,262 96,080
+(Notes) 1. Functional beverages, etc. consist of POCARI SWEAT, Tiovita Drink, ORONAMIN C and FIBE-MINI.
+2. Functional foods, etc. consist of products of the Nutrition & Santé SAS Group, Calorie Mate and SOYJOY.
+(4) Information by geographical area
+Revenue from external customers
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Japan 638,650 645,521
+North America 318,191 347,091
+Others 283,109 299,367
+Total 1,239,952 1,291,981
+(Notes) 1. Revenue from external customers is classified based on the location of customers.
+2. Of the amounts for North America, revenue in the United States for FY2017 and FY2018 is ¥311,811 million and
+¥332,159 million, respectively.
+Non-current assets
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Japan 363,523 381,064
+North America 555,527 617,809
+Others 172,795 166,089
+Total 1,091,847 1,164,963
+(Notes) 1. Non-current assets are classified based on the location of assets.
+2. Non-current assets do not include investments in associates, other financial assets, deferred tax assets and net defined
+benefit assets.
+3. Goodwill included in non-current assets is classified based on the location of investees.
+4. Of the amounts for North America, non-current assets in the United States for FY2017 and FY2018 are ¥516,260 million
+and ¥581,569 million, respectively.
+－23－(5) Information about major customers
+Information is not presented because no revenue from transactions with a single external customer amounts
+to more than 10% of the Group’s revenue.
+6. Cash and Cash Equivalents
+The breakdown of cash and cash equivalents is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Cash and cash equivalents
+Cash and deposits with banks with deposit terms
+310,595 281,353
+within three months
+Short-term investments redeemable within three
+26,017 3,669
+months
+Total cash and cash equivalents 336,613 285,022
+7. Trade and Other Receivables
+The breakdown of trade and other receivables is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Trade accounts and notes receivable 357,121 368,888
+Accounts receivable - other 8,658 11,524
+Allowance for credit losses (1,859) (1,892)
+Total 363,920 378,520
+The amount of assets pledged as collateral for borrowings included in trade and other receivables is ¥262
+million in FY2017 and ¥255 million in FY2018.
+－24－8. Inventories
+The breakdown of inventories is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Merchandise and finished goods 79,886 88,733
+Work-in process 26,275 28,815
+Raw materials 35,841 36,697
+Supplies 2,534 2,881
+Total 144,538 157,128
+Of which, inventories scheduled to be sold after 12
+157 151
+months
+Cost of inventories that is recognized as expenses is ¥417,418 million in FY2017 and ¥435,283 million in
+FY2018.
+The amount of assets pledged as collateral for borrowings included in inventories is ¥372 million in FY2017
+and ¥353 million in FY2018.
+The amount of write-downs of inventories recognized as an expense is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Amount of write-downs 4,831 5,660
+－25－9. Other Financial Assets
+The breakdown of other financial assets is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Other financial assets
+Financial assets measured at amortized cost
+Time deposits 94,600 46,689
+Loans receivable 2,190 2,581
+Bonds 5,844 560
+Other 24,568 27,027
+Financial assets measured at fair value through profit or
+loss
+Loans receivable 2,424 –
+Derivative assets 9 1
+Other 2,089 2,397
+Financial assets measured at fair value through other
+comprehensive income
+Equity instruments 160,760 142,509
+Total 292,488 221,767
+Other financial assets (current) 116,383 66,614
+Other financial assets (non-current) 176,104 155,153
+10. Other Assets
+The breakdown of other assets is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Other assets
+Prepaid expenses 18,294 20,366
+Net defined benefit assets 4,484 2,827
+Other 24,969 22,084
+Total 47,748 45,278
+Total current assets
+37,542 36,573
+(Other current assets)
+Total non-current assets
+10,206 8,704
+(Other non-current assets)
+－26－11. Assets Held for Sale
+The breakdown of assets held for sale and liabilities directly associated with assets held for sale is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Assets held for sale
+Inventories 47 –
+Property, plant and equipment
+Buildings and structures 123 –
+Machinery and vehicles 6 16
+Tools, furniture and fixtures 3 –
+Land 309 –
+Total 490 16
+Liabilities directly associated with assets held for sale
+Net defined benefit liabilities 15 –
+Total 15 –
+Assets held for sale in FY2017 are insulation business of Higashiyama Film Co., Ltd., in the other business
+segment which was classified as assets held for sale because of the decision to sell this asset. The sale of this
+business was completed as of January 1, 2018.
+The major assets held for sale in FY2018 are idle assets in the pharmaceuticals business and the nutraceuticals
+business which were classified as assets held for sale because of the decision to sell these assets.
+－27－12. Property, Plant and Equipment
+Changes in costs, accumulated depreciation and accumulated impairment losses of property, plant and
+equipment and the carrying amounts are as follows.
+(1) Costs
+(Millions of yen)
+Buildings and Machinery and Tools, furniture Construction in
+Land Total
+structures vehicles and fixtures progress
+Balance as of January 1,
+381,638 397,277 109,085 90,811 20,476 999,289
+2017
+Purchase 7,633 9,642 6,305 95 35,329 59,007
+Business combination 352 1,753 25 – 326 2,457
+Disposal (3,658) (10,771) (5,577) (165) – (20,172)
+Transfer 10,703 8,243 1,611 127 (22,038) (1,352)
+Transfer to assets held
+(571) (225) (21) (308) – (1,126)
+for sale
+Foreign currency
+1,093 1,370 463 184 49 3,162
+translation differences
+Other 89 54 15 – (44) 114
+Balance as of December
+397,280 407,345 111,908 90,746 34,098 1,041,379
+31, 2017
+Purchase 4,708 9,342 6,248 92 37,869 58,261
+Business combination 12 553 83 – – 649
+Disposal (4,482) (9,779) (5,913) (81) (75) (20,332)
+Transfer 25,956 12,929 1,461 1 (42,774) (2,425)
+Transfer to assets held
+– (102) – – – (102)
+for sale
+Foreign currency
+(3,845) (7,951) (931) (663) (796) (14,189)
+translation differences
+Other 419 (18) (50) (5) (151) 193
+Balance as of December
+420,048 412,318 112,807 90,090 28,170 1,063,435
+31, 2018
+－28－(2) Accumulated depreciation and accumulated impairment losses
+(Millions of yen)
+Buildings and Machinery and Tools, furniture Construction in
+Land Total
+structures vehicles and fixtures progress
+Balance as of January 1,
+(242,138) (303,214) (85,455) (4,930) (4,787) (640,526)
+2017
+Depreciation expenses (10,034) (15,018) (9,005) – – (34,057)
+Impairment losses (1,087) (479) (122) (66) (26) (1,782)
+Disposal 3,466 9,826 5,485 1 – 18,781
+Transfer to assets held
+454 218 17 – – 691
+for sale
+Foreign currency
+(362) (754) (384) 2 133 (1,365)
+translation differences
+Other (246) (307) (106) – 2 (657)
+Balance as of December
+(249,948) (309,727) (89,569) (4,993) (4,677) (658,916)
+31, 2017
+Depreciation expenses (11,070) (14,654) (8,770) – – (34,494)
+Impairment losses (344) (656) (471) (68) (232) (1,773)
+Disposal 4,135 8,608 5,802 47 – 18,593
+Transfer to assets held
+– 90 – – – 90
+for sale
+Foreign currency
+1,553 4,618 666 1 81 6,921
+translation differences
+Other (328) (371) 411 5 – (283)
+Balance as of December
+(256,002) (312,093) (91,930) (5,007) (4,827) (669,862)
+31, 2018
+(3) Carrying amounts
+(Millions of yen)
+Buildings and Machinery and Tools, furniture Construction in
+Land Total
+structures vehicles and fixtures progress
+Balance as of January 1,
+139,499 94,063 23,630 85,880 15,689 358,762
+2017
+Balance as of December
+147,331 97,618 22,339 85,752 29,420 382,462
+31, 2017
+Balance as of December
+164,046 100,224 20,876 85,082 23,342 393,572
+31, 2018
+(Notes) 1. In the above table, the amount related to property, plant and equipment under construction is presented as construction in
+progress.
+2. Please refer to notes “27. Other Income” and “28. Other Expenses” for gain on sales of non-current assets, loss on sales of
+non-current assets and loss on retirement of non-current assets in FY2017 and FY2018. Gain on sales of non-current
+assets and loss on sales of non-current assets include gain and loss from sales of assets held for sale.
+3. Please refer to note “14. Impairment of Assets” for details of impairment losses.
+4. Please refer to note “41. Commitments” for commitments related to acquisition of property, plant and equipment.
+5. There is no significant borrowing cost included in costs of property, plant and equipment.
+－29－(4) Assets pledged as collateral
+Carrying amounts of assets pledged as collateral for borrowings, etc. that are included in each item of
+property, plant and equipment are as follows.
+(Millions of yen)
+Buildings and Machinery and Tools, furniture
+Land Total
+structures vehicles and fixtures
+Balance as of January 1, 2017 641 1,315 – 733 2,691
+Balance as of December 31,
+790 1,650 4 928 3,373
+2017
+Balance as of December 31,
+481 1,161 6 904 2,553
+2018
+(5) Leased assets under finance leases
+Carrying amounts of leased assets under finance leases included in each item of property, plant and
+equipment are as follows.
+Impairment losses are recognized for some leased assets.
+(Millions of yen)
+Tools, furniture and
+Buildings and structures Machinery and vehicles Total
+fixtures
+Balance as of January 1, 2017 630 1,538 4,210 6,378
+Balance as of December 31,
+2,926 1,301 3,702 7,931
+2017
+Balance as of December 31,
+3,146 1,111 3,558 7,816
+2018
+Finance lease obligations (note “20. Finance Lease Obligations”) of the Group are secured by the lessor
+retaining the property right of leased assets.
+－30－13. Goodwill and Intangible Assets
+Changes in costs, accumulated amortization and accumulated impairment losses of goodwill and intangible
+assets are as follows.
+(1) Costs
+(Millions of yen)
+Intangible assets
+Trademarks,
+Goodwill In-process
+distribution
+research and Software Other Total
+rights and
+development
+others
+Balance as of January 1,
+239,231 247,412 264,282 59,016 16,624 587,336
+2017
+Purchase – 17,437 2,398 4,892 550 25,279
+Business combination 21,989 19,274 6,558 1 17,729 43,563
+Disposal (4,028) (3,614) (202) (4,880) (935) (9,632)
+Transfer – – – – – –
+Foreign currency
+(2,905) (5,797) (1,967) (104) 911 (6,957)
+translation differences
+Other – – – 350 231 581
+Balance as of December
+254,286 274,713 271,069 59,275 35,112 640,170
+31, 2017
+Purchase – 5,872 1,424 7,126 86 14,510
+Business combination 40,645 75,740 23 22 5,138 80,924
+Disposal – (16,364) (40,752) (5,401) (1,139) (63,657)
+Transfer – (2,172) 2,164 508 (202) 299
+Foreign currency
+(6,135) (3,086) (5,792) (739) (2,231) (11,849)
+translation differences
+Other 123 0 – 82 10 92
+Balance as of December
+288,920 334,704 228,137 60,875 36,776 660,492
+31, 2018
+－31－(2) Accumulated amortization and accumulated impairment losses
+(Millions of yen)
+Intangible assets
+Trademarks,
+Goodwill In-process
+distribution
+research and Software Other Total
+rights and
+development
+others
+Balance as of January 1,
+(7,392) (25,218) (64,701) (44,291) (6,150) (140,361)
+2017
+Amortization expenses – – (21,071) (5,763) (1,343) (28,178)
+Impairment losses (1,459) (1,571) (23,224) (14) (888) (25,698)
+Disposal 4,028 3,614 46 4,832 1,038 9,531
+Foreign currency
+– 34 271 212 (81) 436
+translation differences
+Other – – – 42 (80) (38)
+Balance as of December
+(4,823) (23,140) (108,679) (44,982) (7,505) (184,307)
+31, 2017
+Amortization expenses – – (17,405) (5,941) (1,434) (24,781)
+Impairment losses – (22,651) (8,800) (1,022) (561) (33,036)
+Disposal – 16,364 40,752 5,283 879 63,278
+Foreign currency
+0 (34) 1,923 501 285 2,675
+translation differences
+Other – – (21) (40) (317) (379)
+Balance as of December
+(4,823) (29,463) (92,230) (46,202) (8,654) (176,549)
+31, 2018
+(3) Carrying amounts
+(Millions of yen)
+Intangible assets
+Goodwill In-process Trademarks,
+research and distribution Software Other Total
+development rights and others
+Balance as of January 1,
+231,839 222,194 199,581 14,724 10,474 446,974
+2017
+Balance as of December
+249,463 251,572 162,390 14,293 27,606 455,862
+31, 2017
+Balance as of December
+284,097 305,241 135,907 14,672 28,121 483,942
+31, 2018
+(Notes) 1. Amortization expenses on intangible assets are included in cost of sales, selling, general and administrative expenses and
+research and development expenses in the consolidated statement of income.
+2. Please refer to note “14. Impairment of Assets” for details of impairment losses.
+3. Please refer to note “41. Commitments” for commitments related to acquisition of intangible assets.
+4. There is no borrowing cost included in costs of intangible assets.
+(4) Assets pledged as collateral
+The carrying amount of assets pledged as collateral for borrowings included in intangible assets (other) is
+¥175 million in FY2017.
+(5) Individually significant intangible assets
+Major intangible assets recorded in the consolidated statement of financial position are rights associated to
+research and development of AVP-786 and rights associated to NUEDEXTA, which were recognized in line
+－32－with the acquisition of Avanir Pharmaceuticals, Inc. executed in 2015. The carrying amounts of the rights
+associated to research and development of AVP-786 and NUEDEXTA are ¥161,364 million and ¥68,633
+million, respectively, in FY2017 and ¥158,508 million and ¥59,602 million, respectively, in FY2018. For
+these assets of which amortization has already commenced, the remaining amortization period is eight
+years.
+14. Impairment of Assets
+(1) Impairment losses
+In calculating impairment losses, the Group bases its grouping of assets on the smallest identifiable group
+of assets that generates largely independent cash inflows.
+Impairment losses on in-process research and development are recorded in “Research and development
+expenses” in the consolidated statement of income, and other impairment losses are included in “Selling,
+general and administrative expenses.” In addition, reversal of impairment loss is recorded in “Selling,
+general and administrative expenses.”
+The breakdown of impairment loss and reversal of impairment loss by segment is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Pharmaceuticals 26,812 33,884
+Nutraceuticals 1,709 428
+Consumer products 257 329
+Others 61 85
+Corporate 5 15
+Total 28,847 34,742
+Pharmaceuticals
+An impairment loss of ¥26,812 million in the pharmaceuticals business recognized in FY2017 consists of
+impairment losses on property, plant and equipment of ¥37 million, on goodwill of ¥1,459 million, and on
+intangible assets of ¥25,315 million.
+The impairment loss on property, plant and equipment of ¥37 million is principally a reduction of the
+carrying amount of buildings and structures, machinery and vehicles and tools, furniture and fixtures to the
+recoverable amount, which is value in use, due to a decrease in the profitability.
+The impairment loss on intangible assets of ¥25,315 million is principally recording of the impairment loss
+of ¥23,104 million for trademarks, distribution rights and others for ONZETRA Xsail (sumatriptan nasal
+powder) for the treatment of acute migraine and a reduction of their carrying amount to the recoverable
+amount of ¥9,891 million, which is value in use, because the initially assumed profitability was no longer
+expected. For calculation of the value in use, the discount rate (13.3%) based on the pre-tax weighted
+average cost of capital was used.
+An impairment loss of ¥33,884 million in the pharmaceuticals business recognized in FY2018 consists of
+impairment losses on property, plant and equipment of ¥850 million and on intangible assets of ¥33,034
+million.
+The impairment loss on property, plant and equipment of ¥850 million is principally a reduction of the
+carrying amount of machinery and vehicles and tools, furniture and fixtures to the recoverable amount,
+which is value in use, due to a decrease in the profitability.
+The impairment loss on intangible assets of ¥33,034 million is principally ¥8,727 million of impairment
+loss on trademarks, distribution rights and others for ONZETRA Xsail, ¥8,640 million of impairment loss
+on in-process research and development for centanafadine (development code: EB-1020) which is being
+developed for the treatment of attention-deficit hyperactivity disorder (ADHD), and ¥12,942 million of
+impairment loss on in-process research and development for guadecitabine (development code: SGI-110)
+which is being developed for the treatment of acute myeloid leukemia.
+The impairment loss for ONZETRA Xsail is a reduction of the full carrying amount due to termination of
+the license agreement.
+－33－The impairment loss for centanafadine (development code: EB-1020) is a reduction of the carrying amount
+to the recoverable amount of ¥10,389 million, which is value in use, because the initially assumed
+profitability was no longer expected. For calculation of the value in use, the discount rate (13.5%) based on
+the pre-tax weighted average cost of capital was used.
+The impairment loss for guadecitabine (development code: SGI-110) is a reduction of the carrying amount
+to the recoverable amount of ¥11,066 million, which is value in use, because the initially assumed
+profitability was no longer expected. For calculation of the value in use, the discount rate (11.2% to 11.8%)
+based on the pre-tax weighted average cost of capital was used.
+(2) Impairment test of goodwill
+Goodwill arising in business combinations is allocated to cash-generating units that benefit from the
+business combination on the acquisition date. The breakdown of the carrying amount of goodwill by
+segment is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Pharmaceuticals 197,014 234,609
+Nutraceuticals 46,685 43,739
+Consumer products 488 473
+Others 5,274 5,274
+Total 249,463 284,097
+Of the above, the carrying amount of significant goodwill in FY2018 is Avanir Pharmaceuticals, Inc.
+(pharmaceuticals) of ¥151,091 million (FY2017: ¥153,814 million), Astex Pharmaceuticals, Inc.
+(pharmaceuticals) of ¥31,307 million (FY2017: ¥31,871 million), Visterra, Inc. (pharmaceuticals) of
+¥26,715 million, and Nutrition & Santé SAS (nutraceuticals) of ¥25,216 million (FY2017: ¥26,943
+million).
+The Group tests goodwill for impairment in each fiscal period, or whenever there is an indication of
+impairment. The recoverable amount in impairment test is determined based on value in use.
+Value in use reflects past experience and external information, and is calculated by discounting the
+estimated amount of cash flows based on the business plan for the next five years approved by the
+management and the growth rate to the present value using the discount rate (9.5% to 10.8%) based on the
+pre-tax weighted average cost of capital of the cash-generating unit. The growth rate is determined to be
+0% to 1.8% in view of the long-term average growth rate in the industry or country to which the cash-
+generating unit belongs, and does not exceed the long-term average growth rate of the market.
+There is the risk that impairment may arise when key assumptions used in the impairment test are changed.
+However, the value in use adequately exceeds the carrying amount of the cash-generating unit, and it is
+considered unlikely that the value in use falls below the carrying amount even if key assumptions used in
+the impairment test change within a reasonably predictable range.
+(3) Impairment test of intangible assets with indefinite useful lives
+Intangible assets with indefinite useful lives included in trademark rights in FY2018 are principally brands
+held by the Nutrition & Santé SAS Group (nutraceuticals), and their carrying amount is ¥22,526 million
+(FY2017: ¥23,901 million).
+Each brand is tested for impairment in each fiscal period, or whenever there is an indication of impairment,
+using the relief-from-royalty method and the excess earnings method. Value in use reflects past experience
+and external information, and is determined using the business plan for the next five years approved by the
+management and the discount rate (6.5% to 14.0%) equal to pre-tax weighted average cost of capital to
+which certain country risk and foreign currency risk are added where necessary. The growth rate is
+determined to be 0% to 1.5% in view of the long-term average growth rate in the industry or country to
+which the cash-generating unit belongs, and does not exceed the long-term average growth rate of the
+market. The value in use adequately exceeds the carrying amount in each case, and it is considered unlikely
+that the value in use falls below the carrying amount even if key assumptions used in the impairment test
+change within a reasonably predictable range.
+－34－(4) Impairment test of in-process research and development
+In-process research and development in FY2018 is principally rights related to research and development
+of AVP-786, and their carrying amount is ¥158,508 million (FY2017: ¥161,364 million).
+As intangible assets not yet available for use, in-process research and development is tested for impairment
+in each fiscal period, or whenever there is an indication of impairment. The recoverable amount in
+impairment test is determined based on value in use.
+Value in use reflects past experience and external information, and is calculated by discounting the
+estimated amount of cash flows based on the business plan for the next five years approved by the
+management and the growth rate to the present value using the discount rate based on the pre-tax weighted
+average cost of capital of the cash-generating unit (12.5% for AVP-786).
+15. Investments in Associates
+(1) Significant associates
+Not applicable.
+(2) Individually insignificant associates
+A carrying amount of investments in individually insignificant associates is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Carrying amount of investments in associates 188,234 189,633
+Financial information on individually insignificant associates is as follows.
+These amounts are after adjustment of the Group’s ownership ratio.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Profit for the year 19,307 16,508
+Other comprehensive income 8,968 (8,138)
+Comprehensive income 28,276 8,369
+－35－16. Income Taxes
+(1) Deferred taxes
+Changes in deferred tax assets and deferred tax liabilities are as follows.
+(Millions of yen)
+Recognized in
+Recognized Balance as of
+Balance as of other Business
+through profit or Other December 31,
+January 1, 2017 comprehensive combination
+loss 2017
+income
+Inventories 9,499 1,131 – – 83 10,714
+Securities, etc. (18,267) (23) (7,169) – (403) (25,863)
+Intangible assets (122,168) 50,433 – (11,141) 3,435 (79,441)
+Post-employment
+3,011 157 (1,450) – 34 1,753
+benefits
+Accrued expenses and
+24,231 (7,052) – 2 (469) 16,711
+other liabilities
+Unused tax losses 17,614 (11,994) – 1,572 (475) 6,716
+Unused tax credits 28,572 9,307 – – (803) 37,076
+Other (5,818) 1,154 4 (192) (522) (5,373)
+Total (63,324) 43,115 (8,615) (9,759) 878 (37,705)
+(Millions of yen)
+Recognized Balance
+Balance as of Changes in Recognized
+in other Business as of
+January 1, accounting through profit Other
+comprehen- combination December
+2018 policies or loss
+sive income 31, 2018
+Inventories 10,714 – 1,513 – – 66 12,294
+Securities, etc. (25,863) – 303 8,307 – (70) (17,322)
+Intangible assets (79,441) – 9,273 – (21,416) 1,582 (90,002)
+Post-employment
+1,753 – 657 1,066 – (57) 3,418
+benefits
+Accrued expenses and
+16,711 (762) (1,691) – 43 (218) 14,082
+other liabilities
+Contract liabilities – 31,622 (1,640) – – – 29,981
+Unused tax losses 6,716 – (2,101) – 1,842 34 6,491
+Unused tax credits 37,076 – (1,433) – 2,439 (665) 37,417
+Other (5,373) – 2,721 (3) 361 (1,204) (3,497)
+Total (37,705) 30,859 7,602 9,370 (16,730) (532) (7,136)
+(Note) The changes in accounting policies are due to the recording of deferred tax assets of ¥30,859 million (in the consolidated
+statement of financial position at the beginning of FY2018, deferred tax liabilities decreased by ¥17,108 million and deferred
+tax assets increased by ¥13,751 million, compared with the application of the former accounting standards) as of the beginning
+of FY2018 as a result of the application of IFRS 15.
+In recognizing deferred tax assets, the Group takes into account the possibility that part or all of deductible
+temporary differences, unused tax losses and unused tax credits can be used against future taxable profit. In
+assessment of the recoverability of deferred tax assets, reversal of deferred tax liabilities, expected future
+taxable profit and tax planning are taken into account. Based on the level of taxable profit in the past and
+estimated future taxable profit in the period during which deferred tax assets are deductible, the Group
+considers it is probable that deferred taxable assets recognized as of December 31, 2018 will be recovered.
+－36－(2) Unrecognized deferred tax assets
+Deductible temporary differences, unused tax losses and unused tax credits for which no deferred tax asset
+is recognized are as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Deductible temporary differences 234,238 273,706
+Unused tax losses 48,664 47,976
+Unused tax credits 33 28
+Total 282,937 321,712
+Deferred tax assets on the above items are not recognized because it is not highly probable that future
+taxable income necessary for the Group to utilize the benefits arises. Deductible temporary differences do
+not expire under current tax law. Expiration of unused tax losses of the Company and some of its
+subsidiaries is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+1st year 1,594 2,217
+2nd year 3,021 4,493
+3rd year 4,484 4,140
+4th year 3,489 4,017
+5th year and onward 36,075 33,107
+Total 48,664 47,976
+(3) Taxable temporary differences for which deferred tax liabilities were not recognized
+Unrecognized deferred tax liabilities are as follows. In cases where the Company can control the timing of
+reversal of temporary differences and it is highly probable that such temporary differences are not reversed
+in a foreseeable period, deferred tax liabilities associated with such temporary differences are not
+recognized.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Temporary differences related to investments in
+subsidiaries and associates for which deferred tax
+938,515 910,114
+liabilities were not recognized because the Company
+decided not to pay a dividend in the foreseeable future
+－37－(4) Income tax expenses
+The effective tax rates for FY2017 and FY2018 in Japan were both 30.8%. The tax amount in other tax
+jurisdictions is calculated using a general tax rate in each jurisdiction. The breakdown of current tax
+expenses and deferred tax expenses is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Current tax expenses:
+Current income taxes 32,992 31,029
+Income taxes for prior periods (551) 674
+Total current tax expenses 32,441 31,704
+Deferred tax expenses:
+Origination and reversal of temporary differences, etc. (15,390) (7,185)
+Changes in unrecognized deferred tax assets 1,932 (417)
+Change in tax rate, etc. (29,657) –
+Total deferred tax expenses (43,115) (7,602)
+Total income tax expenses (10,674) 24,101
+Deferred tax expenses for FY2017 include ¥29,657 million (income) as the effect of the tax reforms,
+mainly in the U.S., which results in the decrease of income tax expense.
+－38－The reconciliation of the effective statutory tax rate and the actual tax rate for each fiscal year is as follows.
+The actual tax rate represents the ratio of income tax expenses to profit before taxes.
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Effective statutory tax rate 30.8% 30.8%
+Special deduction for research and development
+(10.8)% (8.9)%
+expenses
+Entertainment expenses not deductible from the taxable
+1.4% 1.2%
+income
+Pharma fees not deductible from the taxable income 1.3% 0.5%
+Impairment loss on goodwill 0.4% –
+Share of profit of associates (4.6)% (3.8)%
+Changes in unrecognized deferred tax assets 1.9% (0.4)%
+Difference from tax rate applied to subsidiaries (3.8)% 3.4%
+Effect of change in tax rates (28.6)% –
+Other 1.7% (0.8)%
+Actual tax rate (10.3)% 22.0%
+－39－17. Trade and Other Payables
+The breakdown of trade and other payables is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Notes and accounts payable - trade 85,399 83,596
+Accounts payable - other 73,361 86,150
+Other 1,137 1,107
+Total 159,898 170,854
+18. Bonds and Borrowings
+The breakdown of bonds and borrowings is as follows.
+(Millions of yen)
+FY2017 FY2018 Average
+Repayment
+(As of December 31, (As of December 31, interest rate
+deadline
+2017) 2018) (Note 1)
+(Secured)
+Current borrowings 1,431 535 8.0% –
+Current portion of non-current borrowings 598 532 1.5% –
+Non-current borrowings (excluding current
+1,529 954 2.2% 2020 to 2026
+portion)
+(Unsecured)
+Current borrowings 21,068 23,831 3.4% –
+Current portion of non-current borrowings 41,373 41,012 0.9% –
+Non-current borrowings (excluding current
+175,431 139,018 0.9% 2020 to 2036
+portion)
+Total 241,433 205,885 – –
+Bonds and borrowings
+64,472 65,912 – –
+(current)
+Bonds and borrowings
+176,961 139,973 – –
+(non-current)
+(Notes) 1. Average interest rate represents the weighted average interest rate to the balance of borrowings, etc. at end of the year.
+2. For the breakdown of non-current borrowings by repayment date and their fair values, please refer to note “34. Financial
+Instruments.”
+－40－19. Other Financial Liabilities
+The breakdown of other financial liabilities is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Other financial liabilities
+Financial liabilities measured at amortized cost
+Lease obligations 8,311 8,054
+Other 414 2,365
+Financial liabilities measured at fair value through profit
+or loss
+Derivative liabilities 2,072 81
+Contingent consideration 10,509 16,526
+Total 21,307 27,028
+Other financial liabilities (current) 2,325 4,202
+Other financial liabilities (non-current) 18,981 22,826
+20. Finance Lease Obligations
+The breakdown of finance lease obligations is as follows.
+(Millions of yen)
+Minimum lease payments Present value of minimum lease payments
+FY2017 FY2018 FY2017 FY2018
+(As of December 31, (As of December 31, (As of December 31, (As of December 31,
+2017) 2018) 2017) 2018)
+Due within one year 2,180 2,082 2,017 1,894
+Due after one year through five years 3,962 4,193 3,638 3,869
+Due after five years 3,362 2,910 2,655 2,290
+Total 9,505 9,186 8,311 8,054
+Deduction–future finance costs (1,193) (1,132)
+Present value of minimum lease
+8,311 8,054
+payments
+The Group has a policy to conduct a lease transaction only when the Group judged that the lease transaction
+has more merits, comprehensively taking into account aversion of obsolescence risk, a reduction in related
+expenses and other factors.
+The weighted average interest rate on finance lease obligations was 4.60% for FY2017 and 4.89% for FY2018.
+Some contracts include renewal options. There are no contingent rent payable, escalation clauses (clauses
+specifying a raise in the lease contract amount) or restriction imposed by any lease contracts (such as restriction
+on dividends, additional borrowings and additional leases).
+For fair values of lease obligations of the Group, please refer to note “34. Financial Instruments.”
+－41－21. Other Liabilities
+The breakdown of other liabilities is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Other liabilities
+Accrued expenses 109,181 132,491
+Deposits received 10,540 9,682
+Employees’ bonuses 15,272 17,048
+Other 29,507 21,590
+Total 164,502 180,812
+Total current liabilities
+151,718 168,511
+(Other current liabilities)
+Total non-current liabilities
+12,784 12,300
+(Other non-current liabilities)
+22. Provisions
+The breakdown of provisions is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Provision for asset retirement obligations 612 619
+Provision for loss on litigation 3,136 –
+Total 3,749 619
+Current liabilities – –
+Non-current liabilities 3,749 619
+The breakdown and changes of provisions are as follows.
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Millions of yen)
+Provision for asset Provision for Provision for loss on
+Total
+retirement obligations restructuring litigation
+Balance as of January 1, 2017 504 552 – 1,057
+Increase during the year 103 – 3,136 3,240
+Reversal of discounts due to
+8 – – 8
+passage of time
+Decrease during the year
+(4) (552) – (557)
+(utilization)
+Decrease during the year
+(1) – – (1)
+(reversal)
+Balance as of December 31,
+612 – 3,136 3,749
+2017
+－42－FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Provision for asset retirement
+Provision for loss on litigation Total
+obligations
+Balance as of January 1, 2018 612 3,136 3,749
+Increase during the year 0 – 0
+Reversal of discounts due to
+6 – 6
+passage of time
+Decrease during the year
+– (3,136) (3,136)
+(utilization)
+Decrease during the year
+– – –
+(reversal)
+Balance as of December 31,
+619 – 619
+2018
+The details of provisions are as follows.
+(i) Provision for asset retirement obligations
+The Group records provision for asset retirement obligations at the estimated amount of costs for
+removal of harmful substances related to non-current assets and the estimated amount of restoration costs
+for rented offices and others for which the Group has obligations to restore the site to its original
+condition at the end of the lease contract.
+The Group expects that the timing at which economic resources flow out is principally after one year
+passed from the end of each fiscal year.
+(ii) Provision for loss on litigation
+Provision for loss on litigation is a reserve recorded at the reasonably estimated amount at present for
+outflow of economic resources that are expected to arise in the future in association with litigation,
+investigation by governmental agencies and others.
+In FY2018, Avanir Pharmaceuticals, Inc. (head office: California, U.S.), a subsidiary of the Group in the
+U.S., reached an agreement in principle to resolve the United States Department of Justice’s investigation
+related to certain of Avanir’s past sales and marketing practices for its product NUEDEXTA®, a treatment
+for neurologic disease pseudobulbar affect (“PBA”), in the United States. As a result, USD 120 million is
+scheduled to be paid as fines, damages, disgorgement, restitution, legal fees and interest charges under
+this agreement. Accordingly, ¥10,064 million, which was derived by deducting the amount recorded as
+provisions in the previous fiscal year from the above amount, was recorded in “selling, general and
+administrative expenses.”
+－43－23. Post-employment Benefits
+The Group has adopted defined benefit plans and defined contribution plans as post-employment benefit plans.
+Major domestic subsidiaries have a contributory funded, defined benefit corporate pension plan and lump-sum
+retirement payments plan as defined benefit plans, and defined contribution pension plans as defined
+contribution plans.
+Certain foreign subsidiaries have contributory funded or unfunded defined benefit plans, defined contribution
+plans, or a combination of them.
+Among defined benefit plans, the major plan is the defined benefit plan in Japan, which accounts for
+approximately 90% of total defined benefit obligations. In FY2017, some defined benefit plans in the US were
+settled.
+There is no post-employment benefit other than pensions and lump-sum payments.
+For the accounting policy for defined benefit plans, please refer to note “3. Significant Accounting Policies
+(13) Post-employment benefits.”
+(1) Defined benefit plans
+For benefits under defined benefit plans of the Company and major domestic subsidiaries, the amount of
+retirement benefit payments is calculated based on service years, salaries during the service period, position
+and other factors. When the period of validity of a retiring employee equals to or more than a certain period,
+benefits are paid as lump-sum payment or pension at the option of the employee. Upon retirement, etc. of
+employees, additional retirement benefits that do not qualify as benefits under defined benefit plans may be
+paid.
+Defined benefit corporate pension plans are managed by Otsuka Pharmaceuticals corporate pension fund.
+Directors of this pension fund and the pension plan management institution are required by laws and
+regulations to behave in a way that gives utmost priority to the interest of plan participants and former
+participants and assume the responsibility for managing plan assets under the prescribed policy.
+Although defined benefit retirement benefit plans are exposed to general investment risk, interest rate risk
+and others, it is considered that the exposure to these risks is not significant.
+Amounts recognized in the consolidated statement of financial position are as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Present value of defined benefit obligations 260,566 257,785
+Fair value of plan assets (257,786) (243,986)
+Funding position 2,780 13,799
+Effect of asset ceiling 7,413 1,710
+Net amount of defined benefit obligations and plan assets 10,193 15,510
+Amounts in the consolidated statement of financial
+position
+Net defined benefit liabilities 14,678 18,337
+Net defined benefit assets (other non-current assets) (4,484) (2,827)
+Net defined benefit liabilities/assets recognized in the
+10,193 15,510
+consolidated statement of financial position
+－44－Changes in the present value of the defined benefit obligations are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Balance of defined benefit obligations at the beginning of
+252,059 260,566
+the year
+Current service cost 9,604 9,737
+Interest cost 2,616 2,603
+Remeasurement
+Difference between the assumption and actual amount
+8,047 (1,755)
+of retirement benefit obligations
+Actuarial gains and losses arising from changes in
+1,381 (1,936)
+demographic assumptions
+Actuarial gains and losses arising from changes in
+(360) 450
+financial assumptions
+Retirement benefits paid (8,976) (10,736)
+Curtailment/settlement (3,665) (277)
+Foreign currency translation differences (294) (854)
+Other 154 (10)
+Balance of defined benefit obligations at the end of the
+260,566 257,785
+year
+Changes in the fair value of the plan assets are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Balance of fair value of plan assets at the beginning of
+241,478 257,786
+the year
+Interest income on plan assets 2,254 2,324
+Remeasurement
+Return on plan assets (excluding interest income) 18,602 (12,557)
+Contributions by the employer 6,993 7,071
+Retirement benefits paid (8,368) (9,966)
+Curtailment/settlement (2,946) (320)
+Foreign currency translation differences (226) (436)
+Other (1) 84
+Balance of fair value of plan assets at the end of the year 257,786 243,986
+The Group plans to pay contributions of ¥7,060 million in FY2019.
+－45－Management policy for plan assets
+The fund management policy for major plans of the Group aims to secure stable returns over the medium to
+long term to ensure the payment of defined benefit obligations now and in the future. Specifically, assets
+are managed by setting the target rate of return and the asset mix by investment asset within a range of
+acceptable risk defined annually and maintaining this mix.
+The Group conducts review of the asset mix where necessary, taking into account financial conditions of
+defined benefit pension plans and the investment environment.
+When management of each asset is implemented, the Group seeks efficiency on the investment aspect
+through continuous monitoring with attention to risk diversification associated to asset managers.
+The fair value of the plan assets is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Assets with market Assets without market Assets with market Assets without market
+prices in active markets prices in active markets prices in active markets prices in active markets
+Cash and cash equivalents 26,141 – 21,930 –
+Shares 22,462 70,005 15,935 68,849
+Bonds 3,843 85,489 213 92,628
+Other 892 48,954 1,150 43,278
+Total 53,338 204,448 39,230 204,756
+The Company’s investment policy for the defined benefit plans takes into consideration various factors
+such as the allowable limit of deductible expenses under tax laws, the funding status of plan assets and
+actuarial calculations.
+Changes in the effect of the asset ceiling are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Balance of effect of asset ceiling at the beginning of the year 1,278 7,413
+Interest income 9 54
+Remeasurement
+Effect of limiting a net defined benefit asset to the asset
+6,126 (5,757)
+ceiling
+Balance of effect of asset ceiling at the end of the year 7,413 1,710
+Any economic resource is not available because future contributions are not reduced or refunded.
+Consequently, an unrecognized surplus has arisen in some pension plans of the Group.
+Principal actuarial assumptions at the end of the reporting period are as follows.
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Discount rate 0.6-1.0% 0.6-0.9%
+－46－The following table represents the sensitivity analysis for significant actuarial assumptions.
+The sensitivity analysis shows impact of a 0.5% increase or decrease in assumptions used in actuarial
+calculation on the present value of defined benefit obligations.
+This analysis is based on the assumption that other variables are constant. The analysis for FY2018 was
+made using the same fundamentals as those for FY2017.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+0.5% increase in the discount rate (17,597) (16,731)
+0.5% decrease in the discount rate 16,342 15,586
+The weighted average duration of the defined benefit obligations as of December 31, 2017 and 2018 is 15.1
+years and 14.7 years, respectively.
+(2) Defined contribution plans
+Amounts recognized as expenses in association with defined contribution plans are ¥6,144 million for
+FY2017 and ¥6,560 million for FY2018. The above figures include amounts recognized as expenses in
+association with public plans.
+－47－24. Equity and Other Equity Items
+(1) Share capital and capital surplus
+Changes in the number of authorized shares, total number of issued shares, and the balance of share capital,
+etc. are as follows.
+Number of authorized Total number of issued
+shares shares Share capital Capital surplus
+(Ordinary shares with no (Ordinary shares with no (Millions of yen) (Millions of yen)
+par value) par value)
+Balance as of January 1,
+1,600,000,000 shares 557,835,617 shares 81,690 503,979
+2017
+Changes during the year – – – 1,641
+Balance as of December
+1,600,000,000 shares 557,835,617 shares 81,690 505,620
+31, 2017
+Changes during the year – – – 274
+Balance as of December
+1,600,000,000 shares 557,835,617 shares 81,690 505,894
+31, 2018
+(2) Treasury shares
+Changes in the number and balance of treasury shares are as follows.
+Number of shares Amount
+(Shares) (Millions of yen)
+Balance as of January 1, 2017 15,986,347 47,264
+Increase due to request for buyback of shares less than
+531 2
+one share unit
+Balance as of December 31, 2017 15,986,878 47,267
+Increase due to request for buyback of shares less than
+339 1
+one share unit
+Balance as of December 31, 2018 15,987,217 47,268
+(Note) The Company has adopted the stock option plan, issues share acquisition rights pursuant to the Companies Act, and
+appropriates treasury shares to the grant of shares in line with exercise of the rights. The contractual terms and conditions,
+amount and others are provided in note “33. Share-Based Payments.”
+(3) Capital surplus
+Under the Companies Act of Japan (hereinafter the “Companies Act”), at least 50% of the contribution for
+share issue shall be credited to share capital, and the remainder shall be credited to additional paid-in
+capital included in capital surplus. In addition, under the Companies Act, additional paid-in capital can be
+transferred to share capital upon approval at the shareholders meeting.
+(4) Retained earnings
+The Companies Act provides that 10% of dividends shall be appropriated as additional paid-in capital or as
+a legal reserve until the aggregate amount of the additional paid-in capital and the legal reserve equals 25%
+of share capital. The legal reserve may be used to eliminate or reduce a deficit, or may also be reversed
+upon approval at the shareholders meeting.
+(5) Details and purpose of other components of equity
+(i) Remeasurements of defined benefit plans
+Remeasurements of defined benefit plans represent actuarial difference on defined benefit obligation,
+return on plan assets (excluding the amount included in interest income), and changes in effect of asset
+ceiling (excluding the amount included in interest income).
+Actuarial difference represents adjustment based on past experience on defined benefit obligation
+(difference between actuarial assumptions at the beginning of the year and actual results) and effect of
+changes in actuarial assumptions.
+－48－These items are recognized in other comprehensive income when occurred and immediately transferred
+from other components of equity to retained earnings.
+(ii) Financial assets measured at fair value through other comprehensive income
+Financial assets measured at fair value through other comprehensive income represent the valuation
+difference in fair value of financial assets measured at fair value through other comprehensive income.
+(iii) Foreign currency translation reserve
+Foreign currency translation reserve represents the translation difference incurred when consolidating
+financial statements of foreign operations prepared using foreign currencies.
+(iv) Cash flow hedges
+The Group uses derivatives to hedge the risk of fluctuation in future cash flows. Cash flow hedges
+represent the effective portion of changes in fair value of derivative transactions designated as cash flow
+hedges.
+(6) Dividends
+Dividends paid are as follows.
+FY2017 (From January 1, 2017 to December 31, 2017)
+Total amount of
+Dividends per share
+Resolution dividends Record date Effective date
+(Yen)
+(Millions of yen)
+Meeting of the Board of
+Directors held on 27,092 50.00 December 31, 2016 March 31, 2017
+February 14, 2017
+Meeting of the Board of
+Directors held on August 27,092 50.00 June 30, 2017 September 4, 2017
+8, 2017
+FY2018 (From January 1, 2018 to December 31, 2018)
+Total amount of
+Dividends per share
+Resolution dividends Record date Effective date
+(Yen)
+(Millions of yen)
+Meeting of the Board of
+Directors held on 27,092 50.00 December 31, 2017 March 30, 2018
+February 14, 2018
+Meeting of the Board of
+Directors held on August 27,092 50.00 June 30, 2018 September 3, 2018
+8, 2018
+Dividends whose effective date falls in the following fiscal year are as follows.
+FY2017 (From January 1, 2017 to December 31, 2017)
+Total amount of
+Dividends per share
+Resolution dividends Record date Effective date
+(Yen)
+(Millions of yen)
+Meeting of the Board of
+Directors held on 27,092 50.00 December 31, 2017 March 30, 2018
+February 14, 2018
+FY2018 (From January 1, 2018 to December 31, 2018)
+Total amount of
+Dividends per share
+Resolution dividends Record date Effective date
+(Yen)
+(Millions of yen)
+Meeting of the Board of
+Directors held on 27,092 50.00 December 31, 2018 March 29, 2019
+February 13, 2019
+－49－(7) Put options granted to non-controlling interests
+The put options written on shares of foreign subsidiaries granted by the foreign subsidiaries to owners of
+non-controlling interests are recognized at the present value of exercise price of options as financial
+liabilities and the same amount is deducted from capital surplus at initial recognition, while any subsequent
+change is recorded in finance income and finance costs.
+The remaining balance, valuation techniques and hierarchy of recognized financial liabilities as at the end
+of each fiscal year are provided in “34. Financial Instruments (8) Fair value of financial instruments.”
+－50－25. Revenue
+(1) Disaggregation of revenue
+The Group disaggregates revenue by type of goods or services and by geographical area. The relationship
+between disaggregated revenue and reportable segments is as follows.
+FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Reportable segment
+Pharma- Nutra- Consumer
+Others Total
+ceuticals ceuticals products
+By type of goods or services
+Sales of products 738,434 338,555 33,009 84,347 1,194,347
+License and royalty income 23,646 22 – – 23,669
+Other 55,028 6 641 18,286 73,963
+Total 817,110 338,585 33,651 102,634 1,291,981
+By geographical area *
+Japan 407,789 146,630 24,502 66,598 645,521
+North America 236,201 98,995 8,699 3,195 347,091
+Other 173,118 92,958 449 32,840 299,367
+Total 817,110 338,585 33,651 102,634 1,291,981
+* Revenue is classified based on the location of customers.
+(2) Contract balance
+The breakdown of receivables and contract liabilities from contracts with customers is as follows.
+(Millions of yen)
+FY2018
+January 1, 2018
+(As of December 31, 2018)
+Receivables from contracts with customers 355,589 366,996
+Notes and accounts receivable - trade 357,448 368,888
+Allowance for credit losses (1,859) (1,892)
+Contract liabilities (current liabilities) 11,170 10,809
+Contract liabilities (non-current liabilities) 92,711 87,245
+Of the balance of contract liabilities as of January 1, 2018, the amount of revenue recognized in FY2018 is
+¥11,042 million. In addition, the balance of contract liabilities increased by ¥5,205 million in FY2018 due
+to achievement of milestones for license agreements for development and distribution rights and others of
+products under development, and other factors.
+The amount of revenue recognized from performance obligations satisfied (or partially satisfied) in the past
+period was ¥13,567 million in FY2018, of which major revenue was license and royalty income.
+－51－(3) Timing of satisfaction of performance obligations
+Contract liabilities mainly arise in certain license agreements entered into between the Group and a third
+party for development and distribution rights and others of products under development. In addition,
+contract liabilities include advances received from customers in relation to sale of products.
+The total amount of transaction price allocated to remaining performance obligations and timing when
+revenue is expected to be recognized are as follows.
+(Millions of yen)
+FY2018
+(From January 1, 2018
+to December 31, 2018)
+Due within one year 10,809
+Due after one year through two years 10,643
+Due after two years through three years 10,507
+Due after three years through four years 10,507
+Due after five years 55,586
+Total 98,054
+26. Breakdown of Expenses by Nature
+The major breakdown of expenses included in cost of sales, selling, general and administrative expenses, and
+research and development expenses by nature is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Personnel expenses (296,077) (302,203)
+Sales promotion expenses (102,689) (102,041)
+Depreciation and amortization expenses (62,235) (59,275)
+－52－27. Other Income
+The breakdown of other income is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Grant income 190 178
+Rent received 182 255
+Gain on sales of non-current assets (Note 1) 806 168
+Change in fair value of contingent considerations
+1,906 1,899
+(Note 2)
+Gain on fair value valuation (Note 3) – 17,971
+Other 2,976 4,008
+Total other income 6,063 24,482
+(Notes) 1. The amount includes gain on sales of assets held for sale.
+2. Among the gains and losses from the changes in the fair value of the contingent considerations, the portion based on
+changes of time value is recognized in “Finance costs,” and the one based on changes of non-time-value is recognized in
+either “Other income” or “Other expenses.” Changes in fair value of contingent considerations that were recorded in
+“Other income” for FY2017 and FY2018 relate to the acquisitions of Neurovance, Inc. and ReCor Medical Inc.
+3. Gain on fair value valuation is in regard to the Group’s shareholding of ReCor Medical Inc., that the Group had held
+directly before the date on which control of that company was obtained and the joint development and commercializing
+agreement with that company. It includes recognition of ¥8,442 million remeasurement gain from its shareholding as a
+result of remeasurement of fair value on the date on which control of that company was obtained and ¥9,529 million
+remeasurement gain from the joint development and commercializing agreement.
+28. Other Expenses
+The breakdown of other expenses is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Loss on sales of non-current assets (201) (171)
+Loss on retirement of non-current assets (1,033) (471)
+Other (3,196) (1,685)
+Total other expenses (4,432) (2,328)
+－53－29. Finance Income and Finance Costs
+The breakdown of finance income and finance costs is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Finance income
+Interest income
+Financial assets measured at amortized cost 1,900 1,948
+Financial assets measured at fair value through profit
+66 –
+or loss
+Dividend income
+Financial assets measured at fair value through other
+1,677 1,745
+comprehensive income
+Gain on fair value valuation
+Financial assets and liabilities measured at fair value
+411 5,245
+through profit or loss
+Foreign exchange gain 141 –
+Other 70 239
+Total finance income 4,268 9,178
+Finance costs
+Interest expenses
+Financial liabilities measured at amortized cost (3,620) (2,959)
+Loss on fair value valuation
+Financial assets and liabilities measured at fair value
+(729) (239)
+through profit or loss
+Foreign exchange losses – (4,060)
+Other (718) (726)
+Total finance costs (5,068) (7,985)
+30. Other Non-Operating Income and Expenses
+Other non-operating expenses for FY2017 (ended December 31, 2017) consist of ¥331 million of gain on
+sales of shares of subsidiaries.
+－54－31. Other Comprehensive Income
+Reclassification adjustments and income taxes for each separate component of other comprehensive income
+are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Components that will not be reclassified to profit or loss
+Remeasurements of defined benefit plans
+Amount arising during the year 3,381 (3,582)
+Before income taxes 3,381 (3,582)
+Income taxes (1,450) 1,066
+Remeasurements of defined benefit plans 1,930 (2,516)
+Financial assets measured at fair value through other comprehensive
+income
+Amount arising during the year 24,286 (18,789)
+Before income taxes 24,286 (18,789)
+Income taxes (7,264) 7,206
+Financial assets measured at fair value through other
+17,021 (11,582)
+comprehensive income
+Share of other comprehensive income of associates
+Amount arising during the year 523 (652)
+Share of other comprehensive income of associates 523 (652)
+Subtotal 19,475 (14,751)
+Components that may be reclassified to profit or loss
+Foreign currency translation reserve
+Amount arising during the year (4,575) (26,289)
+Reclassification adjustments 117 –
+Before income taxes (4,458) (26,289)
+Foreign currency translation reserve (4,458) (26,289)
+Cash flow hedges
+Amount arising during the year 42 2
+Reclassification adjustments (61) 9
+Before income taxes (19) 12
+Income taxes 4 (3)
+Cash flow hedges (14) 9
+Share of other comprehensive income of associates
+Amount arising during the year 8,445 (7,794)
+Reclassification adjustments – 308
+Share of other comprehensive income of associates 8,445 (7,486)
+Subtotal 3,972 (33,766)
+Total other comprehensive income 23,448 (48,518)
+－55－32. Earnings per Share
+(1) Basis of calculating basic earnings per share
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Profit for the year attributable to owners of the Company
+112,492 82,492
+(Millions of yen)
+Profit for the year not attributable to ordinary equity holders
+– –
+of the Company (Millions of yen)
+Profit for the year used for calculation of basic earnings per
+112,492 82,492
+share (Millions of yen)
+Weighted average number of ordinary shares (Thousands of
+541,849 541,848
+shares)
+Basic earnings per share (Yen) 207.60 152.24
+(2) Basis of calculating diluted earnings per share
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Profit for the year used for calculation of basic earnings per
+112,492 82,492
+share (Millions of yen)
+Adjustments of profit for the year (Millions of yen) (318) (517)
+Profit for the year used for calculation of diluted earnings per
+112,173 81,974
+share (Millions of yen)
+Weighted average number of ordinary shares (Thousands of
+541,849 541,848
+shares)
+Increase in ordinary shares
+Share acquisition rights (Thousands of shares) 57 86
+Weighted average number of diluted ordinary shares
+541,907 541,934
+(Thousands of shares)
+Diluted earnings per share (Yen) 206.99 151.26
+－56－33. Share-Based Payments
+The Company has adopted the stock option plan with an aim to make a greater contribution to the continued
+improvement in medium- to long-term business performance and corporate value. Stock options are granted as
+share acquisition rights to eligible persons determined by the Company’s Board of Directors based on the
+content approved at the Company’s shareholders meeting.
+In addition, the Group has adopted equity-linked compensation entitlements as a cash-settled share-based
+payment plan for employees of certain consolidated subsidiaries. The Group grants the entitlements to
+employees who have the rank as of the time of grant and makes the payment in cash, taking into account the
+level of achievement of performance targets and the share price at the end of the period for each three-year
+cycle.
+(1) Contractual terms of stock options
+Contractual terms of stock options are as follows.
+2016 Stock Option No. 5
+Directors of the Company (excluding Outside Directors) and Directors of
+Persons granted
+subsidiaries who do not concurrently serve as Directors of the Company
+Number of stock options (Note) 851,400 shares
+Settlement method Equity-settled
+Date of grant May 31, 2016
+Target service period From January 1, 2016 to December 31, 2018
+Period during which share acquisition rights may
+From March 1, 2019 to February 28, 2021
+be exercised
+An eligible person is required to continue to have the rank of Director of
+the Company or its subsidiaries that he or she had on the right allotment
+date, at the time of exercising the right; provided, however, that this shall
+Vesting conditions not apply if holders of share acquisition rights retired from or left the
+position of Director of the Company or its subsidiaries due to the expiration
+of the term of office or at the request of the Company, and the Company’s
+Board of Directors gives approval.
+(Note) The number of stock options is converted to the number of shares.
+(2) Share-based payment expenses
+The breakdown of share-based payment expenses is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Equity-settled 235 (22)
+Cash-settled 827 1,126
+Total 1,062 1,103
+(Note) The carrying amount of liabilities arising from share-based payment transactions is ¥1,568 million for FY2017 and ¥1,250
+million for FY2018.
+－57－(3) Changes in the number of stock options and exercise price
+Changes in the number of stock options and exercise price are as follows.
+2016 Stock Option No. 5
+Number of stock options Weighted average exercise price
+(Shares) (Yen)
+Unexercised balance at January 1, 2017 851,400 1
+Granted – –
+Exercised – –
+Canceled – –
+Unexercised balance at December 31, 2017 851,400 1
+Exercisable balance at December 31, 2017 – –
+Granted – –
+Exercised – –
+Canceled – –
+Unexercised balance at December 31, 2018 851,400 1
+Exercisable balance at December 31, 2018 – –
+Exercise price range ¥1
+Weighted average remaining contract period 2.1 years
+(Notes) 1. The number of stock options is converted to the number of shares.
+2. Share acquisition rights granted represent the maximum number of exercisable rights, and the number of share acquisition
+rights that ultimately become exercisable varies depending on the level of achievement of the medium-term management
+plan and others. The number of share acquisition rights that ultimately become exercisable is determined by multiplying
+the base number of share acquisition rights, which is determined for the position of each eligible person in consideration
+of the content of duties performed, responsibilities, base remuneration, etc., by a certain percentage.
+－58－34. Financial Instruments
+(1) Capital management
+The Group’s basic policy for capital management is to improve capital efficiency and ensure financial
+soundness in order to achieve sustainable growth and enhance corporate value over the medium to long
+term.
+The Group conducts monitoring of financial indicators as a procedure for capital management. The Group
+monitors return on equity attributable to owners of the Company for capital efficiency and ratio of equity
+attributable to owners of the Company to total assets for financial soundness in a timely manner.
+The Group is not subject to any material capital restrictions.
+(2) Classification of financial instruments
+The breakdown of financial assets and financial liabilities by category is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+<Financial assets>
+Financial assets measured at amortized
+cost
+Cash and cash equivalents 336,613 285,022
+Trade and other receivables 363,920 378,520
+Other financial assets 127,203 76,859
+Financial assets measured at fair value
+through profit or loss
+Other financial assets 4,523 2,398
+Financial assets measured at fair value
+through other comprehensive income
+Other financial assets 160,760 142,509
+Total financial assets 993,021 885,311
+<Financial liabilities>
+Financial liabilities measured at amortized
+cost
+Trade and other payables 159,898 170,854
+Bonds and borrowings 241,433 205,885
+Other financial liabilities 8,726 10,420
+Financial liabilities measured at fair value
+through profit or loss
+Other financial liabilities 12,581 16,608
+Total financial liabilities 422,639 403,768
+(3) Financial risk management
+The Group is exposed to financial risks (market risk, credit risk and liquidity risk) in the course of
+operating activities and conducts risk management in accordance with certain policy to mitigate these
+financial risks. The Group uses derivative transactions to avoid foreign currency risks or interest rate risks
+and, in accordance with its policy, does not carry out any speculative transactions.
+－59－(4) Market risk management
+The Group’s activities are mainly exposed to risks of changes in economic circumstances and financial
+market circumstances. Specifically, the risks of changes in financial market circumstances include 1)
+Foreign currency risk, 2) Interest rate risk, and 3) Risk of fluctuations in equity instrument prices.
+1) Foreign currency risks
+(i) Foreign currency risk management
+The Group engages in business globally, and fluctuations in exchange rates of the US dollar and Euro
+principally affect its operating results.
+With regard to settlement of receivables and payables arising from ongoing operating activities, the
+Group’s policy is to balance foreign exchange receipts and payments as much as possible with three
+major currencies, namely the US dollar, Euro and Yen. More specifically, operating subsidiaries that
+continuously engage in export and import transactions reduce the frequency of exchanging foreign
+currencies by holding foreign currencies received as export proceeds without exchanging them for the
+local currency, and using them directly in payment for imports, in order to mitigate foreign currency risks.
+(ii) Foreign exchange sensitivity analysis
+The Group is principally exposed to foreign currency risks of US dollar and Euro. The following table
+shows the sensitivity analysis in the case where the yen’s value increases by 1% against the US dollar
+and the Euro in each reporting period. In making these calculations, the Group has assumed no changes
+in currencies other than those used. The impact from the translation of functional currency-denominated
+financial instruments, and assets, liabilities, profit and expense of foreign operations into yen is not
+included. This is based on the assumption that other variable factors (such as balances and interest rate)
+are constant.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+USD
+Impact on profit before taxes (530) (377)
+Impact on other comprehensive income (before the
+(206) (169)
+application of tax effects)
+EUR
+Impact on profit before taxes (153) (187)
+Impact on other comprehensive income (before the
+– (1)
+application of tax effects)
+(Note) The above figures in parentheses represent negative effects on profit or loss and equity of the Group in the case where the
+yen’s value increases by 1% against each currency. The above amounts show effects of currency translation on the Group’s
+consolidated financial statements, and do not have direct positive or negative effects on its cash flows and business
+management.
+(iii) Forward exchange contracts and others
+With regard to management of derivative transactions including forward exchange contracts, the Group
+has established management rules for derivative transactions and limits derivative transactions to those
+made for the purpose of hedging risks.
+The Group may enter into forward exchange contracts and other agreements to fix future cash flows
+related to lending and borrowing of funds within the Group in association with receivables and payables
+denominated in foreign currencies or to determine the amount of dividends within the Group. In this case,
+the Group also manages these contracts appropriately in accordance with the internal rules.
+The breakdown of forward exchange contracts and others is presented in “(8) Fair value of financial
+instruments (ii) Fair value of derivatives.”
+－60－2) Interest rate risk
+(i) Interest rate risk management
+The Group is exposed to various interest rate risks in its business activities, and fluctuations in interest
+rates associated with borrowings especially affect its operating results. However, the effect of interest
+rate fluctuations on borrowing costs is offset by income arising from assets that are affected by the
+interest rate fluctuations.
+The Group monitors fluctuations in interest rates arising from these assets and liabilities, and manages
+interest rate risks through refinancing and other means when interest rates drastically fluctuate.
+(ii) Interest rate sensitivity analysis
+The impact of a 1% increase in interest rates for each reporting period on profit before taxes of the Group
+is as follows.
+In this analysis, calculation is made by multiplying balances of financial instruments with variable
+interest rates held by the Group as of the end of each reporting period by 1%, assuming that all other
+variables are constant.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Impact on profit before taxes (232) (177)
+3) Risk of fluctuations in equity instrument prices
+(i) Management of risk of fluctuations in equity instrument prices
+The Group is exposed to risk of fluctuations in share prices arising from equity instruments (shares). The
+Group holds equity instruments not for short-term trading but for smoothly executing business strategies.
+The Group does not sell these investments actively. With regard to equity instruments, the Group
+regularly assesses and monitors fair value and financial conditions of issuers.
+(ii) Price sensitivity analysis
+For equity instruments (shares) held by the Group, the following table shows impact of a 10% decrease
+in the share price on other comprehensive income (before the application of tax effects) of the Group,
+assuming that all other variables are constant.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Impact on other comprehensive income (before the
+(9,893) (8,896)
+application of tax effects)
+(iii) Financial assets measured at fair value through other comprehensive income
+Fair value of financial assets measured at fair value through other comprehensive income and dividend
+income are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Fair value Dividend income Fair value Dividend income
+Listed 98,932 1,165 88,961 1,237
+Unlisted 61,828 512 53,547 508
+Total 160,760 1,677 142,509 1,745
+Of the above, fair values of major financial assets are as follows. The Group classifies investments held
+for the purpose of participating in the management of the investees, encouraging an alliance of
+enterprises or reinforcing sales foundations into financial assets measured at fair value through other
+comprehensive income.
+－61－FY2017 (As of December 31, 2017)
+(Millions of yen)
+Name Amount
+Listed
+EIKEN CHEMICAL CO., LTD. 10,800
+DAIICHI SANKYO COMPANY, LIMITED 10,431
+The Awa Bank, Ltd. 10,095
+VV Food and Beverage Co., Ltd. 7,913
+BML, INC. 5,610
+Other 54,082
+Unlisted
+Pharmaceuticals 33,253
+Electrical equipment 25,279
+Other financial business 826
+Other 2,468
+Total 160,760
+(Note) Names of major unlisted shares are Nichia Corporation (electrical equipment), Proteus Digital Health, Inc. (pharmaceuticals)
+and SomaLogic, Inc. (pharmaceuticals).
+－62－FY2018 (As of December 31, 2018)
+(Millions of yen)
+Name Amount
+Listed
+DAIICHI SANKYO COMPANY, LIMITED 12,470
+EIKEN CHEMICAL CO., LTD. 9,628
+The Awa Bank, Ltd. 8,087
+BML, INC. 5,644
+Dong-A ST., Co., Ltd. 5,415
+Other 47,716
+Unlisted
+Pharmaceuticals 29,482
+Electrical equipment 20,419
+Food 1,363
+Other 2,282
+Total 142,509
+(Note) Names of major unlisted shares are Nichia Corporation (electrical equipment), Proteus Digital Health, Inc. (pharmaceuticals)
+and SomaLogic, Inc. (pharmaceuticals).
+(iv) Derecognition
+The Group sells (derecognizes) financial assets measured at fair value through other comprehensive
+income for the purpose of reviewing the portfolio regularly, managing risk assets, and others.
+Fair value at time of sale and cumulative gains or losses (pre-tax) are as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 to December 31, 2017) (From January 1, 2018 to December 31, 2018)
+Fair value at time of sale Cumulative gains or losses Fair value at time of sale Cumulative gains or losses
+2,273 236 11,302 9,128
+The above item was transferred from other comprehensive income to retained earnings at the time of sale.
+The amount (net of tax) transferred in FY2017 and FY2018 is ¥222 million and ¥7,621 million,
+respectively.
+In FY2017 and FY2018, dividend income from financial assets measured at fair value through other
+comprehensive income that were sold (derecognized) is ¥18 million and ¥3 million, respectively.
+(5) Offsetting of financial assets and financial liabilities
+As of December 31, 2017 and December 31, 2018, there were no significant financial instruments that
+were offset in the consolidated statement of financial position. Among financial assets and financial
+liabilities that were recognized for the same counterparty, there were also no significant financial
+instruments that were under enforceable master netting arrangements or similar contracts but were not
+offset as they did not meet certain or all criteria of offsetting of financial assets and financial liabilities.
+－63－(6) Credit risk management
+Credit risks are risks that result in financial losses incurred by the Group when a customer goes into default
+for contractual obligations. The Group has the sales department and the accounting and finance department
+monitor the status of business partners in terms of trade receivables, etc. regularly, and manage due dates
+and balances for each business partner while working to early identify and mitigate any concerns about
+collections due to deterioration in each business partner’s financial position and other factors. When full or
+partial collection of trade receivables, etc. is considered impossible, or extremely difficult, it is deemed to
+be a default.
+With regard to shares in securities and investment securities, financial conditions of issuers are assessed
+regularly in accordance with the management rules of each Group company. With regard to public and
+corporate bonds, credit risks are insignificant because the Group invests only in highly rated bonds.
+The Group recognizes that there is extremely insignificant credit risk in the use of derivatives since it only
+deals with financial institutions with high credit ratings to mitigate credit risk.
+The Group does not have any credit risk overly concentrated in a specific counterparty or a group to which
+the counterparty belongs.
+1) Allowance for credit losses
+When financial assets are impaired, the Group does not reduce the impairment directly from the carrying
+amount and accounts for the impairment in the allowance for credit losses account. Changes in allowance
+for credit losses are as follows.
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Millions of yen)
+Lifetime expected credit losses
+Financial assets of which Financial assets that are
+Total
+credit risk has increased always measured at an
+significantly since the initial amount equal to lifetime
+recognition expected credit losses
+Balance as of January 1, 2017 80 1,259 1,339
+Increase during the year 22 503 526
+Decrease during the year (utilization) – (88) (88)
+Decrease during the year (reversal) 0 (38) (38)
+Other (18) 223 205
+Balance as of December 31, 2017 84 1,859 1,943
+FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Lifetime expected credit losses
+Financial assets of which Financial assets that are
+Total
+credit risk has increased always measured at an
+significantly since the initial amount equal to lifetime
+recognition expected credit losses
+Balance as of January 1, 2018 84 1,859 1,943
+Increase during the year 70 290 361
+Decrease during the year (utilization) – (381) (381)
+Decrease during the year (reversal) (10) (68) (79)
+Other (29) 194 164
+Balance as of December 31, 2018 114 1,892 2,007
+－64－2) Exposure to credit risk of financial assets
+The carrying amounts after impairment presented in the consolidated statement of financial position
+represent the Group’s maximum exposure to credit risk of financial assets.
+(7) Liquidity risk management
+The Group manages liquidity risk by having the accounting and finance department prepare and update a
+cash flow management plan, maintaining a constant level of liquidity at hand, and other means. A
+temporary shortage of funds due to payment of dividends, bonuses and others is covered with loans from
+banks and other financial institutions.
+The balance of financial liabilities other than liability on guarantee (including derivative financial
+instruments) by maturity is as follows.
+(Millions of yen)
+Due after Due after Due after Due after
+Due after
+FY2017 Carrying Contractual Due within one year two years three years four years
+five
+(As of December 31, 2017) amount cash flows one year through two through through through five
+years
+years three years four years years
+Non-derivative financial
+liabilities
+Trade payables 85,399 85,399 85,399 – – – – –
+Borrowings 241,433 247,220 66,877 41,999 52,450 39,558 38,289 8,043
+Lease obligations 8,311 9,505 2,180 1,581 1,163 766 451 3,362
+Contingent consideration 10,509 11,102 – – 3,644 3,051 – 4,407
+Other 74,913 74,913 74,796 – – – – 117
+Total 420,567 428,140 229,253 43,581 57,258 43,376 38,740 15,929
+Derivative financial liabilities
+Forward exchange contracts
+10 10 10 – – – – –
+and others
+Put options written on shares
+2,061 2,061 – – – – – 2,061
+of foreign subsidiaries
+Total 2,072 2,072 10 – – – – 2,061
+－65－(Millions of yen)
+Due after Due after Due after Due after
+Due after
+FY2018 Carrying Contractual Due within one year two years three years four years
+five
+(As of December 31, 2018) amount cash flows one year through two through through through five
+years
+years three years four years years
+Non-derivative financial
+liabilities
+Trade payables 83,596 83,596 83,596 – – – – –
+Borrowings 205,885 210,935 68,548 51,080 39,977 38,684 5,370 7,273
+Lease obligations 8,054 9,186 2,082 1,742 1,124 809 515 2,910
+Contingent consideration 16,526 18,204 – – 12,321 – 2,997 2,886
+Other 89,623 89,623 89,484 – – – – 139
+Total 403,687 411,546 243,711 52,823 53,423 39,493 8,883 13,210
+Derivative financial liabilities
+Forward exchange contracts
+31 31 31 – – – – –
+and others
+Interest rate swaps 42 42 42 – – – – –
+Currency swaps 7 7 7 – – – – –
+Total 81 81 81 – – – – –
+(8) Fair value of financial instruments
+The details of fair values of financial instruments are presented in “3. Significant Accounting Policies (4)
+Financial instruments.”
+Fair value hierarchy
+The fair value hierarchy classifies fair values as follows.
+Level 1: Fair value measured based on quoted prices in active markets
+Level 2: Fair value calculated directly or indirectly using observable price, other than Level 1 prices
+Level 3: Fair value calculated using valuation techniques including unobservable inputs
+Transfers between fair value hierarchy levels are recognized on the date the event or condition
+prompting the transfer occurred.
+(i) Financial instruments measured at amortized cost
+(Millions of yen)
+Fair value
+FY2017
+Carrying amount
+(As of December 31, 2017)
+Level 1 Level 2 Level 3 Total
+<Financial assets>
+Bonds 5,844 5,848 – – 5,848
+Total 5,844 5,848 – – 5,848
+<Financial liabilities>
+Borrowings 241,433 – 240,899 – 240,899
+Lease obligations 8,311 – 8,930 – 8,930
+Total 249,745 – 249,829 – 249,829
+－66－(Millions of yen)
+Fair value
+FY2018
+Carrying amount
+(As of December 31, 2018)
+Level 1 Level 2 Level 3 Total
+<Financial assets>
+Bonds 560 581 – – 581
+Total 560 581 – – 581
+<Financial liabilities>
+Borrowings 205,885 – 205,092 – 205,092
+Lease obligations 8,054 – 8,633 – 8,633
+Total 213,940 – 213,726 – 213,726
+The calculation method for above fair values is as follows.
+Bonds
+The fair value of bonds is determined based on the quoted price at the stock exchange.
+Borrowings
+The fair value of borrowings with floating interest rates reflects market interest rates within a short
+period of time, and the carrying amount reasonably approximates the fair value. The fair value of those
+with fixed interest rates is determined by the method in which future cash flows are discounted using the
+interest rate when funds are borrowed under the same terms and conditions with the same remaining
+period.
+Lease obligations
+The fair value of lease obligations is determined by the method in which future cash flows are
+discounted using the interest rate when leases are entered into under the same terms and conditions with
+the same remaining period.
+－67－(ii) Fair value of derivatives
+(Millions of yen)
+FY2017 Derivatives not designated
+Cash flow hedges Total
+(As of December 31, 2017) as hedges
+Forward exchange contracts and others (10) 9 (1)
+Put options written on shares of foreign
+– (2,061) (2,061)
+subsidiaries
+Total (10) (2,051) (2,062)
+(Millions of yen)
+FY2018 Derivatives not designated
+Cash flow hedges Total
+(As of December 31, 2018) as hedges
+Forward exchange contracts and others 1 (31) (30)
+Interest rate swaps – (42) (42)
+Currency swaps – (7) (7)
+Total 1 (81) (79)
+The calculation method for above fair values is as follows.
+Forward exchange contracts and others
+The fair value of forward exchange contracts and others is calculated based on the market price of
+forward exchange contracts and others entered into on similar terms and conditions.
+Put options written on shares of foreign subsidiaries
+For put options written on shares of foreign subsidiaries, the fair value is calculated based on the present
+value of the amount that may be required to be paid to the counterparty.
+Interest rate swaps
+Interest rate swaps are used for the purpose of reducing interest borne on borrowings, and their fair value
+is calculated based on the value presented by creditor financial institutions.
+Currency swaps
+Currency swaps are used for the purpose of reducing foreign currency risks on currencies of borrowings,
+and their fair value is calculated based on the value presented by creditor financial institutions.
+－68－(iii) Financial instruments measured at fair value
+(Millions of yen)
+FY2017
+Level 1 Level 2 Level 3 Total
+(As of December 31, 2017)
+<Financial assets>
+Financial assets measured at fair value
+through other comprehensive income
+Equity instruments 98,932 – 61,828 160,760
+Financial assets measured at fair value
+through profit or loss
+Equity instruments 1,493 295 300 2,089
+Loans receivable – – 2,424 2,424
+Derivatives – 9 – 9
+Total 100,426 304 64,553 165,284
+<Financial liabilities>
+Financial liabilities measured at fair
+value through profit or loss
+Derivatives – 10 2,061 2,072
+Contingent consideration – – 10,509 10,509
+Total – 10 12,570 12,581
+(Millions of yen)
+FY2018
+Level 1 Level 2 Level 3 Total
+(As of December 31, 2018)
+<Financial assets>
+Financial assets measured at fair value
+through other comprehensive income
+Equity instruments 88,961 – 53,547 142,509
+Financial assets measured at fair value
+through profit or loss
+Equity instruments 1,520 – 876 2,397
+Derivatives – 1 – 1
+Total 90,482 1 54,424 144,907
+<Financial liabilities>
+Financial liabilities measured at fair
+value through profit or loss
+Derivatives – 81 – 81
+Contingent consideration – – 16,526 16,526
+Total – 81 16,526 16,608
+(Note) In FY2017 and FY2018, there was no significant transfer between Level 1 and 2. There was a transfer from Level 3 to Level 1
+due to listing of shares held. Please refer to “(v) Reconciliation of financial instruments classified as Level 3 from the opening
+balances to the closing balances” for the transfer.
+－69－(iv) Valuation techniques and inputs for financial instruments classified as Level 2 and Level 3
+(a) Valuation techniques and inputs
+Equity instruments
+The fair values of equity instruments are measured using a valuation technique appropriate to
+characteristics of the instrument, such as the comparable company analysis method and the option
+pricing method.
+In the measurement, input information, including stock price index of comparable companies, the
+discount rate according to risk of the instrument, and price of conversion of preference shares held by
+the Group into ordinary shares, is taken into account.
+Loans receivable
+The fair values of loans receivable are determined by the method where future cash flows are
+discounted using the interest rate applicable if new loans are provided under the same terms and
+conditions with the same remaining period, and other methods.
+Derivatives
+The information is provided in “34. Financial Instruments (8) Fair value of financial instruments (ii)
+Fair value of derivatives.”
+Contingent consideration
+Contingent considerations classified as Level 3 are liabilities recognized as a result of recognizing a
+part of the considerations as contingent considerations in the acquisition of shares in Neurovance, Inc.
+in FY2017 and the acquisition of shares in ReCor Medical Inc. in FY2018. Valuation techniques and
+inputs of fair value are provided in note “38. Business Combinations.”
+(b) Valuation processes
+Fair values of Level 3 financial instruments are measured based on internal regulations.
+The Group has adopted appropriate valuation techniques and inputs that reflect the risks,
+characteristics and nature of the financial instruments subject to valuation.
+－70－(v) Reconciliation of financial instruments classified as Level 3 from the opening balances to the closing
+balances
+Fair value measurement as of the end of the year
+FY2017 (Millions of yen)
+(From January 1, 2017 to December 31, 2017)
+Financial assets Financial liabilities
+Balance at the beginning of the year 43,605 6,910
+Gains (losses)
+Recorded in profit or loss (Note 1) (92) (1,356)
+Recorded in other comprehensive income (Note 2) 17,318 83
+Purchase and issuance 11,405 –
+Increase through business combinations – 11,611
+Sales and settlements (5,298) (4,678)
+Transfer into Level 1 due to listing (96) –
+Other (2,287) –
+Balance at the end of the year 64,553 12,570
+Unrealized gains or losses included in profit or loss for assets and
+(22) 498
+liabilities held at the end of the year
+Fair value measurement as of the end of the year
+FY2018 (Millions of yen)
+(From January 1, 2018 to December 31, 2018)
+Financial assets Financial liabilities
+Balance at the beginning of the year 64,553 12,570
+Gains (losses)
+Recorded in profit or loss (Note 1) 3,489 (1,830)
+Recorded in other comprehensive income (Note 2) (15,169) (163)
+Purchase and issuance 12,189 –
+Increase through business combinations – 7,931
+Sales and settlements (7,884) (1,980)
+Transfer into Level 1 due to listing (452) –
+Other (2,302) –
+Balance at the end of the year 54,424 16,526
+Unrealized gains or losses included in profit or loss for assets and
+(148) (1,749)
+liabilities held at the end of the year
+(Notes) 1. Gains or losses included in profit or loss relate to financial assets and financial liabilities measured at fair value through
+profit or loss as of the reporting date. These gains or losses are included in “Other income,” “Finance income” and
+“Finance costs” in the consolidated statement of income.
+2. Gains or losses included in other comprehensive income mainly relate to financial assets measured at fair value through
+other comprehensive income as of the reporting date. These gains or losses are included in “Financial assets measured at
+fair value through other comprehensive income” and “Foreign currency translation reserve” in the consolidated statement
+of comprehensive income.
+－71－(9) Transfer of financial assets
+The Group discounts certain notes receivable for banks before the due date of the note and endorses certain
+notes to suppliers, etc. Even if notes are discounted for banks or endorsed to suppliers, etc., the Group is
+required to purchase the notes back from the bank for which the discount was made or the supplier, etc.
+when the note was not honored. Therefore, discounted notes and endorsed notes continue to be recognized
+as notes receivable until the due date of the note and included and presented in trade and other receivables.
+Amounts received due to the endorsement or discount are presented as other financial liabilities. Other
+financial liabilities (discounted notes, etc.) related to discounted notes and endorsed notes, etc. as of
+December 31, 2017 and December 31, 2018 are as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Other financial liabilities (discounted notes, etc.) 297 246
+(10) Hedge accounting
+The Group utilizes derivatives (forward exchange contracts and others) to hedge foreign currency risk
+associated to forecast transactions denominated in foreign currencies.
+The effect of hedge accounting on consolidated statement of financial position is as follows.
+1) Hedging instrument
+FY2017 (As of December 31, 2017)
+(Millions of yen)
+Line item in the
+Carrying amount of Change in fair
+statement of
+Notional hedging instrument value using
+financial position
+Types of Risk Hedging amount of calculation of
+in which the
+hedges classification instrument hedging the ineffective
+hedging
+instrument Assets Liabilities portion of
+instrument is
+hedge
+recorded
+Forward
+Foreign
+Cash flow exchange Other financial
+currency 466 – 10 (19)
+hedges contracts liabilities (current)
+risks
+and others
+FY2018 (As of December 31, 2018)
+(Millions of yen)
+Line item in the
+Carrying amount of Change in fair
+statement of
+Notional hedging instrument value using
+financial position
+Types of Risk Hedging amount of calculation of
+in which the
+hedges classification instrument hedging the ineffective
+hedging
+instrument Assets Liabilities portion of
+instrument is
+hedge
+recorded
+Forward
+Foreign
+Cash flow exchange Other financial
+currency 242 1 – 12
+hedges contracts assets (current)
+risks
+and others
+－72－2) Hedged items
+FY2017 (As of December 31, 2017)
+(Millions of yen)
+Change in fair value
+using calculation of the Reserve of cash flow
+Types of hedges Risk classification
+ineffective portion of hedges
+hedge
+Foreign currency
+Cash flow hedges 19 (8)
+risks
+FY2018 (As of December 31, 2018)
+(Millions of yen)
+Change in fair value
+using calculation of the Reserve of cash flow
+Types of hedges Risk classification
+ineffective portion of hedges
+hedge
+Foreign currency
+Cash flow hedges (12) 0
+risks
+3) Amounts that affected the consolidated statement of comprehensive income in association with cash flow
+hedges
+FY2017 (As of December 31, 2017)
+(Millions of yen)
+Gains or
+Line item in Amount
+losses on
+profit or loss transferred
+hedges Ineffective Line item in
+(which from reserve
+Risk recognized in portion profit or loss
+Types of hedges includes the of cash flow
+classification other recognized in affected by
+ineffective hedges to
+comprehensiv profit or loss the transfer
+portion of profit or loss
+e income
+hedge) (Note)
+(Note)
+Foreign
+Cash flow hedges currency (19) – – (61) Cost of sales
+risks
+FY2018 (As of December 31, 2018)
+(Millions of yen)
+Gains or
+Line item in Amount
+losses on
+profit or loss transferred
+hedges Ineffective Line item in
+(which from reserve
+Risk recognized in portion profit or loss
+Types of hedges includes the of cash flow
+classification other recognized in affected by
+ineffective hedges to
+comprehensiv profit or loss the transfer
+portion of profit or loss
+e income
+hedge) (Note)
+(Note)
+Foreign
+Cash flow hedges currency 12 – – 9 Cost of sales
+risks
+(Note) The figure represents an amount before tax effect adjustments.
+－73－35. Operating Leases
+The breakdown of the Group’s future minimum lease payments payable under non-cancellable operating
+leases by due date is as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Due within one year 5,203 5,469
+Due after one year through five years 13,970 17,210
+Due after five years 11,782 19,951
+Total 30,956 42,631
+Future minimum sublease payments expected to be received under non-cancellable sublease contracts were
+¥103 million in FY2017 (as of December 31, 2017).
+The breakdown of lease payments and sublease payments under operating lease contracts recognized as
+expenses is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Minimum lease payments 16,357 17,692
+Contingent rent 226 149
+Sublease payments received (113) (5)
+Total 16,470 17,835
+The Group leases buildings, vehicles and other assets as a lessee.
+Renewal options and escalation clauses are attached to some lease contracts. In addition, there are no
+restrictions (restrictions on additional borrowings and additional leases) imposed by the lease contracts.
+36. Subsidiaries and Associates
+Significant subsidiaries and associates of the Company are presented in “I. Overview of the Company 4.
+Overview of Affiliated Entities” (in Japanese only).
+－74－37. Related Parties
+(1) Related party transactions and outstanding balances
+Transactions between the Company or its consolidated subsidiaries and the Company’s related parties that
+are consolidated subsidiaries are eliminated in the consolidation and not disclosed in notes.
+There are no significant transaction volume and balances of payables and receivables between the Group
+and other related parties.
+(2) Remuneration for key management personnel
+Remuneration for key management personnel of the Group is as follows.
+(Millions of yen)
+FY2017 FY2018
+(From January 1, 2017 (From January 1, 2018
+to December 31, 2017) to December 31, 2018)
+Base remuneration and bonuses 1,719 1,607
+Post-employment benefits 87 71
+Share-based payment 235 (22)
+Total remuneration for key management personnel 2,041 1,656
+－75－38. Business Combinations
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Acquisition of Neurovance, Inc.)
+Otsuka Pharmaceutical Co., Ltd., a consolidated subsidiary of the Company, agreed with US-based
+Neurovance, Inc., which is engaged in research and development of pharmaceutical products, to have
+Neurovance, Inc. a wholly-owned company by acquiring shares in exchange for payments of cash and future
+milestones through an acquisition company set up by Otsuka America, Inc. and subsequently merging
+Neurovance, Inc. into the acquired company (hereinafter referred to as the “Acquisition”) on March 2, 2017
+(US Eastern Standard Time) and implemented the Acquisition as of March 17, 2017. Subsequently,
+Neurovance, Inc. was absorbed by Otsuka America Pharmaceutical, Inc., a consolidated subsidiary of the
+Company, on November 30, 2017.
+(1) Overview of business combination
+(i) Name of company acquired and nature of business
+Name of company acquired: Neurovance, Inc.
+Nature of business: Research and development of pharmaceutical products
+(ii) Primary reasons for business combination
+Neurovance, Inc. was established as a spin-off from Euthymics Bioscience, Inc. (head office:
+Cambridge, Massachusetts, U.S.) in 2011 and possesses centanafadine (development code EB-1020)
+which is being developed for the treatment of attention-deficit hyperactivity disorder (ADHD) in
+adult and pediatric patients. Centanafadine is a non-stimulant, triple reuptake inhibitor that modulates
+norepinephrine, dopamine and serotonin reuptake with the intent of improving focus, attention, and
+specific higher level cognitive skills in patients with ADHD. Two phase II clinical trials in adults,
+including a phase IIb trial, have been completed for centanafadine, setting the stage for the start of
+phase III trials in ADHD.
+ADHD is a developmental disorder characterized by carelessness (distractibility, memory loss) and
+hyperactivity/impulsivity (jitter, restlessness). While psychostimulant substances are mainly
+prescribed in the U.S. at present, central excitatory actions as well as psychic dependence and drug
+resistance pose challenges in such substances, and sometimes the overuse and others are considered
+problematic. A medicine with comparable efficacy to stimulant drugs and comparable tolerability to
+non-stimulant drugs and with a potentially lower risk of abuse is required, and expectations have been
+placed on the launch of centanafadine, which has the unique mechanism of action that is the triple
+reuptake inhibitor, on the market.
+The purpose of the Acquisition is to gain a new portfolio of the central nervous system area from
+Neurovance, Inc. to further enhance this area. The Company will continue the research and
+development of therapeutic medicines with the highest priority given to central nervous system,
+oncology, cardiovascular and renal therapeutic areas to address medical needs to be served.
+(iii) Acquisition date
+March 17, 2017
+(iv) Acquisition method and percentage of voting equity interests acquired
+The Company’s acquisition company acquired 100% of shares with voting rights of Neurovance, Inc.
+in exchange for the payment of cash and future milestones.
+－76－(2) Fair values of consideration transferred, assets acquired and liabilities assumed as of the acquisition date
+(Millions of yen)
+Amount
+Fair value of consideration transferred 23,127
+Cash 11,516
+Contingent consideration 11,611
+Fair value of assets acquired and liabilities assumed
+Current assets 463
+Non-current assets 19,296
+Current liabilities (229)
+Non-current liabilities (5,721)
+Fair value of assets acquired and liabilities assumed 13,808
+Goodwill 9,319
+(Notes)
+ Acquisition-related costs are ¥349 million and included in “selling, general and administrative expenses” in the consolidated
+statement of income.
+ There are neither trade and other receivables acquired nor contractual cash flows acquired not expected to be collected.
+ Major components of goodwill are synergies with existing businesses expected to be generated from the acquisition and excess
+earnings power. With regard to goodwill, there is no amount expected to be deductible for tax purposes.
+ Of non-current assets, a major component allocated to intangible assets is in-process research and development of ¥19,279 million.
+ Of non-current liabilities, deferred tax liabilities recognized in the business combination is ¥5,721 million.
+(3) Contingent consideration
+Contingent considerations consist of the milestones to be paid based on the progress of the development
+of centanafadine (development code: EB-1020), a compound under development by Neurovance, Inc. for
+the treatment of ADHD, and the ones to be paid based on revenue after the launch, the maximum
+potential amounts of which are USD 150 million and USD 750 million respectively.
+The fair value of the contingent considerations is estimated based on the probability-weighted present
+value of the potential amount to be paid to the counterparty.
+The level of contingent considerations in the fair value hierarchy is classified as Level 3.
+The details of the fair value hierarchy are provided in “34. Financial Instruments.”
+Changes in the fair value of the contingent considerations for the previous fiscal year are as follows.
+(Millions of yen)
+FY2017
+Amount
+(From January 1, 2017 to December 31, 2017)
+Balance at the beginning of the year –
+Business combination 11,611
+Settlement –
+Changes in fair value (1,186)
+Foreign currency translation adjustment 83
+Balance at the end of the year 10,509
+－77－(4) Effect on operating results of the Group
+The amounts of revenue and profit or loss of Neurovance, Inc. since the acquisition date that are included
+in the Group’s consolidated statement of income are insignificant. In addition, disclosure of revenue and
+profit or loss on the assumption that the acquisition date had been January 1, 2017 (so-called “pro-forma”
+information) is not presented due to insignificance of the effect.
+(Acquisition of Daiya Foods Inc.)
+Otsuka Pharmaceutical Co., Ltd., a consolidated subsidiary of the Company, entered into an agreement to
+acquire all shares of Daiya Foods Inc., which is engaged in the development, manufacture and sale of plant-
+based foods in North America, through an acquisition company established by Otsuka Pharmaceutical Co.,
+Ltd. in Canada, as of July 26, 2017 (local time). This acquisition was completed on August 31, 2017.
+(1) Overview of business combination
+(i) Name of company acquired and nature of business
+Name of company acquired: Daiya Foods Inc.
+Nature of business: Research and development, manufacture and sale of plant-based
+(plant-derived) foods and dairy-free (dairy alternative) foods
+(ii) Primary reasons for business combination
+Daiya Foods Inc. was founded in Vancouver, Canada in 2008, with the purpose of developing,
+manufacturing and selling plant-based foods. Since then, Daiya Foods Inc. has been expanding its
+revenue in the large U.S. market, while continuing to grow its Canadian business. Daiya Foods Inc.
+offers a growing portfolio of delicious, plant-based foods, including cheese alternative products,
+yogurt alternatives, dressings and desserts. Its products attract a wide-range of consumers, appealing
+to those with high health consciousness, as well as vegans, vegetarians and consumers with food
+allergies and intolerances. Daiya Foods Inc. tripled its revenue from 2013 to 2016 and generated
+revenue of approximately CAD 90 million over the last twelve months, rapidly growing in the North
+American market.
+Under the corporate philosophy of “Otsuka-people creating new products for better health
+worldwide.”, which means to create innovative products in order to contribute to the health of people
+all over the world, the Group operates the pharmaceutical business and nutraceutical business closely
+together, aiming to care for people’s overall health not only by treating illness, but also by sustaining
+and improving day-to-day well-being. This acquisition enables the Group to widen its nutraceutical
+product portfolio by entering a new category of plant-based products, and to expand its nutraceutical
+business in North America. In addition, Daiya Foods Inc. will expand its business to Europe and Asia,
+and Otsuka Pharmaceutical Co., Ltd. together with Daiya Foods Inc., will continue to promote its
+global nutraceutical business with innovative products to contribute to the health of people all over
+the world.
+(iii) Acquisition date
+August 31, 2017
+(iv) Acquisition method and percentage of voting equity interests acquired
+Through an acquisition company established by Otsuka Pharmaceutical Co., Ltd., a consolidated
+subsidiary of the Company, in Canada, 100% of shares with voting rights of Daiya Foods Inc. were
+acquired in exchange for cash.
+－78－(2) Fair values of consideration transferred, assets acquired and liabilities assumed as of the acquisition date
+(Millions of yen)
+Amount
+Fair value of consideration transferred 35,209
+Cash 35,209
+Fair value of assets acquired and liabilities assumed
+Current assets 2,983
+Non-current assets 26,089
+Current liabilities (1,582)
+Non-current liabilities (4,262)
+Fair value of assets acquired and liabilities assumed 23,227
+Goodwill 11,981
+(Notes)
+ Acquisition-related costs are ¥527 million and included in “selling, general and administrative expenses” in the
+consolidated statement of income.
+ There are neither trade and other receivables acquired nor contractual cash flows acquired not expected to be
+collected.
+ Major components of goodwill are synergies with existing businesses expected to be generated from the acquisition
+and excess earnings power. With regard to goodwill, there is no amount expected to be deductible for tax purposes.
+ Of non-current assets, major components allocated to intangible assets are trademarks, distribution rights and others
+of ¥6,626 million and other intangible assets of ¥17,896 million.
+ Of non-current liabilities, deferred tax liabilities recognized in the business combination is ¥4,037 million.
+ While provisional fair values were provided for certain amounts in FY2017, allocation of the acquisition price was
+completed in FY2018. Consequently, no change was made to the fair values of assets acquired and liabilities
+assumed from the provisional fair values in FY2017.
+(3) Effect on operating results of the Group
+The amounts of revenue and profit or loss of Daiya Foods Inc. since the acquisition date that are included
+in the Group’s consolidated statement of income are insignificant. In addition, disclosure of revenue and
+profit or loss on the assumption that the acquisition date had been January 1, 2017 (so-called “pro-forma”
+information) is not presented due to insignificance of the effect.
+－79－FY2018 (From January 1, 2018 to December 31, 2018)
+(Acquisition of ReCor Medical Inc.)
+The Company exercised an acquisition option to acquire the remaining shares of ReCor Medical Inc., which
+had previously been the Company’s associate company, on June 29, 2018 (Japan time) and made ReCor
+Medical Inc. its wholly owned subsidiary (hereinafter referred to as “the Acquisition”). ReCor Medical Inc.
+manufactures and develops medical devices in the United States.
+(i) Overview of business combination
+(a) Name of company acquired and nature of business
+Name of company acquired: ReCor Medical Inc.
+Nature of business: Manufacture and development of medical devices (ultrasound renal
+denervation devices)
+(b) Primary reasons for business combination
+The Group has had a minority interest in ReCor Medical Inc. since 2014 and obtained the exclusive
+development and sales rights of ultrasound renal denervation therapeutic devices in Asia. Since then,
+the two parties have developed a good working relationship through jointly developing the device
+(conducting the REQUIRE test) in Japan and South Korea.
+ReCor Medical Inc.’s clinical trial (RADIANCE-HTN SOLO trial) showed a positive result, and in
+June, it obtained permission to implement the next clinical trial (RADIANCE II) from the Food and
+Drug Administration (FDA) in the U.S. After that, the Group exercised the acquisition option.
+(c) Acquisition date
+June 29, 2018
+(d) Acquisition background and percentage of voting equity interests acquired
+Before the acquisition, the Group held 22% of the voting equity interests. As a result of exercising its
+acquisition option, the Group acquired all the remaining shares and converted existing convertible
+loans that Otsuka Medical Devices Co., Ltd., held. ReCor Medical Inc. has become a 100%-owned
+subsidiary of the Group.
+(ii) Fair values of consideration transferred, assets acquired and liabilities assumed as of the acquisition date
+(Millions of yen)
+Amount
+Fair value of consideration transferred 50,854
+Cash 16,293
+Contingent consideration 7,931
+Fair value of existing shareholding 9,066
+Others (Note 1) 17,563
+(Millions of yen)
+Amount
+Fair value of assets acquired and liabilities assumed
+Current assets 671
+Non-current assets 56,577
+Current liabilities (384)
+Non-current liabilities (15,646)
+Fair value of assets acquired and liabilities assumed 41,219
+Goodwill 9,635
+Total 50,854
+－80－(Notes) 1. The amount of “others” under the fair value of consideration transferred includes the fair values of the acquisition option,
+of existing convertible loans and of contractual rights on the basis of the joint development and commercializing
+agreement between the Group and ReCor Medical Inc. (hereinafter referred to as “the co-development and
+commercializing agreement”). The fair value of the co-development and commercializing agreement is based on
+estimated future cash flows arising from the contract.
+2. The Group remeasured its existing shareholding, acquisition option, convertible loans and the co-development and
+commercializing agreement at the fair value at the date of acquisition. The Group recognizes ¥8,442 million
+remeasurement gain from its shareholding, ¥833 million remeasurement gain of the acquisition option, ¥3,067 million
+remeasurement gain from convertible loans and ¥9,529 million remeasurement gain from the co-development and
+commercializing agreement. The remeasurement gains from the shareholding and the co-development and
+commercializing agreement are included in “other income,” and the remeasurement gains from acquisition option and
+convertible loans are included in “finance income” in the consolidated statement of income.
+3. Acquisition-related costs are ¥66 million and included in “selling, general and administrative expenses” in the
+consolidated statement of income.
+4. For acquired trade and other receivables, there is no contractual cash flow that is not expected to be collected.
+5. Major components of goodwill are synergies with existing businesses expected to be generated from the acquisition and
+excess earnings power. With regard to goodwill, there is no amount expected to be deductible for tax purposes.
+6. Of non-current assets, a major component allocated to intangible assets is in-process research and development of
+¥56,452 million.
+7. Of non-current liabilities, deferred tax liabilities recognized in the business combination is ¥15,645 million.
+8. Measurement of fair values of assets acquired and liabilities assumed and allocation of the acquisition price were
+completed in the current fiscal year. Major adjustments from the initial provisional amount were increases in in-process
+research and development and deferred tax liabilities of ¥1,133 million and ¥305 million, respectively. As a result,
+goodwill increased by ¥273 million.
+(iii) Effect on operating results of the Group
+The amounts of revenue and profit or loss of ReCor Medical Inc. since the acquisition date that are
+included in the Group’s consolidated statement of income are insignificant. Furthermore, the information
+about revenue and profit and loss on the assumption that the acquisition date had been January 1, 2018
+(so-called “pro-forma” information) is not disclosed because the effect is insignificant.
+(Acquisition of Visterra, Inc.)
+On July 11, 2018, Otsuka Pharmaceutical Co., Ltd. (“Otsuka”), a consolidated subsidiary of the Company,
+entered into an agreement to acquire all shares of Visterra, Inc. (“Visterra”), which is engaged in research and
+development of pharmaceutical products in the United States, through an acquisition company set up by
+Otsuka America, Inc. (“Otsuka America”), a consolidated subsidiary of the Company. This acquisition was
+completed on August 31, 2018.
+(i) Overview of business combination
+(a) Name of company acquired and nature of business
+Name of company acquired: Visterra, Inc.
+Nature of business: Research and development of pharmaceutical products
+(b) Primary reasons for business combination
+Visterra has unique antibody platform technologies (Hierotope® platform) that enable computer
+estimations of three-dimensional structures of a portion of a protein deemed essential for its function,
+simulations of the structure in combination with numerous partial structures of antibodies, detection
+of optimal antibody structures, and design of antibody drugs. These technologies may make it
+possible to develop antibody drugs to many biological materials that were previously considered
+difficult to address. Visterra has already created several clinical development products from the
+antibody technologies, and it also has multiple programs that will move to clinical development soon.
+Among them, a clinical trial was launched for “VIS649,” which is aimed at treatment of IgA
+nephropathy, as an effective therapeutic approach to this disease for which there is currently no
+approved medication.
+Otsuka will promote further drug development by newly acquiring the base for antibody drug
+discovery, in addition to the existing base for small-molecule drug discovery, through this acquisition.
+(c) Acquisition date
+August 31, 2018
+－81－(d) Acquisition background and percentage of voting equity interests acquired
+The acquisition company set up by Otsuka America acquired 100% of the outstanding voting shares
+in Visterra in exchange for cash.
+(ii) Fair values of consideration transferred, assets acquired and liabilities assumed as of the acquisition date
+(Millions of yen)
+Amount
+Fair value of consideration transferred 47,813
+Cash 47,813
+Fair value of assets acquired and liabilities assumed
+Current assets 1,260
+Non-current assets 22,667
+Current liabilities (1,683)
+Non-current liabilities (1,161)
+Fair value of assets acquired and liabilities assumed 21,083
+Goodwill 26,730
+Total 47,813
+(Notes) 1. Acquisition-related costs are ¥475 million and included in “selling, general and administrative expenses” in the
+consolidated statement of income.
+2. The total amount of trade and other receivables is ¥1,030 million, none of which is expected to be uncollectible.
+3. Major components of goodwill are synergies with existing businesses expected to be generated from the acquisition and
+excess earnings power. With regard to goodwill, there is no amount expected to be deductible for tax purposes.
+4. Of non-current assets, a major component allocated to intangible assets is in-process research and development of ¥17,658
+million and other intangible assets of ¥4,775 million.
+5. Of non-current liabilities, deferred tax liabilities recognized in the business combination is ¥1,059 million.
+6. Measurement of fair values of assets acquired and liabilities assumed and allocation of the acquisition price were
+completed in the current fiscal year. Major adjustments from the initial provisional amount were increases in in-process
+research and development, other intangible assets and deferred tax liabilities of ¥17,658 million, ¥4,775 million and
+¥1,059 million, respectively, and a decrease in contract liabilities of ¥1,260 million. As a result, goodwill decreased by
+¥22,635 million.
+(iii) Effect on operating results of the Group
+The amounts of revenue and profit or loss of Visterra since the acquisition date that are included in the
+Group’s consolidated statement of income are insignificant. Furthermore, the information about revenue
+and profit and loss on the assumption that the acquisition date had been January 1, 2018 (so-called “pro-
+forma” information) is not disclosed because the effect is insignificant.
+－82－(Contingent consideration)
+Contingent considerations arose from the business combination of Neurovance, Inc. and ReCor Medical Inc.
+The contingent considerations from the acquisition of Neurovance, Inc. consist of the milestones to be paid
+based on the progress of the development of centanafadine, which is a compound under development as a
+treatment of ADHD, obtained when the Group acquired Neurovance, Inc. in March 2017, and the ones to be
+paid based on the revenue after the launch of centanafadine. The maximum potential amounts of the
+milestones will be USD 125 million and USD 750 million, respectively.
+The contingent considerations from the acquisition of ReCor Medical Inc. are the milestones to be paid based
+on the progress of the development of the ultrasound renal denervation device obtained by the Group at its
+acquisition in June 2018. The maximum potential amount of the milestones will be USD 125 million.
+The fair value of the contingent considerations is estimated based on the probability-weighted present value of
+the potential amount to be paid to the counterparty.
+The level of contingent considerations in the fair value hierarchy is classified as Level 3.
+Among the gains and losses from the changes in the fair value of the contingent considerations, the portion
+based on changes of time value is recognized in finance costs, and the one based on changes of non-time-
+value is recognized in either other income or other expenses.
+The details of the fair value hierarchy are provided in “34. Financial Instruments.”
+Changes in the fair value of the contingent considerations for the current fiscal year are as follows.
+(Millions of yen)
+FY2018
+Amount
+(From January 1, 2018 to December 31, 2018)
+Balance at the beginning of the year 10,509
+Business combination 7,931
+Changes in fair value (1,749)
+Foreign currency translation adjustment (163)
+Balance at the end of the year 16,526
+－83－39. Cash Flow Information
+FY2017 (From January 1, 2017 to December 31, 2017)
+Payments for acquisition of subsidiaries
+As stated in “38. Business Combinations,” the Group acquired the shares in Neurovance, Inc., Daiya Foods
+Inc. and one other company. The following represents amounts of assets, liabilities and purchase consideration
+transferred as at the acquisition date.
+(Millions of yen)
+FY2017
+(From January 1, 2017
+to December 31, 2017)
+Current assets 3,601
+Non-current assets 45,716
+Goodwill 22,089
+Current liabilities (2,230)
+Non-current liabilities (9,984)
+Total consideration transferred for acquisition of subsidiaries 59,192
+Less: Amount of contingent considerations included in the consideration transferred (11,611)
+Less: Cash and cash equivalents that were held by the acquired companies at the time of the
+(480)
+acquisition
+Cash and cash equivalents spent to gain the control 47,100
+FY2018 (From January 1, 2018 to December 31, 2018)
+Payments for acquisition of subsidiaries
+As stated in “38. Business Combinations,” the Group acquired the shares in ReCor Medical Inc., Visterra, Inc.
+and one other company. The following represents amounts of assets, liabilities and purchase consideration
+transferred as at the acquisition date.
+(Millions of yen)
+FY2018
+(From January 1, 2018
+to December 31, 2018)
+Current assets 2,212
+Non-current assets 79,840
+Goodwill 40,167
+Current liabilities (2,230)
+Non-current liabilities (16,808)
+Total consideration transferred for acquisition of subsidiaries 103,181
+Less: Amount of contingent considerations included in the consideration transferred (7,931)
+Less: Amount of non-cash transactions included in the consideration transferred (26,629)
+Less: Cash and cash equivalents that were held by the acquired companies at the time of the
+(837)
+acquisition
+Foreign currency translation and others 316
+Cash and cash equivalents spent to gain the control 68,101
+－84－40. Reconciliation of Liabilities Arising From Financing Activities
+Reconciliation of liabilities classified as cash flows from financing activities is as follows.
+FY2017 (From January 1, 2017 to December 31, 2017)
+(Millions of yen)
+Changes due to non-cash transactions
+Balance Business Balance
+Exchange
+as of combina- Changes in as of
+Cash flow New leases Transfer rate
+January 1, tion and fair value December
+fluctuations
+2017 others 31, 2017
+Current liabilities
+Bonds and borrowings 79,264 (57,642) 298 – 41,971 – 580 64,472
+Other financial liabilities 2,126 (2,069) 6 74 1,878 – 0 2,017
+Lease obligations 2,126 (2,069) 6 74 1,878 – 0 2,017
+Total 81,390 (59,712) 305 74 43,850 – 580 66,489
+Non-current liabilities
+Bonds and borrowings 193,972 25,126 223 – (41,971) – (388) 176,961
+Other financial liabilities 11,820 (4,904) 2 3,500 (1,878) (170) (13) 8,355
+Lease obligations 4,910 (225) 2 3,500 (1,878) – (13) 6,294
+Derivative liabilities 6,910 (4,678) – – – (170) – 2,061
+Total 205,792 20,222 225 3,500 (43,851) (170) (402) 185,316
+FY2018 (From January 1, 2018 to December 31, 2018)
+(Millions of yen)
+Changes due to non-cash transactions
+Balance Business Balance
+Exchange
+as of combina- Changes in as of
+Cash flow New leases Transfer rate
+January 1, tion and fair value December
+fluctuations
+2018 others 31, 2018
+Current liabilities
+Bonds and borrowings 64,472 (37,506) (556) – 41,545 – (2,043) 65,912
+Other financial liabilities 2,017 (1,937) 12 105 3,677 – (1) 3,874
+Lease obligations 2,017 (1,937) 12 105 1,697 – (1) 1,894
+Other – – – – 1,980 – – 1,980
+Total 66,489 (39,443) (544) 105 45,222 – (2,044) 69,787
+Non-current liabilities
+Bonds and borrowings 176,961 6,308 (88) – (41,545) – (1,663) 139,973
+Other financial liabilities 8,355 (265) 9 1,837 (3,677) (81) (18) 6,159
+Lease obligations 6,294 (265) 9 1,837 (1,697) – (18) 6,159
+Derivative liabilities 2,061 – – – (1,980) (81) – –
+Total 185,316 6,043 (79) 1,837 (45,222) (81) (1,682) 146,132
+－85－41. Commitments
+Commitments related to expenditures after the reporting date are as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Acquisition of property, plant and equipment 13,616 1,641
+Acquisition of intangible assets 406,578 326,180
+Commitments related to the acquisition of intangible assets
+The Group has entered into license agreements, etc. for development and distribution rights and others of
+products under development or finished products with third parties. The Group may pay a certain amount of
+money when milestones related to development or sales targets specified in these agreements are achieved.
+The above represents the maximum amount to be paid if all the milestones are achieved and may be different
+from the amount actually paid. Risk adjustment and discount have not been made for the amount.
+42. Contingent Liabilities
+Amount of liability on guarantee
+The Group has provided guarantee for borrowings of associates from financial institutions as follows.
+(Millions of yen)
+FY2017 FY2018
+(As of December 31, 2017) (As of December 31, 2018)
+Outstanding guarantees 130 120
+－86－43. Subsequent Events
+Based on the resolution at the Board of Directors meeting held on February 13, 2019, the Company issued
+domestic unsecured straight bonds of ¥80,000 million in total on March 7, 2019. The overview is as follows.
+(1) 1st unsecured bonds
+(i) Name The 1st unsecured bonds of Otsuka Holdings Co., Ltd.
+(with pari passu clause solely among specified bonds)
+(ii) Total issuance amount ¥20,000 million
+(iii) Date of issuance March 7, 2019
+(iv) Issuance value ¥100 per ¥100 of each bond
+(v) Interest rate 0.120% per annum
+(vi) Maturity and redemption method March 7, 2024 (five-year bonds), bullet redemption at maturity
+(vii) Content of collateral Neither collateral nor guarantee has been provided for these bonds, and no asset
+has been particularly retained for the bonds.
+(viii) Use of funds Procured funds will be used for repayment of borrowings and for working capital
+by the end of December 2019.
+(2) 2nd unsecured bonds
+(i) Name The 2nd unsecured bonds of Otsuka Holdings Co., Ltd.
+(with pari passu clause solely among specified bonds)
+(ii) Total issuance amount ¥30,000 million
+(iii) Date of issuance March 7, 2019
+(iv) Issuance value ¥100 per ¥100 of each bond
+(v) Interest rate 0.260% per annum
+(vi) Maturity and redemption method March 6, 2026 (seven-year bonds), bullet redemption at maturity
+(vii) Content of collateral Neither collateral nor guarantee has been provided for these bonds, and no asset
+has been particularly retained for the bonds.
+(viii) Use of funds Procured funds will be used for repayment of borrowings and for working capital
+by the end of December 2019.
+(3) 3rd unsecured bonds
+(i) Name The 3rd unsecured bonds of Otsuka Holdings Co., Ltd.
+(with pari passu clause solely among specified bonds)
+(ii) Total issuance amount ¥30,000 million
+(iii) Date of issuance March 7, 2019
+(iv) Issuance value ¥100 per ¥100 of each bond
+(v) Interest rate 0.375% per annum
+(vi) Maturity and redemption method March 7, 2029 (ten-year bonds), bullet redemption at maturity
+(vii) Content of collateral Neither collateral nor guarantee has been provided for these bonds, and no asset
+has been particularly retained for the bonds.
+(viii) Use of funds Procured funds will be used for repayment of borrowings and for working capital
+by the end of December 2019.
+－87－(2) Others
+(i) Quarterly information for FY2018
+(Cumulative period) First quarter Second quarter Third quarter Full year
+Revenue (Millions of yen) 294,650 618,325 948,074 1,291,981
+Profit before taxes (Millions of yen) 31,109 81,083 98,945 109,497
+Profit attributable to owners of
+(Millions of yen) 22,726 64,302 78,104 82,492
+the Company
+Basic earnings per share (Yen) 41.94 118.67 144.15 152.24
+(Accounting period) First quarter Second quarter Third quarter Fourth quarter
+Basic earnings per share (Yen) 41.94 76.73 25.47 8.09
+(Note) In the fourth quarter, provisional accounting treatment for business combinations was finalized. The above table shows
+amounts of related quarterly information items after reflecting the review for the second quarter and the third quarter.
+(ii) Litigation, etc.
+In federal and state courts in the United States, the Group has faced many lawsuits for damages brought by
+plaintiffs claiming that ABILIFY caused compulsive gambling and other impulse control disorders. On
+February 15, 2019, the Group agreed with the representative of the plaintiff group to establish a settlement
+program to settle all the suits that had been brought by January 28, 2019.
+(iii) Events after the reporting date
+Not applicable.
+－88－

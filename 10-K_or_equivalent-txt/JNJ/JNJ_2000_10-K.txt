@@ -1,0 +1,2080 @@
+JOHNSON & JOHNSON
+FORM 10-K405/A
+(Amended Annual Report (Regulation S-K, item 405))
+Filed 6/27/2000 For Period Ending 1/2/2000
+Address ONE JOHNSON & JOHNSON PLZ
+NEW BRUNSWICK, New Jersey 08933
+Telephone 732-524-2454
+CIK 0000200406
+Industry Major Drugs
+Sector Healthcare
+Fiscal Year 01/03SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+ANNUAL REPORT PURSUANT TO SECTION 13 OF
+THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended January 2, 2000 Commission file number 1-3215
+J O H N S O N & J O H N S O N
+(Exact name of registrant as
+specified in its charter)
+New Jersey 22-l024240
+(State of (I.R.S. Employer
+Incorporation) Identification No.)
+One Johnson & Johnson Plaza
+New Brunswick, New Jersey 08933
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code (732) 524-0400
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT
+Name of each exchange on
+Title of each class which registered
+------------------- -----------------------
+Common Stock, Par Value $1.00 New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes X No
+Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K [ X ]
+The aggregate market value of the voting stock held by non-affiliates of the registrant on February 22, 2000 was approximately $108.1 billion.
+On February 22, 2000 there were 1,389,935,650 shares of Common Stock outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Parts I and II: Portions of registrant's annual report to shareowners for fiscal year 1999.
+Part III: Portions of registrant's proxy statement for its 2000 annual meeting of shareowners.SIGNATURES
+Pursuant to the requirements of Section l3 of the Securities Exchange Act of l934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+Date: June 27, 2000 JOHNSON & JOHNSON
+(Registrant)
+By /s/ R. S. Larsen
+---------------------------------------
+R. S. Larsen, Chairman, Board of Directors
+and Chief Executive Officer
+Pursuant to the requirements of the Securities Exchange Act of l934, this report has been signed below by the following persons on behalf of
+the registrant and in the capacities and on the dates indicated.
+Signature Title Date
+--------- ----- ----
+/s/ R. S. Larsen Chairman,
+----------------------- Board of Directors and
+R. S. Larsen Chief Executive
+Officer, and Director
+(Principal
+Executive Officer) June 27, 2000
+/s/ R. J. Darretta Vice President-Finance
+----------------------- (Principal Financial
+R. J. Darretta Officer) June 26, 2000
+/s/ C. E. Lockett Controller June 27, 2000
+-----------------------
+C. E. Lockett
+/s/ G. N. Burrow Director June 26, 2000
+-----------------------
+G. N. Burrow
+/s/ J. G. Cooney Director June 22, 2000
+-----------------------
+J. G. Cooney
+/s/ J. G. Cullen Director June 23, 2000
+-----------------------
+J. G. Cullen
+/s/ M. J. Folkman Director June 22, 2000
+--------------------------
+M. J. Folkman
+1Signature Title Date
+--------- ----- ----
+/s/ A. D. Jordan Director June 22, 2000
+------------------------
+A. D. Jordan
+Director June , 2000
+------------------------
+A. G. Langbo
+/s/ J. S. Mayo Director June 22, 2000
+------------------------
+J. S. Mayo
+/s/ L. F. Mullin Director June 23, 2000
+-------------------------
+L. F. Mullin
+/s/ H. B. Schacht Director June 23, 2000
+------------------------
+H. B. Schacht
+/s/ M. F. Singer Director June 23, 2000
+------------------------
+M. F. Singer
+/s/ J. W. Snow Director June 22, 2000
+------------------------
+J. W. Snow
+/s/ R. N. Wilson Vice Chairman, June 27, 2000
+------------------------ Board of Directors
+R. N. Wilson and Director
+2EXHIBIT INDEX
+Reg. S-K
+Exhibit Table Description
+Item No. of Exhibit
+------------- -----------
+3(a)(i) Restated Certificate of Incorporation dated April 26,
+1990- Incorporated herein by reference to Exhibit 3(a)
+of the Registrant's Form 10-K Annual Report for the year
+ended December 30, 1990.
+3(a)(ii) Certificate of Amendment to the Restated Certificate of
+Incorporation of the Company dated May 20, 1992 --
+Incorporated herein by reference to Exhibit 3(a) of the
+Registrant's Form 10-K Annual Report for the year ended
+January 3, 1993.
+3(a)(iii) Certificate of Amendment to the Restated Certificate of
+Incorporation of the Company dated May 21, 1996 --
+Incorporated herein by reference to Exhibit 3(a)(iii) of
+the Registrant's Form 10-K Annual Report for the year
+ended December 29, 1996.
+3(b) By-Laws of the Company, as amended effective April 23,
+1999 -- Incorporated herein by reference to Exhibit 3 of
+the Registrant's Form 10-Q Quarterly Report for the
+quarter ended July 4, 1999.
+4(a) Upon the request of the Securities and Exchange
+Commission, the Registrant will furnish a copy of all
+instruments defining the rights of holders of long term
+debt of the Registrant.
+10(a) Stock Option Plan for Non-Employee Directors --
+Incorporated herein by reference to Exhibit 10(a) of the
+Registrant's Form 10-K Annual Report for the year ended
+December 29, 1996.*
+10(b) 1995 Stock Option Plan (as amended) -- Incorporated
+herein by reference to Exhibit 10(b) of the
+Registrant's Form 10-K Annual Report for the year ended
+January 3, 1999.*
+10(c) 1991 Stock Option Plan (as amended) -- Incorporated
+herein by reference to Exhibit 10(c) of the
+Registrant's Form 10-K Annual Report for the year ended
+December 28, 1997.*
+10(d) 1986 Stock Option Plan (as amended) -- Incorporated
+herein by reference to Exhibit 10(d) of the
+Registrant's Form 10-K Annual Report for the year ended
+December 28, 1997.*
+10(e) 1995 Stock Compensation Plan -- Incorporated herein by
+reference to Exhibit 10(e) of the Registrant's Form 10-K
+Annual Report for the year ended December 31, 1995.*
+10(f) Executive Incentive Plan -- Incorporated herein by
+reference to Exhibit 10(f) of the Registrant's Form 10-K
+Annual Report for the year ended December 29, 1996.*
+10(g) Domestic Deferred Compensation Plan (as amended) --
+Incorporated herein by reference to Exhibit 10(g) of the
+Registrant's Form 10-K Annual Report for the year ended
+December 29, 1996.*
+10(h) Deferred Fee Plan for Directors (as amended) --
+Incorporated herein by reference to Exhibit 10(h) of the
+Registrant's Form 10-K Annual Report for the year ended
+December 29, 1996.*
+10(i) Executive Income Deferral Plan (as amended)--(1). *
+310(j) Excess Savings Plan -- Incorporated herein by reference
+to Exhibit 10(j) of the Registrant's Form 10-K Annual
+Report for the year ended December 29, 1996.*
+10(k) Supplemental Retirement Plan -- Incorporated herein by
+reference to Exhibit 10(h) of the Registrant's Form 10-K
+Annual Report for the year ended January 3, 1993.*
+10(l) Executive Life Insurance Plan -- Incorporated herein by
+reference to Exhibit 10(i) of the Registrant's Form 10-K
+Annual Report for the year ended January 3, 1993.*
+10(m) Stock Option Gain Deferral Plan --(1). *
+10(n) Estate Preservation Plan --(1). *
+12 -- Statement of Computation of Ratio of Earnings to
+Fixed Charges -- (1).
+13 -- Pages 22-46 of the Company's Annual Report to
+Shareowners for fiscal year 1999 (only those portions
+of the Annual Report incorporated by reference in this
+document are deemed "filed") - (1).
+21 -- Subsidiaries -- (1).
+23 -- Consent of Independent Auditors - (1).
+27 -- Financial Data Schedule for Year Ended January 2,
+2000 - (1).
+99(a)(i) -- Form 11-K for the Johnson & Johnson Savings
+Plan -- Filed with this document.
+99(a)(ii) -- Form 11-K for the Johnson & Johnson Retirement
+Savings Plan -- Filed with this document.
+99(a)(iii) -- Form 11-K for the Johnson & Johnson Savings Plan for
+Union Represented Employees -- Filed with this document
+99(a) (iv) -- Form 11-K for the Centocor Qualified Savings and
+Retirement Plan -- Filed with this document.
+99(b) -- Cautionary Statement pursuant to Private Securities
+Litigation Reform Act of 1995: "Safe Harbor" for
+Forward-Looking Statements -- (1).
+(1) Incorporated herein by reference to the Exhibit bearing the same Exhibit Number in Registrant's Form 10-K Annual Report for the fiscal
+year ended January 2, 2000.
+* Management contracts and compensatory plans and arrangements required to be filed as Exhibits to this form pursuant to Item 14(c) of the
+report.
+A copy of any of the Exhibits listed above will be provided without charge to any shareowner submitting a written request specifying the
+desired Exhibit(s) to the Secretary at the principal executive offices of the Company.Exhibit 99(a)(i)
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 11-K
+[X] ANNUAL REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+For the Fiscal Year Ended January 2, 2000
+OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+Commission File Number 1-3215
+JOHNSON & JOHNSON
+SAVINGS PLAN
+(Full title of the Plan)
+JOHNSON & JOHNSON
+ONE JOHNSON & JOHNSON PLAZA
+NEW BRUNSWICK, NEW JERSEY 08933
+(Name of issuer of the securities held pursuant to the Plan and the address of its principal executive office)Item 4. Financial Statements and Exhibits
+Report of Independent Accountants
+Financial Statements:
+Balance Sheets as of December 31, 1999 and 1998
+Statement of Operations and Changes in Plan Equity for the years ended December 31, 1999 and 1998
+Notes to Financial Statements
+Supplemental Schedules:
+Schedule of Investments at December 31, 1999
+Schedule of 5% Reportable Transactions for the year ended December 31, 1999
+Consent of PricewaterhouseCoopers LLP, dated June 23, 2000
+The Plan. Pursuant to the requirements of the Securities Exchange Act of 1934, the trustees (or other persons who administer the employee
+benefit plan) have duly caused this annual report to be signed on its behalf by the undersigned hereunto duly authorized.
+JOHNSON & JOHNSON SAVINGS PLAN
+By: /s/ R. J. Darretta
+---------------------------------
+R. J. Darretta
+Chairman, Pension Committee
+June 26, 2000JOHNSON & JOHNSON SAVINGS PLAN
+FINANCIAL STATEMENTS AND
+SUPPLEMENTAL SCHEDULES
+AS OF AND FOR THE YEARS ENDED
+DECEMBER 31, 1999 AND 1998JOHNSON & JOHNSON SAVINGS PLAN
+INDEX
+Report of Independent Accountants 2
+Financial Statements:
+Statements of Net Assets Available for Benefits with
+Fund Information as of December 31, 1999 and 1998 3-4
+Statements of Changes in Net Assets Available for
+Benefits with Fund Information for the Years Ended
+December 31, 1999 and 1998 5-6
+Notes to Financial Statements 7-18
+Supplemental Schedules:
+Item 27a - Schedule of Assets Held For Investment Purposes
+at December 31, 1999 19-20
+Item 27d - Schedule of Reportable Transactions for
+the Year Ended December 31, 1999 21
+1REPORT OF INDEPENDENT ACCOUNTANTS
+To the Pension and Benefits Committees of Johnson & Johnson
+In our opinion, the accompanying statements of net assets available for benefits and the related statements of changes in net assets available for
+benefits present fairly, in all material respects, the net assets available for benefits of the Johnson & Johnson Savings Plan (the "Plan") as of
+December 31, 1999 and 1998, and the changes in net assets available for benefits for the years then ended in conformity with accounting
+principles generally accepted in the United States. These financial statements are the responsibility of the Plan's management; our responsibility
+is to express an opinion on these financial statements based on our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States which require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management,
+and evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for the opinion expressed
+above.
+Our audits were conducted for the purpose of forming an opinion on the basic financial statements taken as a whole. The supplemental
+schedule of assets held for investment purposes and schedule of reportable transactions are presented for the purpose of additional analysis and
+are not a required part of the basic financial statements but are supplementary information required by the Department of Labor's Rules and
+Regulations for Reporting and Disclosure under the Employee Retirement Income Security Act of 1974. These supplemental schedules are the
+responsibility of the Plan's management. The fund information in the statements of net assets available for benefits and the statements of
+changes in net assets available for benefits is presented for the purposes of additional analysis rather than to present the net assets available for
+benefits and changes in net assets available for benefits of each fund. The supplemental schedules and fund information have been subjected to
+the auditing procedures applied in the audits of the basic financial statements and, in our opinion, are fairly stated in all material respects in
+relation to the basic financial statements taken as a whole.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 12, 2000
+2JOHNSON & JOHNSON SAVINGS PLAN
+STATEMENT OF NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+As of December 31, 1999
+-------------------------------------------------------------------------------
+PARTICIPANT DIRECTED
+-------------------------------------------------------------------------------
+Fixed Intermediate
+USGS Fund Interest Fund Bond Fund Balanced Fund J&J Stock Fund
+--------- ------------- --------- ------------- --------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $ 619,495,943
+Investments at Fair Value (Notes 2 and 6) $1,274,441,036
+Investments in Master Trust (Notes 2 and 6) $ 28,246,092 $29,024,706 $ 242,641,025
+Accrued Dividends and Interest Receivable 137,293 3,351,875 20,684
+Due From Johnson & Johnson
+Assets Designated For Transfer (Note 2)
+Hardship Loans to Participants
+------------- -------------- ------------ ------------- --------------
+Total Assets $ 28,383,385 $ 622,847,818 $29,024,706 $ 242,641,025 $1,274,461,720
+============= ============== ============ ============= ==============
+LIABILITIES:
+------------
+Accrued Expenses $ 7,875 $ 13,551 $ 560 $ 4,674 $ 24,742
+Accrued Interest
+Current Portion of Long Term Note
+Long-Term Note Payable to J&J
+------------- ------------- ------------ ------------- --------------
+Total Liabilities 7,875 13,551 560 4,674 24,742
+------------- -------------- ------------ ------------- --------------
+Net Assets Available for Benefits $ 28,375,510 $ 622,834,267 $29,024,146 $242,636,351 $1,274,436,978
+============= ============== ============ ============= ==============
+------------------------------------------------
+--------------------------------
+Diversified International
+Equity Fund Equity Fund Loan Fund
+----------- ----------- ---------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2)
+Investments at Fair Value (Notes 2 and 6)
+Investments in Master Trust (Notes 2 and 6) $ 986,602,365 $37,668,554
+Accrued Dividends and Interest Receivable 754,221 $ 684,389
+Due From Johnson & Johnson
+Assets Designated For Transfer (Note 2)
+Hardship Loans to Participants 6,657,875
+------------- ------------ ------------
+Total Assets $ 987,356,586 $37,668,554 $ 7,342,264
+============= ============ ============
+LIABILITIES:
+------------
+Accrued Expenses $ 433,361 $ 794
+Accrued InterestCurrent Portion of Long Term Note
+Long-Term Note Payable to J&J
+--------------- ------------ ------------
+Total Liabilities 433,361 794
+------------- ------------ ------------
+Net Assets Available for Benefits $ 986,923,225 $37,667,760 $ 7,342,264
+============= ============ ============
+--------------------------------------------------
+Employee Stock Ownership
+Plan Trust Fund
+------------------------------ Total
+Allocated Unallocated Savings Plan
+-------------- ----------- --------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $ 619,495,943
+Investments at Fair Value (Notes 2 and 6) $ 313,847,547 $209,286,879 1,797,575,462
+Investments in Master Trust (Notes 2 and 6) 1,324,182,742
+Accrued Dividends and Interest Receivable 18,961 11,205 4,978,628
+Due From Johnson & Johnson 5,272,782 5,272,782
+Assets Designated For Transfer (Note 2) 30,948,281 (30,948,281)
+Hardship Loans to Participants 6,657,875
+-------------- ---------------- --------------
+Total Assets $ 344,814,789 $ 183,622,585 $3,758,163,432
+============== ============== ==============
+LIABILITIES:
+------------
+Accrued Expenses $ 485,557
+Accrued Interest $ 3667,289 3,667,289
+Current Portion of Long Term Note 7,289,791 7,289,791
+Long-Term Note Payable to J&J 39,278,957 39,278,957
+-------------- -------------- --------------
+Total Liabilities 50,236,037 50,721,594
+-------------- -------------- --------------
+Net Assets Available for Benefits $ 344,814,789 $ 133,386,548 $3,707,441,838
+============== ============== ==============
+See Notes to Financial Statements
+3JOHNSON & JOHNSON SAVINGS PLAN
+STATEMENT OF NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+As of December 31, 1998
+----------------------------------------------------------------------------------
+PARTICIPANT DIRECTED
+----------------------------------------------------------------------------------
+Fixed Intermediate
+USGS Fund Interest Fund Bond Fund Balanced Fund J&J Stock Fund
+--------- ------------- ------------ ------------- ---------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $ 632,365,945
+Investments at Fair Value (Notes 2 and 6) $1,128,154,493
+Investments in Master Trust (Notes 2 and 6) $ 29,463,932 $ 34,191,309 $ 162,347,846
+Accrued Dividends and Interest Receivable 129,053 3,277,090 29,633
+Due From Johnson & Johnson
+Assets Designated For Transfer (Note 2)
+Hardship Loans to Participants
+-------------- ------------- ------------ ------------- ----------------
+Total Assets $ 29,592,985 $ 635,643,035 $34,191,309 $ 162,347,846 $1,128,184,126
+-------------- ------------- ------------ ------------- ----------------
+LIABILITIES:
+------------
+Accrued Expenses $ 13,803 $ 91,373 $ 4,664 $ 22,435 $ 157,680
+Accrued Interest
+Current Portion of Long Term Note
+Long-Term Note Payable to J&J
+---------------------------------------------------------------------------------
+Total Liabilities 13,803 91,373 4,664 22,435 157,680
+------------- ------------- ----------- ------------- ----------------
+Net Assets Available for Benefits $ 29,579,182 $ 635,551,662 $34,186,645 $ 162,325,411 $ 1,128,026,446
+============= ============= ============ ============= ================
+---------------------------------------------------------------------------------
+Employee Stock Ownership
+-------------
+Diversified Plan Trust Fund Total
+----------------------------------
+Equity Fund Loan Fund Allocated Unallocated Savings Plan
+----------- --------- --------- ----------- ------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $ 632,365,945
+Investments at Fair Value (Notes 2 and 6) $ 261,654,218 $ 222,956,246 1,612,764,957
+Investments in Master Trust (Notes 2 and 6) $ 760,180,137 986,183,224
+Accrued Dividends and Interest Receivable 4,153,061 $ 69,415 13,941 10,864 7,683,057
+Due From Johnson & Johnson 6,101,554 6,101,554
+Assets Designated For Transfer (Note 2) 25,503,960 (25,503,960)
+Hardship Loans to Participants 7,082,452 7,082,452
+-------------- ----------- -------------- -------------- --------------
+Total Assets $ 764,333,198 $ 7,151,867 $ 287,172,119 $ 203,564,704 $3,252,181,189
+-------------- ----------- -------------- -------------- ---------------
+LIABILITIES:
+------------
+Accrued Expenses $ 390,223 $ 680,178
+Accrued Interest $ 4,215,037 4,215,037
+Current Portion of Long Term Note 6,955,528 6,955,528
+Long-Term Note Payable to J&J 46,568,748 46,568,748-------------- ------------ -------------- -------------- -----------
+Total Liabilities 390,223 57,739,313 58,419,491
+-------------- ------------ -------------- -------------- -----------
+Net Assets Available for Benefits $ 763,942,975 $ 7,151,867 $ 287,172,119 $ 245,825,391 $3,193,761,698
+============== ============ ============== ============== ==============
+See Notes to Financial Statements
+4JOHNSON & JOHNSON SAVINGS PLAN
+STATEMENT OF CHANGES IN NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+For The Year Ended December 31, 1999
+---------------------------------------------------------------------
+PARTICIPANT DIRECTED
+---------------------------------------------------------------------
+Fixed Intermediate
+USGS Fund Interest Fund Bond Fund Balanced Fund J&J Stock Fund
+----------- ------------- ------------ ------------- --------------
+Employee Contributions (Note 3) $1,629,429 $19,653,404 $3,180,896 $16,445,043 $61,171,784
+Employer Contributions (Note 3 and 9) 428,788 5,601,257 853,262 4,366,018 18,248,831
+Interest 1,463,760 40,127,431 2,101,667 4,011,435 151,835
+Dividends 14,777,191
+----------- ------------- ------------ ------------- --------------
+Additions to (Deductions from) Plan Equity: 3,521,977 65,382,092 6,135,825 24,822,496 94,349,641
+-------------------------------------------
+Innotech Transfer-In (10/99) (Note 1) 43,111 13,522 10,422 83,755 117,543
+Payments to Participants (Note 4) (2,470,088) (37,803,734) (2,597,174) (8,257,630) (78,184,356)
+Change in Unrealized Net Appreciation of Investments (1,127,037) 26,601,939 61,581,145
+Realized Net Gain on Sale of Investments (877,907) 29,675,778 56,460,832
+Interest Expense
+Administrative Expenses (68,172) (373,775) (88,328) (785,498) (747,072)
+Assets Transferred (Note 2) (2,230,500) (39,935,980) (6,618,300) 8,170,100 12,832,799
+----------- ------------- ------------ ------------- --------------
+Net Increase (Decrease) (1,203,672) (12,717,875) (5,162,499) 80,310,940 146,410,532
+Net Assets Available for Benefits,
+Beginning of Year 29,579,182 635,551,662 34,186,645 162,325,411 1,128,026,446
+----------- ------------- ------------ ------------- --------------
+Net Assets Available for Benefits,
+End of Year $28,375,510 $622,833,787 $29,024,146 $242,636,351 $1,274,436,978
+=========== ============= ============ ============= ==============
+----------------------------------------
+--------------------------
+Diversified International
+Equity Fund Equity Fund Loan Fund
+------------ ------------- -----------
+Employee Contributions (Note 3) $51,881,825 $1,724,853
+Employer Contributions (Note 3 and 9) 13,936,300 434,923
+Interest 155,320 $615,080
+Dividends 10,645,313
+------------ ------------- -----------
+Additions to (Deductions from) Plan Equity: 76,463,438 2,315,096 615,080
+-------------------------------------------
+Innotech Transfer-In (10/99) (Note 1) 191,059 6,149
+Payments to Participants (Note 4) (41,789,341) (181,611) (424,683)
+Change in Unrealized Net Appreciation of Investments 74,704,075 7,674,513
+Realized Net Gain on Sale of Investments 113,737,242 1,860,524
+Interest Expense
+Administrative Expenses (2,815,223) (53,312)
+Assets Transferred (Note 2) 2,489,000 26,046,401
+------------ ------------- -----------
+Net Increase (Decrease) 222,980,250 37,667,760 190,397
+Net Assets Available for Benefits,
+Beginning of Year 763,942,975 7,151,867
+------------ ------------- -----------
+Net Assets Available for Benefits,
+End of Year $986,923,225 $37,667,760 $7,342,264============ ============= ===========
+-------------------------------------------------
+Employee Stock Ownership
+Plan Trust Fund
+------------------------- Total
+Allocated Unallocated Savings Plan
+------------ ------------- --------------
+Employee Contributions (Note 3) $ 155,687,234
+Employer Contributions (Note 3 and 9) $ 5,272,782 49,142,161
+Interest $ 117,993 72,360 48,816,881
+Dividends 688,982 5,445,531 31,557,017
+------------ ------------- --------------
+Additions to (Deductions from) Plan Equity: 806,975 10,790,673 285,203,293
+-------------------------------------------
+Innotech Transfer-In (10/99) (Note 1) 465,561
+Payments to Participants (Note 4) (12,333,034) (184,041,651)
+Change in Unrealized Net Appreciation of Investments 52,114,532 (9,352,227) 212,196,940
+Realized Net Gain on Sale of Investments 8,199,865 209,056,334
+Interest Expense (4,269,437) (4,269,437)
+Administrative Expenses (4,931,380)
+Assets Transferred (Note 2) 8,854,332 (9,607,852)
+------------ ------------- --------------
+Net Increase (Decrease) 57,642,670 (12,438,843) 513,679,660
+Net Assets Available for Benefits,
+Beginning of Year 287,172,119 145,825,391 3,193,761,698
+------------ ------------- --------------
+Net Assets Available for Benefits,
+End of Year $344,814,789 $133,386,548 $3,707,441,358
+============ ============= ==============
+See Notes to Financial Statements
+5JOHNSON & JOHNSON SAVINGS PLAN
+STATEMENT OF CHANGES IN NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+For The Year Ended December 31, 1998
+---------------------------------------------------------------------
+PARTICIPANT DIRECTED
+---------------------------------------------------------------------
+Fixed Intermediate
+USGS Fund Interest Fund Bond Fund Balanced Fund J&J Stock Fund
+----------- ------------- ------------ ------------- --------------
+Employee Contributions (Note 3) $ 1,429,359 $ 22,174,292 $ 3,208,058 $ 15,233,773 $ 57,631,178
+Employer Contributions (Note 3 and 9) 432,990 6,675,429 862,892 4,085,683 15,930,284
+Interest 1,319,347 40,422,516 1,697,138 3,091,407 123,759
+Dividends 12,716,300
+----------- ------------- ------------ ------------- --------------
+Additions to (Deductions from) Net Assets: 3,181,696 69,272,237 5,768,088 22,410,863 86,401,521
+------------------------------------------
+UltraCision Transfer-In (7/98) (Note 1) 187,001 51,375 17,018 161,539
+Clinical Diagnostics Transfer-In (10/98) (Note 1) 6,900,030 8,383,866 2,006,692 6,486,945 7,352,413
+Payments to Participants (Note 4) (2,835,340) (33,642,754) (928,359) (6,299,485) (49,520,871)
+Change in Unrealized Net Appreciation of Investments (360,448) 11,684,861 176,370,772
+Realized Net Gain on Sale of Investments 292,358 9,638,810 50,950,685
+Interest Expense
+Administrative Expenses (49,351) (438,965) (70,957) (514,817) (704,201)
+Assets Transferred (Note 2) (705,695) (29,780,065) 6,241,449 5,189,088 (6,330,091)
+----------- ------------- ------------ ------------- --------------
+Net Increase (Decrease) 6,678,341 13,845,694 12,948,823 48,613,283 264,681,767
+Net Assets Available for Benefits,
+Beginning of Year 22,900,841 621,705,968 21,237,822 113,712,128 863,344,679
+----------- ------------- ------------ ------------- --------------
+Net Assets Available for Benefits,
+End of Year $29,579,182 $ 635,551,662 $ 34,186,645 $ 162,325,411 $1,128,026,446
+=========== ============= ============ ============= ==============
+--------------------------------------------------------------------------
+Employee Stock Ownership
+------------ Plan Trust Fund
+Diversified ------------------------- Total
+Equity Fund Loan Fund Allocated Unallocated Savings Plan
+------------ ----------- ------------ ------------- --------------
+Employee Contributions (Note 3) $ 44,725,916 $ 144,402,576
+Employer Contributions (Note 3 and 9) 12,299,744 $ 6,101,554 46,388,576
+Interest $ 528,053 $ 101,758 79,368 47,363,346
+Dividends 8,829,920 653,065 4,940,274 27,139,559
+------------ ----------- ------------ ------------- --------------
+Additions to (Deductions from) Net Assets: 65,855,580 528,053 754,823 11,121,196 265,294,057
+------------------------------------------
+UltraCision Transfer-In (7/98) (Note 1) 227,676 644,609
+Clinical Diagnostics Transfer-In (10/98) (Note 1) 12,457,112 59,601 43,646,659
+Payments to Participants (Note 4) (23,679,257) (760,745) (7,848,364) (125,515,175)
+Change in Unrealized Net Appreciation of Investments 68,650,503 70,761,168 24,853,465 351,960,321
+Realized Net Gain on Sale of Investments 64,047,658 6,421,322 131,350,833
+Interest Expense (4,892,068) (4,892,068)
+Administrative Expenses (1,523,643) (3,301,934)
+Assets Transferred (Note 2) 25,844,569 9,331,121 (9,790,376)
+------------ ----------- ------------ ------------- --------------
+Net Increase (Decrease) 211,880,198 (173,091) 79,420,070 21,292,217 659,187,302
+Net Assets Available for Benefits,Beginning of Year 552,062,777 7,324,958 207,752,049 124,533,174 2,534,574,396
+------------ ----------- ------------ ------------- --------------
+Net Assets Available for Benefits,
+End of Year $763,942,975 $ 7,151,867 $287,172,119 $ 145,825,391 $3,193,761,698
+============ =========== ============ ============= ==============
+See Notes to Financial Statements
+6JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS
+1. Organization:
+The Johnson & Johnson Savings Plan (the "Plan") is a defined contribution plan which was established on June 1, 1982 for eligible salaried and
+non-union hourly employees of Johnson & Johnson ("J&J" or the "Company") and certain domestic subsidiaries. The Plan was designed to
+enhance the existing retirement program of eligible employees. The funding of the Plan is made through employee and Company contributions.
+The assets of the Plan are maintained in two Master Trust accounts ("Johnson & Johnson Savings Plan Trust" and "Johnson & Johnson Pension
+Trust Fund") and transactions therein are executed by the trustee, Bankers Trust Company. The Johnson & Johnson Savings Plan Trust and the
+Johnson & Johnson Pension Trust Fund are allocated based upon the total of each individual participant's share of the Johnson & Johnson
+Savings Plan Trust and the Johnson & Johnson Pension Trust Fund.
+Effective January 1, 1991, the Company implemented a Leveraged Employee Stock Ownership Plan ("ESOP") to supplement its existing 401
+(k) plan. The ESOP is a leveraged employee stock ownership plan and is designed to comply with Section 4975(e)(7) and the regulations
+thereunder of the Internal Revenue Code of 1986, as amended, and is subject to the applicable provisions of the Employee Retirement Income
+Security Act of 1974, as amended. The ESOP is used to fund an additional 25% match of employee contributions ("ESOP contribution").
+Additionally, the Company may elect to fund the employer 50% match of employee directed contributions with ESOP leveraged shares.
+Initial funding for the ESOP was made through an advance from Johnson & Johnson of $100 million, which was used to purchase 1,554,800
+shares of J&J common stock on the open market (which equates to 6,219,200 shares when adjusted for subsequent stock splits). Of these
+shares, 2,206,210 (adjusted for stock splits) remain unallocated as of December 31, 1999. These shares are allocated to Plan participants under
+a formula set forth in the note agreement relating to the advance from J&J. Accordingly, the financial statements of the Plan for the years 1999
+and 1998 present separately the assets and liabilities and changes therein pertaining to:
+(a) the accounts of employees with vested rights in allocated stock (Allocated) and
+(b) stock not yet allocated to employees (Unallocated).
+Each participant is entitled to exercise voting rights attributable to the shares allocated to their account. The Company is entitled to exercise
+voting rights attributable to unallocated shares.
+7JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+1. Organization (Continued):
+In the third quarter of 1998, Johnson & Johnson incorporated a "dividend pass-through" feature into the Plan. This feature allows a participant
+to receive cash for dividends paid on certain shares owned through the plan. To receive a dividend pass-through, it is contingent on the
+ownership of shares in the Johnson & Johnson Stock Fund and it does not apply to any share owned in Employee Stock Ownership Plan Trust
+Fund. In order to receive dividend pass-through amounts, participant eligibility is based on the lesser of (a) 20% of the eligible compensation
+(annual base pay rate for the year plus 50% of prior calendar year commissions) and (b) IRS Pre-tax compensation limit ($10,000 in 1999)
+reduced by the estimated pre-tax contribution for the year (current pre-tax percentage multiplied by the eligible compensation for the year). For
+the 1999 and 1998 plan years, the dividend pass-through amounts recorded in the Plan statement of changes in net assets available for benefits
+as dividend income and payments to participants were $8,407,284 and $4,259,619 respectively.
+On October 1, 1999, the assets of the Innotech 401(k) Retirement Plan were transferred into the Plan. On October 1, 1998 and December 1,
+1998, the assets of the Clinical Diagnostics 401(k) Retirement Plan were transferred into the Plan; and on July 1, 1998, the assets of the
+UltraCision 401(k) Retirement Plan were transferred into the Plan.
+2. Summary of Significant Accounting Policies:
+Valuation of Investments:
+Equity investments in the Johnson & Johnson Stock Fund and the ESOP, administered by Bankers Trust Company, are valued at the average of
+the high and low market price on the last business day of the year. The cost of equity investments in the Johnson & Johnson Stock Fund are
+recorded at the average market price of the stock transactions for the month during which the contribution is made.
+The investments in the US Government Securities (the "USGS Fund"), Fixed Interest, and Diversified Equity funds represent the Plan's share
+of assets in the Johnson & Johnson Savings Plan Trust ("Savings Plan Trust"). The USGS Fund consists of short-term obligations that are
+issued or guaranteed by the US Government. Investments are valued at cost which approximates market value. Deposits in group annuity
+contracts in the Fixed Interest Fund are recorded at their contract values which approximates fair value because these investments have fully
+benefit-responsive features. Contract value represents contributions and reinvested income, less any withdrawals plus accrued interest.
+Participants may direct the withdrawal or transfer of all or a portion of their investment at contract value. However, withdrawals influenced by
+employer initiated events such as in connection with the sale of a business, may result in a distribution at other than contract value. There are
+no reserves against contract values for credit risk of contract issuers or otherwise.
+8JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+2. Summary of Significant Accounting Policies (Continued):
+The average yield of the Fixed Interest Fund was approximately 6.56% for 1999 and 6.71% for 1998. The crediting interest rate of the Fixed
+Interest Fund was approximately 6.63% for 1999 and 6.77% for 1998. The difference between the average yield and crediting interest rate is
+due to administrative charges paid by the Plan. The crediting interest rate for the investment contracts is either agreed-to in advance with the
+issuer or varies based on an agreed-to formula, but cannot be less than zero.
+Equity investments and corporate obligations in the Diversified Equity Fund, managed by Capital Guardian Trust Company and J.P. Morgan
+Investment Management, Inc., are traded on a national securities exchange and are valued at the last reported market sales price on the last
+business day of the year. Investments in the Diversified Equity Fund are purchased periodically by Capital Guardian Trust Company and J.P.
+Morgan Investment Management, Inc. based on the prevailing market values of the underlying investments.
+The Intermediate Bond Fund invests in various kinds of bonds, primarily corporate and U.S. government bonds. The Balanced Fund is invested
+in a mix of stocks, bonds, and real estate. The investment in these funds represents the Plan's share of the assets in the Johnson & Johnson
+Pension Trust Fund ("Pension Trust Fund"). These investments are stated at fair value. Generally, they represent securities traded on a national
+securities exchange which are valued at the last reported sales price on the last business day of the year.
+In the first quarter of 1999, the Company incorporated an additional fund to the Plan, the International Equity Fund. The International Equity
+Fund, managed by American Express Management and Capital Guardian Trust Company, invests primarily in equities sold on foreign
+exchange markets. These investments are valued at the last reported market sales price on the last business day of the year. The investment in
+the fund represents the Plan's share of the assets in the Pension Trust Fund.
+Participant loans are valued at cost, which approximates fair value.
+Temporary cash investments are stated at redemption value which approximates fair value.
+Transfers:
+Transfers among funds, which are made at the participant's election, have been presented as assets transferred in the Statement of Changes in
+Net Assets Available for Benefits. With respect to the ESOP, transfers represent shares allocated to the participants.
+9JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+2. Summary of Significant Accounting Policies (Continued):
+Use of Estimates:
+The preparation of the Plan's financial statements in conformity with accounting principles generally accepted in the United States requires the
+plan administrator to make estimates and assumptions that affect the reported amounts of net assets available for benefits at the date of the
+financial statements and the changes in net assets available for benefits during the reporting period and, when applicable, disclosures of
+contingent assets and liabilities at the date of the financial statements. Actual results could differ from those estimates.
+Risks and Uncertainties:
+The Plan provides for various participant investment options in funds which can invest in any combination of stocks, bonds, fixed income
+securities, mutual funds, and other investment securities. Investment securities are exposed to various risks, such as interest rate, market and
+credit. Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the value of
+investment securities, it is at least reasonably possible that changes in risks in the near term would materially affect participants' account
+balances and the amounts reported in the statements of net assets available for benefits and the statements of changes in net assets available for
+benefits.
+Other:
+Interest and dividend income is recorded as earned on the accrual basis. Purchases and sales of investment securities are reflected on a trade-
+date basis. Gains and losses on sales of investment securities are determined on the average cost method. Administrative charges are allocated
+monthly bases on the quarterly percentage of assets in each of the six investment funds.
+All third party administrative expenses are paid by the Plan, except cost of entering new investment vehicles which are paid primarily by
+Johnson & Johnson.
+10JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+3. Contributions:
+Participating employees may contribute a minimum of 3% up to a maximum of 20% of their base salary plus 50 percent of eligible
+commissions in combinations of pre- and post-tax contributions. Pre-tax contributions may not exceed the smaller of 20% of their base salary
+including 50 percent of eligible commissions or $10,000 in 1999 and 16% of their base salary including 50 percent of eligible commissions or
+$10,000 in 1998. The Company contributes to the Plan an amount equal to 75% of the employee directed contributions of the participants up to
+a maximum of 6% of the employee's base salary and 50 percent of eligible commissions.
+Contributions are made to the Plan by participants through payroll deductions and by the Company on behalf of participants. Such
+contributions, with the exception of the ESOP contribution, are invested in any of the seven investment funds at the direction of the
+participating employees. The 25% ESOP contribution is invested in J&J stock, except for employees over 55 years of age who may choose the
+alternative investments. ESOP shares are released from the unallocated portion of the ESOP each February following the payment of the loan
+(see Note 9), in accordance with the ESOP Trust Agreement. Shares released, in accordance with the ESOP note agreement, may be more or
+less than shares earned by participants. In the accompanying statements of net assets available for benefits, shares earned by participants in
+excess of those allocated have been reflected in the accompanying financial statements as assets designated for transfer.
+The number of participants invested in each fund at December 31, 1999 and 1998 was:
+1999 1998
+--------- ---------
+U.S. Government Securities Fund 3,066 3,063
+Fixed Interest Fund 16,310 17,580
+Intermediate Bond Fund 4,070 4,091
+Balanced Fund 11,695 10,327
+Johnson & Johnson Stock Fund 29,507 27,360
+Employee Stock Ownership Plan 35,341 33,713
+Diversified Equity Fund 24,152 22,180
+International Equity Fund 2,697 N/A
+Participants may elect to invest in more than one fund and can change investment direction once every three months. A total of 38,162 and
+36,704 active and former employees had investments in the Plan for 1999 and 1998, respectively.
+11JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+4. Participant Accounts and Benefits:
+All participants are fully vested in their contributions and the Company match. The benefit to which a Plan participant is entitled is the amount
+provided by contributions (Company and participant) and investment earnings thereon (including net realized and unrealized investment gains
+and losses) which have been allocated to such participant's account balance. Allocations are based on participant earnings on account balance,
+as defined.
+Participants are allowed to withdraw their after-tax contributions and earnings thereon, at any time. Participants may withdraw before-tax
+contributions only upon meeting certain hardship conditions.
+5. Loans to Participants:
+Participants may borrow up to a maximum of 50% of their account balance or $50,000, whichever is less. Loans bear a market rate of interest
+plus 1% and are repayable within five years. Loans are secured by the balance in the participant accounts.
+12JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Investments:
+Investments held by the Plan as of December 31, 1999 are summarized as follows:
+Johnson & Johnson Employee Stock Ownership
+Stock Fund Plan Trust Fund Combined
+------------------------------------------------------------------- ---------
+Fair Value Cost Fair Value Cost Fair Value Cost
+------------------------------- ------------------------------ ---------------------------------
+Johnson & Johnson Common Stock $1,271,834,329 $556,635,747 $516,545,250 $86,999,081 $1,788,379,579 $662,469,734
+Temporary Cash Investments 2,606,707 2,606,707 6,589,176 6,589,176 9,195,883 9,195,884
+-------------- -------------- --------------- ----------- -------------- -----------
+$1,274,441,036 $559,242,454 $523,134,426 $93,588,257 $1,797,575,462 $671,665,618
+============== ============== =============== =========== ============== ============
+The investments in the USGS, Fixed Interest, and the Diversified Equity Funds reflected in the accompanying Statement of Net Assets
+Available for Benefits represent the Plan's share of investments (approximately 99.4% of fair value) held by the Johnson & Johnson Savings
+Plan Trust. Total investments held by the Savings Plan Trust on behalf of the Plan and the Johnson & Johnson Savings Plan for Union
+Represented Employees are summarized as follows:
+Description Fair Value Cost
+----------- -------------- --------------
+USGS Fund:
+U.S. Government Securities - Short Term $ 29,313,150 $ 29,313,150
+Other* 142,201 142,201
+Fixed Interest Fund:
+Deposits in Group Annuity Contracts 621,653,591 621,653,591
+Other* 3,363,553 3,363,553
+Diversified Equity Fund:
+Common Stocks 992,698,523 700,989,649
+Other* 758,881 758,881
+-------------- --------------
+$1,647,929,899 $1,356,221,025
+============== ==============
+* Other consists of interest and/or dividends receivable.
+13JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Investments, (continued):
+As of December 31, 1999, the investments in the Intermediate Bond, Balanced and International Equity Funds reflected in the accompanying
+Statement of Net Assets Available for Benefits represent the Plan's share of investments (approximately 7.9% of fair value) held by the
+Johnson & Johnson Pension Trust Fund. Total investments held by the Pension Trust Fund on behalf of the Plan and the various Johnson &
+Johnson Pension Plans are summarized as follows:
+Description Fair Value Cost
+----------- ------------- -------------
+U.S. Government Securities - Short Term $ 19,517,115 $ 19,433,889
+U.S. Government Securities - Long Term 310,817,373 317,925,206
+Corporate Bonds & Notes - Long Term 202,228,167 215,804,216
+Common Stocks:
+Johnson & Johnson 421,228,900 23,727,279
+Other 2,582,214,040 1,799,521,532
+Preferred Stocks 21,154,649 13,841,946
+Commingled Investment Funds 234,314,860 195,153,996
+Temporary Investments 99,507,974 100,313,591
+Other 24,206,592 24,231,052
+-------------- --------------
+$3,915,189,670 $2,709,952,707
+============== ==============
+Investments held by the Plan as of December 31, 1998 are summarized as follows:
+Johnson & Johnson Employee Stock Ownership
+Stock Fund Plan Trust Fund Combined
+--------------------------------- ------------------------------ ------------------------------
+Fair Value Cost Fair Value Cost Fair Value Cost
+----------------- -------------- ---------------- ------------ ---------------- ------------
+Johnson & Johnson Common Stock $1,123,468,342 $469,850,905 $478,730,076 $91,946,210 $1,602,198,418 $561,797,115
+Temporary Cash Investments 4,686,151 4,686,151 5,880,388 5,880,388 10,566,539 10,566,539
+------------------------------ -------------------------- -----------------------------
+$1,128,154,493 $474,537,056 $484,610,464 $97,826,598 $1,612,764,957 $572,363,654
+============== ============ ============ =========== ============== ============
+14JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Investments, (continued):
+As of December 31, 1998, the investments in the USGS, Fixed Interest, and the Diversified Equity Funds reflected in the accompanying
+Statement of Net Assets Available for Benefits represent the Plan's share of investments (approximately 99.5% of fair value) held by the
+Johnson & Johnson Savings Plan Trust. Total investments held by the Savings Plan Trust on behalf of the Plan and the Johnson & Johnson
+Savings Plan for Union Represented Employees are summarized as follows:
+Description Fair Value Cost
+----------- -------------- --------------
+USGS Fund:
+U.S. Government Securities - Short Term $ 30,466,695 $ 30,466,695
+Other* 138,992 138,992
+Fixed Interest Fund:
+Deposits in Group Annuity Contracts 634,215,282 634,215,282
+Other* 3,286,951 3,286,951
+Diversified Equity Fund:
+Common Stocks 764,674,566 548,124,829
+Other* 4,178,130 4,178,130
+-------------- --------------
+$1,436,960,616 $1,220,410,879
+============== ==============
+* Other consists of interest and/or dividends receivable.
+As of December 31, 1998, the investments in the Intermediate Bond and Balanced Funds reflected in the accompanying Statement of Net
+Assets Available for Benefits represent the Plan's share of investments (approximately 6.5% of fair value) held by the Johnson & Johnson
+Pension Trust Fund. Total investments held by the Pension Trust Fund on behalf of the Plan and the various Johnson & Johnson Pension Plans
+are summarized as follows:
+Description Fair Value Cost
+----------- -------------- --------------
+U.S. Government Securities - Short Term $ 88,842,142 $ 86,445,403
+Corporate Bonds & Notes - Short Term 120,087,554 120,447,976
+U.S. Government Securities - Long Term 109,212,710 108,202,456
+Corporate Bonds & Notes - Long Term 118,451,198 124,404,110
+Common Stocks:
+Johnson & Johnson 420,817,650 26,353,605
+Other 1,792,008,039 1,423,899,173
+Preferred Stocks 30,757,224 26,973,063
+Commingled Investment Funds 204,839,027 195,837,097
+Temporary Investments 82,892,180 83,127,335
+Other 42,063,434 41,991,873
+-------------- --------------
+$3,009,971,158 $2,237,682,091
+15JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Investments, (continued):
+Realized gains on investments sold and distributed during the years ended December 31, 1999 and 1998 are summarized as follows:
+J&J Stock Fund Diversified Equity Fund Employee Stock Ownership Plan Fund
+--------------------------------------- ---------------------------------------- --------------------------------------
+Book Value Proceeds Gain Book Value Proceeds Gain Book Value Proceeds Gain
+---------- ------------ ------------- ------------ ---------- ------------ ------------ ---------- ----------
+1999 $86,129,736 $142,590,568 $56,460,832 $633,256,161 $746,993,403 $113,737,242 $9,126,789 $17,326,654 $8,199,865
+1998 54,377,538 105,328,223 50,950,658 537,294,947 601,342,605 64,047,658 5,461,721 11,883,043 6,421,322
+Intermediate Bond Fund Balanced Fund International Equity Fund
+------------------------------------- ---------------------------------------- --------------------------------------
+Book Value Proceeds Gain/(Loss) Book Value Proceeds Gain Book Value Proceeds Gain
+---------- ------------ ------------- ---------- ---------- ------------ ------------ ---------- ----------
+1999 $60,324,026 $59,446,119 $(877,907) $270,641,548 $300,317,326 $29,675,778 $17,823,861 $19,684,385 $1,860,524
+1998 45,282,372 45,574,730 292,358 174,560,399 184,199,209 9,638,810 N/A N/A N/A
+16JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+7. Tax Status:
+The Internal Revenue Service has determined and informed the Company by a letter dated April 25, 1996, that the Plan and related trust are
+designed in accordance with applicable sections of the Internal Revenue Code (IRC). The Plan has been amended since receiving the
+determination letter. However, the Plan administrator believes that the Plan is designed and is currently being operated in compliance with
+applicable requirements of the IRC.
+8. Termination Priorities:
+The Company has the right to terminate the Plan at any time, and in the event the Plan is terminated, subject to conditions set forth in ERISA,
+the amount of each participant's account balance in the Plan is fully vested.
+9. Indebtedness
+In connection with the formation of the Plan's ESOP feature, the Plan borrowed $100 million from Johnson & Johnson for the purpose of
+purchasing J&J common stock. The note bears interest at 9% and is payable through February 15, 2005. The Company is obligated to make
+contributions in cash to the ESOP which, when aggregated with the ESOP's dividends and interest earnings, equal the amount necessary to
+enable the ESOP to make its regularly scheduled payments of principal and interest due on the term loan.
+Aggregate maturities for the next five years are as follows:
+2000 $ 7,289,791
+2001 7,664,462
+2002 8,082,746
+2003 8,548,156
+2004 9,064,538
+Thereafter 5,919,055
+-----------
+$46,568,748
+In the event of Plan termination or of termination of the ESOP portion of the Plan, any unallocated shares shall be sold to the Company or on
+the open market. The proceeds of such sale shall be used to satisfy the outstanding principal and interest. The Company has no rights against
+shares once they are allocated under the ESOP.
+10. Concentrations of Credit Risk
+Financial instruments which potentially subject the Plan to concentrations of credit risk consist principally of the Fixed Interest Fund holdings
+in fully benefit-responsive group annuity contracts with insurance and other financial institutions.
+17JOHNSON & JOHNSON SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+10. Concentrations of Credit Risk, (Continued):
+The Fixed Interest Fund places its fully benefit-responsive group annuity contracts with high-credit quality institutions and, by policy, limits
+the amount of credit exposure to any one financial institution. If any of the insurance companies that the group annuity contracts are invested
+with fail to perform according to the contract, the asset value of the Plan could be impaired.
+11. Reconciliation of Financial Statements to Form 5500:
+The following is a reconciliation of net assets available for benefits per the financial statements to the Form 5500:
+December 31, December 31,
+1999 1998
+--------------- ---------------
+Net Assets Available for Benefits
+Per the Financial Statements $ 3,707,441,838 $ 3,193,761,698
+Amounts Allocated to Withdrawing Participants (6,895,528) (8,151,647)
+--------------- ---------------
+Net Assets Available for Benefits Per the Form 5500 $ 3,700,546,310 $ 3,185,610,051
+=============== ===============
+Year Ended Year Ended
+December 31, December 31,
+1999 1998
+------------- -------------
+Benefits Paid to Participants Per the Financial Statements $ 184,041,651 $ 125,515,175
+Add: Amounts Allocated to Withdrawing Participants at
+December 31, 1999 and 1998 6,895,528 8,151,647
+Less: Amounts Allocated to Withdrawing Participants
+at December 31, 1998 and 1997 (8,151,647) (6,758,039)
+------------- -------------
+Benefits Paid to Participants Per the Form 5500 $ 182,785,532 $ 126,908,783
+============= =============
+Amounts allocated to the withdrawing participants are recorded on the Form 5500 for benefit claims that have been processed and approved for
+payment prior to December 31, 1999 and 1998 but not yet paid as of that date.
+18Supplemental Schedule
+JOHNSON & JOHNSON SAVINGS PLAN
+ITEM 27a - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES AS OF DECEMBER 31, 1999
+FACE AMOUNT
+OR SHARES ISSUES COST FAIR VALUE
+----------- ------ ----------------- ----------
+J&J STOCK FUND
+Common Stock
+13,807,910 shs. Johnson & Johnson $556,635,747 $1,271,834,329
+Temporary Investments
+$2,606,707 BT Pyramid Directed
+Account Cash Fund 2,606,707 2,606,707
+--------------- ------------------
+Total J&J Stock Fund $559,242,454 $1,274,441,036
+============== ==============
+EMPLOYEE STOCK OWNERSHIP PLAN TRUST FUND
+Common Stock
+5,909,816 shs. Johnson & Johnson $86,999,081 $516,545,250
+Temporary Investment
+$6,589,176 BT Pyramid Directed
+Account Cash Fund 6,589,176 6,589,176
+------------- -------------
+Total ESOP Trust Fund $93,588,257 $523,134,426
+============= ============
+19Supplemental Schedule
+JOHNSON & JOHNSON SAVINGS PLAN
+ITEM 27a - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES AS OF DECEMBER 31, 1999
+FACE AMOUNT ISSUES FAIR VALUE
+----------- ------ ----------
+Loan Fund
+$6,657,875 Loans to Participants
+(Fixed Interest rate based on the prime
+lending rate plus one percentage
+point. The repayment period is
+from one to five years.) $6,657,875
+684,389 Interest Receivable 684,389
+-------------
+Total Loan Fund $7,342,264
+=============
+20Supplemental Schedule
+JOHNSON & JOHNSON SAVINGS PLAN
+ITEM 27d - SCHEDULE OF REPORTABLE TRANSACTIONS
+FOR THE YEAR ENDED DECEMBER 31, 1999
+DISPOSED ACQUIRED
+------------------------------------------- ----------------------
+SECURITY/PARTY GAIN/
+DESCRIPTION SALES COSTS PROCEEDS (LOSS) PURCHASES COST
+----- -------- -------- ------ --------- ----
+(# of Transactions) (# of Transactions)
+SERIES OF TRANSACTIONS:
+BT Pyramid Directed
+Account-Cash Fund (a) $98,648,975 $98,648,975 $ - (a) $95,095,030
+Johnson & Johnson
+Common Stock 158 $72,547,729
+(a) Trustee is unable to provide detailed information on the number of transactions.
+21CONSENT OF INDEPENDENT ACCOUNTANTS
+We hereby consent to the incorporation by reference in the Registration Statement on Form S-8 (File No. 33-40294) of Johnson & Johnson of
+our report dated June 12, 2000 relating to the financial statements and financial statement schedules of the Johnson & Johnson Savings Plan,
+which appears in this Form 11-K.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 23, 2000Exhibit 99(a)(ii)
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 11-K
+[X] ANNUAL REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+For the Fiscal Year Ended January 2, 2000
+OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+Commission File Number 1-3215
+JOHNSON & JOHNSON
+RETIREMENT SAVINGS PLAN
+(Full title of the Plan)
+JOHNSON & JOHNSON
+ONE JOHNSON & JOHNSON PLAZA
+NEW BRUNSWICK, NEW JERSEY 08933
+(Name of issuer of the securities held pursuant to the Plan and the address of its principal executive office)Item 4. Financial Statements and Exhibits
+Report of Independent Accountants
+Financial Statements:
+Balance Sheets as of December 31, 1999 and 1998
+Statements of Operations and Changes in Plan Equity for the years ended December 31, 1999 and 1998
+Notes to Financial Statements
+Supplemental Schedules:
+Schedule of Investments at December 31, 1999
+Schedule of 5% Reportable Transactions for the year ended December 31, 1999
+Schedule of Party-In-Interest Transactions for the year ended December 31, 1999
+Consent of PricewaterhouseCoopers LLP, dated June 23, 2000
+The Plan. Pursuant to the requirements of the Securities Exchange Act of 1934, the trustees (or other persons who administer the employee
+benefit plan) have duly caused this annual report to be signed on its behalf by the undersigned hereunto duly authorized.
+JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+By: /s/ R. J. Darretta
+--------------------------------
+R. J. Darretta
+Chairman, Pension Committee
+June 26, 2000JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+FINANCIAL STATEMENTS AND
+SUPPLEMENTAL SCHEDULES
+AS OF AND FOR THE YEARS ENDED
+DECEMBER 31, 1999 AND 1998JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+INDEX
+Report of Independent Accountants 2
+Financial Statements:
+Statements of Net Assets Available for Benefits with
+Fund Information as of December 31, 1999 and 1998 3
+Statements of Changes in Net Assets Available for
+Benefits with Fund Information for the Years Ended
+December 31, 1999 and 1998 4
+Notes to Financial Statements 5-10
+Supplemental Schedules:
+Item 27a - Schedule of Assets Held For Investment Purposes
+at December 31, 1999 11
+Item 27d - Schedule of Reportable Transactions for
+the Year Ended December 31, 1999 12
+1REPORT OF INDEPENDENT ACCOUNTANTS
+To the Pension and Benefits Committees of Johnson & Johnson
+In our opinion, the accompanying statements of net assets available for benefits and the related statements of changes in net assets available for
+benefits present fairly, in all material respects, the net assets available for benefits of the Johnson & Johnson Retirement Savings Plan (the
+"Plan") as of December 31, 1999 and 1998, and the changes in net assets available for benefits for the years then ended in conformity with
+accounting principles generally accepted in the United States. These financial statements are the responsibility of the Plan's management; our
+responsibility is to express an opinion on these financial statements based on our audits. We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States, which require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for the
+opinion expressed above.
+Our audits were conducted for the purpose of forming an opinion on the basic financial statements taken as a whole. The supplemental
+schedule of assets held for investment purposes and schedule of reportable transactions are presented for the purpose of additional analysis and
+are not a required part of the basic financial statements but are supplementary information required by the Department of Labor's Rules and
+Regulations for Reporting and Disclosure under the Employee Retirement Income Security Act of 1974. These supplemental schedules are the
+responsibility of the Plan's management. The fund information in the statements of net assets available for benefits and the statement of
+changes in net assets available for benefits is presented for the purposes of additional analysis rather than to present the net assets available for
+benefits and changes in net assets available for benefits of each fund. The supplemental schedules and fund information have been subjected to
+the auditing procedures applied in the audits of the basic financial statements and, in our opinion, are fairly stated in all material respects in
+relation to the basic financial statements taken as a whole.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 12, 2000
+2JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+STATEMENTS OF NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+as of December 31, 1999 and 1998
+PARTICIPANT DIRECTED
+-------------------------------------------------------------------
+1999
+-------------------------------------------------------------------
+Short-Term J&J Total
+Investment Fund Stock Fund Equity Fund Savings Plan
+---------- ----------- ------------
+ASSETS:
+-------
+Investments at Fair Value (Notes 2 and 5) $ 4,323,235 $ 71,651,424 $ 5,314,379 $ 81,289,038
+----------- ------------ ----------- ------------
+Total Assets 4,323,235 71,651,424 5,314,379 81,289,038
+----------- ------------ ----------- ------------
+LIABILITIES:
+------------
+Accrued Expenses 1,703 26,855 1,999 30,557
+----------- ------------ ----------- ------------
+Net Assets Available for Benefits $ 4,321,532 $ 71,624,569 $ 5,312,380 $ 81,258,481
+=========== ============ =========== ============
+PARTICIPANT DIRECTED
+---------------------------------------------------------------------
+1998
+---------------------------------------------------------------------
+Short-Term J&J Total
+Investment Fund Stock Fund Equity Fund Savings Plan
+---------- ----------- ------------
+ASSETS:
+-------
+Investments at Fair Value (Notes 2 and 5) $ 4,391,628 $ 66,829,069 $ 4,630,626 $ 75,851,323
+--------- ---------- --------- ----------
+Total Assets 4,391,628 66,829,069 4,630,626 75,851,323
+--------- ---------- --------- ----------
+LIABILITIES:
+------------
+Accrued Expenses 3,467 51,607 3,542 58,616
+----------- ------------ ----------- ------------
+Net Assets Available for Benefits $ 4,388,161 $ 66,777,462 $ 4,627,084 $ 75,792,707
+=========== ============ =========== ============
+See Notes to Financial Statements
+3JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+STATEMENTS OF CHANGES IN NET ASSETS AVAILABLE FOR
+BENEFITS with FUND INFORMATION
+For The Years Ended December 31, 1999 and 1998
+PARTICIPANT DIRECTED
+--------------------------------------------------------------------
+1999
+--------------------------------------------------------------------
+Short-Term J&J Total
+Investment Fund Stock Fund Equity Fund Savings Plan
+---------- ----------- ------------
+Employee Contributions (Note 3) $ 656,872 $ 5,940,740 $ 740,056 $ 7,337,668
+Employer Contributions (Note 3) 11,511 3,399,925 684 3,412,120
+Interest 34,233 34,233
+Dividends 216,639 858,399 533,275 1,608,313
+---------- ----------- ---------- ------------
+885,022 10,233,297 1,274,015 12,392,334
+Additions to (Deductions from) Net Assets:
+------------------------------------------
+Payments to Participants (Note 4) (639,181) (9,704,709) (513,280) (10,857,170)
+Change in Unrealized Net
+Appreciation of Investments 752,584 41,134 793,718
+REALIZED NET GAIN ON SALE OF INVESTMENTS 3,265,396 198,147 3,463,543
+Administrative Expenses (17,970) (288,461) (20,220) (326,651)
+Assets Transferred (Note 2) (294,500) 589,000 (294,500)
+----------- ----------- ----------- -------------
+Net Increase (Decrease) (66,629) 4,847,107 685,296 5,465,774
+Net Assets Available for Benefits,
+Beginning of Year 4,388,161 66,777,462 4,627,084 75,792,707
+---------- ----------- ---------- ------------
+Net Assets Available for Benefits, End of Year $4,321,532 $71,624,569 $5,312,380 $ 81,258,481
+========== =========== ========== ============
+PARTICIPANT DIRECTED
+-------------------------------------------------------------------
+1998
+-------------------------------------------------------------------
+Short-Term J&J Total
+Investment Fund Stock Fund Equity Fund Savings Plan
+---------- -----------
+Employee Contributions (Note 3) $ 790,528 $ 5,431,705 $ 715,315 $ 6,937,548
+Employer Contributions (Note 3) 13,644 2,982,748 890 2,997,282
+Interest 177,799 15,534 249,278
+Dividends 55,945 758,206 468,148 1,226,354
+--------- --------- --------- ----------
+1,037,916 9,188,193 1,184,353 11,410,462
+Additions to (Deductions from) Net Assets:
+------------------------------------------
+Payments to Participants (Note 4) (610,755) (7,562,632) (524,901) (8,698,288)
+Change in Unrealized Net
+Appreciation of Investments 8,843,308 176,584 9,019,892REALIZED NET GAIN ON SALE OF INVESTMENTS 5,179,819 207,209 5,387,028
+Administrative Expenses (19,003) (253,106) (17,726) (289,835)
+Assets Transferred (Note 2) (489,000) 653,400 (164,400)
+--------- --------- --------- ----------
+Net Increase (Decrease) (80,842) 16,048,982 861,119 16,829,259
+Net Assets Available for Benefits, Beginning of Year 4,469,003 50,728,480 3,765,965 58,963,448
+--------- ---------- --------- ----------
+Net Assets Available for Benefits, End of Year $4,388,161 $66,777,462 $4,627,084 $75,792,707
+========== =========== ========== ===========
+See Notes to Financial Statements
+4JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS
+1. Organization:
+The Johnson & Johnson Retirement Savings Plan (the "Plan") is a defined contribution plan which was established on March 1, 1990 for
+eligible employees of certain subsidiaries of Johnson & Johnson ("J&J" or the "Company") located in Puerto Rico which have adopted the
+Plan. The Plan was designed to provide eligible employees with an opportunity to strengthen their financial security at retirement by providing
+an incentive to save and invest regularly. The funding of the Plan is made through employee and Company contributions. The assets of the Plan
+are maintained and transactions therein are executed by the trustee, Banco Popular de Puerto Rico.
+2. Summary of Significant Accounting Policies:
+Valuation of Investments:
+Equity investments in the Johnson & Johnson Stock Fund, administered by Banco Popular de Puerto Rico, are valued at the closing market
+price on the last business day of the year. Equity investments in the Equity Fund, managed by the Capital Research and Management Company,
+represent shares of a registered investment company and are valued at quoted market price which represents the net asset value of shares held
+by the Plan at year-end.
+The cost of equity investments in the Johnson & Johnson Stock Fund is recorded at the average market price of the stock transactions for the
+month during which the contribution is made. Units in the Equity Fund are purchased throughout the month at the prevailing quoted market
+price on those dates.
+Deposits in short-term investments in the Short-Term Investment Fund are principally purchases of shares of the Prime Portfolio of Vanguard
+Money Market Reserves, Inc. The Portfolio invests in securities which mature in less than one year. The value of this portfolio is the market
+value on the last business day of the year.
+Temporary cash investments are stated at redemption value which approximates fair value.
+Transfers:
+Transfers among funds, which are made at the participant's election, have been presented as assets transferred in the Statement of Changes in
+Net Assets Available for Benefits.
+5JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+2. Summary of Significant Accounting Policies (Continued):
+Use of Estimates:
+The preparation of the Plan's financial statements in conformity with accounting principles generally accepted in the United States requires the
+plan administrator to make estimates and assumptions that affect the reported amounts of net assets available for benefits at the date of the
+financial statements and the changes in net assets available for benefits during the reporting period and, when applicable, disclosures of
+contingent assets and liabilities at the date of the financial statements. Actual results could differ from those estimates.
+Risks and Uncertainties:
+The Plan provides for various participant investment options in funds which can invest in any combination of stocks, bonds, fixed income
+securities, mutual funds, and other investment securities. Investment securities are exposed to various risks, such as interest rate, market and
+credit. Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the value of
+investment securities, it is at least reasonably possible that changes in risks in the near term would materially affect participants' account
+balances and the amounts reported in the statements of net assets available for benefits and the statements of changes in net assets available for
+benefits.
+Other:
+Interest and dividend income are recorded as earned on the accrual basis. Purchases and sales of investment securities are reflected on a trade-
+date basis. Gains and losses on sales of investment securities are determined on the average cost method.
+All third party administrative expenses are paid by the Plan, except costs of entering new investment vehicles which are paid primarily by
+Johnson & Johnson.
+3. Contributions:
+Participating employees may contribute a minimum of 3% up to a maximum of 10% pre-tax and/or 1% to 10% post-tax of their base salary.
+Annual pre-tax contributions may not exceed $8,000 in 1999 or 1998 under Puerto Rico law. The Company contributes to the Plan, out of
+current or accumulated profits, an amount equal to 66-2/3% of the employee's pre-tax contributions for the Plan year.
+Contributions are made to the Plan by participants through payroll deductions and by the Company on behalf of participants. Employee
+contributions are to be invested in any of the three investment funds at the direction of the participating employees. All Company contributions
+are made to the J&J Stock Fund, except for participants over the age of 50, who may choose the alternative investments.
+6JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+3. Contributions (Continued):
+The number of participants invested in each fund at December 31, 1999 and 1998 was:
+1999 1998
+---- ----
+Johnson & Johnson Stock Fund 3,206 3,295
+Equity Fund 1,024 1,115
+Short-Term Investments Fund 1,117 1,285
+Participants may elect to invest in more than one fund and can change their investment direction twice a year. A total of 3,223 and 3,316 active
+and former employees had investments in the Plan for 1999 and 1998, respectively.
+4. Participant Accounts and Benefits:
+All participants are fully vested in their contributions and the Company match. The benefit to which a Plan participant is entitled is the amount
+provided by contributions (Company and participant) and investment earnings thereon (including net realized and unrealized investment gains
+and losses) which have been allocated to such participant's account balance. Allocations are based on participant's earnings or account balance,
+as defined.
+Participants are allowed to withdraw their after-tax contributions and earnings thereon, at any time. Participants may withdraw before-tax
+contributions only upon meeting certain hardship conditions.
+7JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+5. Investments held by the Plan as of December 31, 1999 and 1998 are summarized as follows:
+December 31, 1999
+-----------------------------------------------------------------
+Short-Term Johnson & Johnson
+Investment Fund Stock Fund
+--------------------- ----------------------
+Fair Value Cost Fair Value Cost Fair Value
+---------- -------- ---------- -------- ----------
+Common Stocks:
+Johnson & Johnson $70,955,588 $34,850,484
+Mutual Funds
+Temporary Cash
+Investments $4,323,235 $4,323,235 695,836 695,836
+---------- ---------- ----------- -----------
+$4,323,235 $4,323,235 $71,651,424 $35,546,320
+========== ========== =========== ===========
+December 31, 1999
+-------------------------------------------------------------
+Equity Fund Total
+------------------- ---------------------
+Cost Fair Value Cost
+------ ---------- ------
+Common Stocks:
+Johnson & Johnson $70,955,588 $35,914,046
+Mutual Funds $5,314,379 $4,252,553 5,314,379 4,252,553
+Temporary Cash
+Investments 5,019,071 5,023,226
+---------- ---------- ----------- -----------
+$5,314,379 $4,252,553 $81,289,038 $45,189,825
+========== ========== =========== ===========
+8JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+5. Investments (Continued):
+December 31, 1998
+-----------------------------------------------------------------------------------------------------
+Short-Term Johnson & Johnson
+Investment Fund Stock Fund
+------------------- -----------------------
+Fair Value Cost Fair Value Cost Fair Value
+---------- ------ ---------- -------- ----------
+Common Stocks:
+Johnson & Johnson $65,972,049 $29,114,361
+Mutual Funds
+Temporary Cash
+Investments $4,391,628 $4,391,628 857,020 857,020
+---------- ---------- ----------- -----------
+$4,391,628 $4,391,628 $66,829,069 $29,971,381
+========== ========== =========== ===========
+Equity Fund Total
+--------------------- -------------------
+Cost Fair Value Cost
+-------- ---------- --------
+Common Stocks:
+Johnson & Johnson $65,972,049 $29,114,361
+Mutual Funds $4,630,626 $3,609,938 4,630,626 3,609,938
+Temporary Cash
+Investments 5,248,648 5,248,648
+---------- ---------- ----------- -----------
+$4,630,626 $3,609,938 $75,851,323 $37,972,947
+========== ========== =========== ===========
+Realized gains on investments sold and distributed during the years ended December 31, 1999 and 1998 are summarized as follows:
+J&J Stock Fund Equity Fund
+------------------------------ --------------------------------
+Book Value Proceeds Gain Book Value Proceeds Gain
+---------- ---------- ------ ---------- ---------- ------
+1999 $3,494,700 $6,760,096 $3,265,396 $617,668 $815,815 $198,147
+1998 3,228,341 8,408,160 5,179,819 613,201 820,410 207,209
+9JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Tax Status:
+The Plan constitutes as a qualified plan under Section 165(a) of the Puerto Rico Income Tax Act of 1954 as amended, (the "ITA"), and the Plan
+and related Trust accounts are exempt from Puerto Rico income taxes under
+Section 165(a) and 165(e) of the ITA.
+The Plan has been amended since receiving the determination letter. However, the Plan administrator and the Plan's tax counsel believe that the
+Plan is currently designed and operated in compliance with the applicable requirements of the Puerto Rico tax code. Therefore, no provision for
+income taxes has been included in the Plan's financial statements.
+7. Termination Priorities:
+The Company has the right to terminate the Plan at any time and in the event the Plan is terminated, subject to conditions set forth in ERISA,
+the amount of each participant's account balance in the Plan is fully vested.
+8. Reconciliation of Financial Statements to Form 5500:
+The following is a reconciliation of net assets available for benefits per the financial statements to the Form 5500:
+December 31,
+1999 1998
+-------- --------
+Net Assets Available for Benefits
+Per the Financial Statements $ 81,258,481 $ 75,792,707
+Amounts Allocated to Withdrawing Participants (601,685) (542,913)
+------------ ------------
+Net Assets Available for Benefits Per the Form 5500 $ 80,656,796 $ 75,249,794
+============ ============
+Years Ended
+December 31,
+1999 1998
+---------- -------
+Benefits Paid to Participants Per the Financial Statements $ 10,857,170 $ 8,698,288
+Add: Amounts Allocated to Withdrawing Participants at
+December 31, 1999 and 1998 601,685 542,913
+Less: Amounts Allocated to Withdrawing Participants
+at December 31, 1998 and 1997 (542,913) (571,341)
+------------- ------------
+Benefits Paid to Participants Per the Form 5500 $ 10,915,942 $ 8,669,860
+============ ===========
+Amounts allocated to the withdrawing participants are recorded on the Form 5500 for benefit claims that have been processed and approved for
+payment priortoDecember 31, 1999 and 1998 but not yet paid as of that date.
+10Supplemental Schedule
+JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+ITEM 27a - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES
+AS OF DECEMBER 31, 1999
+FACE AMOUNT
+OR SHARES ISSUES COST FAIR VALUE
+--------- ------ ------------ ----------
+J&J STOCK FUND
+--------------
+Common Stock
+------------
+796,211 shs. Johnson & Johnson $34,850,484 $70,955,588
+Temporary Investments
+---------------------
+$695,836 U.S. Treasury Obligations 695,836 695,836
+------------ ------------
+Total J&J Stock Fund $35,546,320 $71,651,424
+=========== ============
+SHORT-TERM INVESTMENT FUND
+--------------------------
+Money Market funds
+------------------
+Vanguard Money Market
+Reserves Prime
+$4,323,235 Portfolio $4,323,235 $4,323,235
+========== ==========
+EQUITY FUND
+-----------
+Mutual Funds
+------------
+163,720.853 shs. Investment Company of America $4,252,553 $5,314,379
+========== ==========
+11Supplemental Schedule
+JOHNSON & JOHNSON RETIREMENT SAVINGS PLAN
+ITEM 27d - SCHEDULE OF REPORTABLE TRANSACTIONS
+FOR THE YEAR ENDED DECEMBER 31, 1999
+DISPOSED ACQUIRED
+------------------------------------------ ----------------------
+SECURITY/PARTY GAIN/
+DESCRIPTION SALES COSTS PROCEEDS (LOSS) PURCHASES COSTS
+----------- ----- ----- -------- ------ --------- -----
+(# of Transactions) (# of Transactions)
+SERIES OF TRANSACTIONS:
+Johnson & Johnson
+Common Stock - - - - 7 $990,396
+The Vanguard Group 21 $1,035,925 $1,035,925 - 61 $967,532
+12CONSENT OF INDEPENDENT ACCOUNTANTS
+We hereby consent to the incorporation by reference in the Registration Statement on Form S-8 (File No. 33-32875) of Johnson & Johnson of
+our report dated June 12, 2000 relating to the financial statements and financial statement schedules of the Johnson & Johnson Retirement
+Savings Plan, which appears in this Form 11-K.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 23, 2000Exhibit 99(a)(iii)
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 11-K
+[X] ANNUAL REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+For the Fiscal Year Ended January 2, 2000
+OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+Commission File Number 1-3215
+JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+(Full title of the Plan)
+JOHNSON & JOHNSON
+ONE JOHNSON & JOHNSON PLAZA
+NEW BRUNSWICK, NEW JERSEY 08933
+(Name of issuer of the securities held pursuant to the Plan and the address of its principal executive office)Item 4. Financial Statements and Exhibits
+Report of Independent Accountants
+Financial Statements:
+Balance Sheets as of December 31, 1999 and 1998
+Statements of Operations and Changes in Plan Equity for the years ended December 31, 1999 and 1998
+Notes to Financial Statements
+Supplemental Schedules:
+Schedule of Investments at December 31, 1999
+Schedule of 5% Reportable Transactions for the year ended December 31, 1999
+Consent of PricewaterhouseCoopers LLP, dated June 23, 2000
+The Plan. Pursuant to the requirements of the Securities Exchange Act of 1934, the trustees (or other persons who administer the employee
+benefit plan) have duly caused this annual report to be signed on its behalf by the undersigned hereunto duly authorized.
+JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+By: /s/ R. J. Darretta
+------------------------------
+R. J. Darretta
+Chairman, Pension Committee
+June 26, 2000JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+FINANCIAL STATEMENTS AND
+SUPPLEMENTAL SCHEDULES
+AS OF AND FOR THE YEARS ENDED
+DECEMBER 31, 1999 AND 1998JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+INDEX
+Report of Independent Accountants 2
+Financial Statements:
+Statements of Net Assets Available for Benefits with Fund Information as of December 31, 1999 and 1998 3-4
+Statements of Changes in Net Assets Available for Benefits with Fund Information for the Years Ended December 31, 1999 and 1998 5-6
+Notes to Financial Statements 7-13
+Supplemental Schedules:
+Item 27a - Schedule of Assets Held for Investment Purposes at December 31, 1999 14
+Item 27d - Schedule of Reportable Transactions for the Year Ended December 31, 1999 15
+1REPORT OF INDEPENDENT ACCOUNTANTS
+To the Pension and Benefits Committees of Johnson & Johnson
+In our opinion, the accompanying statements of net assets available for benefits and the related statements of changes in net assets available for
+benefits present fairly, in all material respects, the net assets available for benefits of the Johnson & Johnson Savings Plan for Union
+Represented Employees (the "Plan") as of December 31, 1999 and 1998, and the changes in net assets available for benefits for the years then
+ended in conformity with accounting principles generally accepted in the United States. These financial statements are the responsibility of the
+Plan's management; our responsibility is to express an opinion on these financial statements based on our audits. We conducted our audits of
+these statements in accordance with auditing standards generally accepted in the United States, which require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on
+a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and
+significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audits provide a
+reasonable basis for the opinion expressed above.
+Our audits were conducted for the purpose of forming an opinion on the basic financial statements taken as a whole. The supplemental
+schedule of assets held for investment purposes and schedule of reportable transactions are presented for the purpose of additional analysis and
+are not a required part of the basic financial statements but are supplementary information required by the Department of Labor's Rules and
+Regulations for Reporting and Disclosure under the Employee Retirement Income Security Act of 1974. These supplemental schedules are the
+responsibility of the Plan's management. The fund information in the statements of net assets available for benefits and the statements of
+changes in net assets available for benefits is presented for the purposes of additional analysis rather than to present the net assets available for
+benefits and changes in net assets available for benefits of each fund. The supplemental schedules and fund information have been subjected to
+the auditing procedures applied in the audits of the basic financial statements and, in our opinion, are fairly stated in all material respects in
+relation to the basic financial statements taken as a whole.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 12, 2000
+2JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+STATEMENT OF NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+As of December 31, 1999
+PARTICIPANT DIRECTED
+--------------------------------------------------------------------------------------
+Fixed J&J Diversified Total
+USGS Fund Interest Fund Stock Fund Equity Fund Savings Plan
+--------- ------------- ---------- ----------- ------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $2,158,369 $ 2,158,369
+Investments at Fair Value (Notes 2 and 5) $21,114,345 21,114,345
+Investments in Master Trust (Notes 2 and 5) $1,067,057 $6,096,157 7,163,214
+Accrued Dividends and Interest Receivable 5,108 11,678 4,660 21,446
+--------- --------- ---------- --------- ----------
+Total Assets 1,072,165 2,170,047 21,114,345 6,100,817 30,457,374
+--------- --------- ---------- --------- ----------
+LIABILITIES:
+------------
+Accrued Transfers 500 10,200 (8,500) (2,200)
+---------- ---------- ----------- ---------- -----------
+Net Assets Available for Benefits $1,071,665 $2,159,847 $21,122,845 $6,103,017 $30,457,374
+========== ========== =========== ========== ===========
+See Notes to Financial Statements
+3JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+STATEMENT OF NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+As of December 31, 1998
+PARTICIPANT DIRECTED
+----------------------------------------------------------------------------
+Fixed J&J Diversified Total
+USGS Fund Interest Fund Stock Fund Equity Fund Savings Plan
+--------- ------------- ---------- ----------- ------------
+ASSETS:
+-------
+Deposits in Group Annuity Contracts (Note 2) $1,860,044 $ 1,860,044
+Investments at Fair Value (Notes 2 and 5) $17,436,911 17,436,911
+Investments in Master Trust (Notes 2 and 5) $1,008,405 $4,494,429 5,502,834
+Accrued Dividends and Interest Receivable 4,297 10,121 214 25,069 39,701
+---------- ---------- ------------ ----------- ------------
+Total Assets 1,012,702 1,870,165 17,437,125 4,519,498 24,839,490
+---------- ---------- ------------ ----------- ------------
+LIABILITIES:
+------------
+Accrued Transfers 29,100 (4,801) (68,400) 44,101
+---------- ---------- ------------ ----------- ------------
+Net Assets Available for Benefits $ 983,602 $1,874,966 $ 17,505,525 $ 4,475,397 $ 24,839,490
+========== ========== ============ =========== ============
+See Notes to Financial Statements
+4JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+STATEMENT OF CHANGES IN NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+For The Year Ended December 31, 1999
+PARTICIPANT DIRECTED
+---------------------------------------------------------------------------------
+Fixed J&J Diversified Total
+USGS Fund Interest Fund Stock Fund Equity Fund Savings Plan
+--------- ------------- ---------- ----------- ------------
+Employee Contributions (Note 3) $148,108 $291,978 $1,621,497 $766,490 $2,828,073
+Employer Contributions (Note 3) 634,338 634,338
+Interest 52,873 128,999 3,028 184,900
+Dividends 236,370 64,005 300,375
+--------- ---------- ----------- ---------- -----------
+200,981 420,977 2,495,233 830,495 3,947,686
+Additions to (Deductions from) Net Assets:
+------------------------------------------
+Payments to Participants (Note 4) (38,977) (58,285) (1,047,051) (247,632) (1,391,945)
+Change in Unrealized Net Appreciation of Investments 1,107,538 455,063 1,562,601
+Realized Net Gain on Sale of Investments 812,749 684,799 1,497,548
+Realized Net Gain on Stock Distributed 177,916 177,916
+Assets Transferred (Note 2) (67,300) (65,800) 194,400 (61,300)
+Administrative Expenses (6,641) (12,011) (123,465) (33,805) (175,922)
+--------- ---------- ----------- ---------- -----------
+Net Increase 88,063 284,881 3,617,320 1,627,620 5,617,884
+Net Assets Available for Benefits, Beginning of Year 983,602 1,874,966 17,505,525 4,475,397 24,839,490
+--------- ---------- ----------- ---------- -----------
+Net Assets Available for Benefits, End of Year $1,071,665 $2,159,847 $21,122,845 $6,103,017 $30,457,374
+========== ========== =========== ========== ===========
+See Notes to Financial Statements
+5JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+STATEMENT OF CHANGES IN NET ASSETS AVAILABLE FOR BENEFITS with FUND INFORMATION
+For The Year Ended December 31, 1998
+PARTICIPANT DIRECTED
+----------------------------------------------------------------------------
+Fixed J&J Diversified Total
+USGS Fund Interest Fund Stock Fund Equity Fund Savings Plan
+--------- ------------- ---------- ----------- ------------
+Employee Contributions (Note 3) $177,832 $349,624 $1,528,145 $761,834 $ 2,817,435
+Employer Contributions (Note 3) 610,149 610,149
+Interest 52,839 112,154 2,929 167,922
+Dividends 190,534 50,401 240,935
+----------- ---------- ---------- --------- -----------
+230,671 461,778 2,331,757 812,235 3,836,441
+Additions to (Deductions from) Net Assets:
+------------------------------------------
+Payments to Participants (Note 4) (47,682) (104,718) (759,124) (162,697) (1,074,221)
+Change in Unrealized Net Appreciation of Investment 3,262,162 395,659 3,657,821
+Realized Net Gain on Sale of Investments 180,470 365,123 545,593
+Realized Net Gain on Stock Distributed 32,455 32,455
+Assets Transferred (Note 2) (116,300) (64,200) 176,000 4,500
+Administrative Expenses (3,119) (5,291) (47,200) (12,902) (68,512)
+----------- ---------- ---------- --------- -----------
+Net Increase 63,570 287,569 5,176,520 1,401,918 6,929,577
+Net Assets Available for Benefits, Beginning of Year 920,032 1,587,397 12,329,005 3,073,479 17,909,913
+----------- ---------- ---------- --------- -----------
+Net Assets Available for Benefits, End of Year $983,602 $1,874,966 $17,505,525 $4,475,397 $24,839,490
+=========== ========== =========== ========== ===========
+See Notes to Financial Statements
+6JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS
+1. Organization:
+The Johnson & Johnson Savings Plan for Union Represented Employees (the "Plan") is a defined contribution plan which was established on
+January 1, 1993 by Johnson & Johnson ("J&J" or the "Company"). The Plan was designed to enhance the existing retirement program of
+eligible employees covered under collective bargaining agreements with the Company. The funding of the Plan is made through employee and
+Company contributions. The assets of the Plan are maintained in a Master Trust account ("Johnson & Johnson Savings Plan Trust") and
+transactions therein are executed by the trustee, Bankers Trust Company. The Johnson & Johnson Savings Plan Trust is allocated based upon
+the total of each individual participant's share of the Johnson & Johnson Savings Plan Trust.
+2. Summary of Significant Accounting Policies:
+Valuation of Investments:
+Equity investments in the Johnson & Johnson Stock Fund, administered by Bankers Trust Company, are valued at the average of the high and
+low market price on the last business day of the year. The cost of equity investments in the Johnson & Johnson Stock Fund are recorded at the
+average market price of the stock transactions for the month during which the contribution is made.
+The investments in the US Government Securities ("USGS"), Fixed Interest and Diversified Equity Funds represent the Plan's share of assets in
+the Johnson & Johnson Savings Plan Trust. The USGS Fund consists of short-term obligations that are issued or guaranteed by the US
+Government. Investments are valued at cost, which approximates market value. Deposits in group annuity contracts in the Fixed Interest Fund
+are recorded at their contract value, which approximates fair value, because these investments have fully benefit-responsive features. Contract
+value represents contributions and reinvested income, less any withdrawals plus accrued interest. Participants may direct the withdrawal or
+transfer of all or a portion of their investment at contract value. However, withdrawals influenced by employer initiated events, such as in
+connection with the sale of a business, may result in a distribution at other than contract value. There are no reserves against contract values for
+credit risk of contract issuers or otherwise. The average yield and crediting interest rate of the Fixed Interest Fund was 5.99% for 1999 and
+6.62% for 1998. The crediting interest rate for the investment contracts is either agreed-to in advance with the issuer or varies based on an
+agreed-to formula, but cannot be less than zero.
+7JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+2. Summary of Significant Accounting Policies (Continued):
+Equity investments and corporate obligations in the Diversified Equity Fund, managed by the Capital Guardian Trust Company and J.P.
+Morgan Investment Management, Inc., are traded on a national securities exchange and are valued at the last reported market sales price on the
+last business day of the year. Investments in the Diversified Equity Fund are purchased periodically by Capital Guardian Trust Company and
+J.P. Morgan Investment Management, Inc. based on the prevailing market values of the underlying investments.
+Temporary cash investments are stated at redemption value which approximates fair value.
+Transfers:
+Transfers among funds, which are made at the participant's election, have been presented as assets transferred in the Statement of Changes in
+Net Assets Available for Benefits.
+Use of Estimates:
+The preparation of the Plan's financial statements in conformity with accounting principles generally accepted in the United States requires the
+plan administrator to make estimates and assumptions that affect the reported amounts of net assets available for benefits at the date of the
+financial statements and the changes in net assets available for benefits during the reporting period and, when applicable, disclosure of
+contingent assets and liabilities at the date of the financial statements. Actual results could differ from those estimates.
+Risks and Uncertainties:
+The Plan provides for various participant investment options in funds which can invest in any combination of stocks, bonds, fixed income
+securities, mutual funds, and other investment securities. Investment securities are exposed to various risks, such as interest rate, market and
+credit. Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the value of
+investment securities, it is at least reasonably possible that changes in risks in the near term would materially affect participants' account
+balances and the amounts reported in the statements of net assets available for benefits and the statements of changes in net assets available for
+benefits.
+Other:
+Interest and dividend income is recorded as earned on the accrual basis. Purchases and sales of investment securities are reflected on a trade-
+date basis. Gains and losses on sales of investment securities are determined on the average cost method. Third party administrative expenses
+are paid by the Plan, except costs of entering new investment vehicles which will be paid primarily by Johnson & Johnson.
+8JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+3. Contributions:
+Participating employees may contribute a minimum of $0.16 per hour up to a maximum of $1.60 per hour, depending on the negotiated
+contract rate, of the first forty hours worked in each payroll week. All contributions are on a pre-tax basis. Annual pre-tax contributions may
+not exceed $10,000 in 1999 or 1998. The Company contributes to the Plan, out of current or accumulated profits, an amount equal to 25% or
+40% (depending on the negotiated collective bargaining agreement) of the employee directed contributions on the first $0.16 to $0.80 per hour
+directly into J&J common stock.
+Contributions are made to the Plan by participants through payroll deductions and by the Company on behalf of the participants. Employee
+contributions are to be invested in any of the four investment funds at the direction of the participating employees. All Company contributions
+are made to the J&J Stock Fund.
+The number of participants invested in each fund at December 31, 1999 and 1998 was:
+1999 1998
+---- ----
+U.S. Government Securities Fund 506 542
+Fixed Interest Fund 719 767
+Johnson & Johnson Stock Fund 2,152 2,166
+Diversified Equity Fund 1,172 1,171
+Participants may elect to invest in more than one fund and can change their investment direction twice a year. A total of 2,154 and 2,167 active
+and former employees had investments in the Plan for 1999 and 1998, respectively.
+4. Participant Accounts and Benefits:
+All participants are fully vested in their contributions and the Company match. The benefit to which a Plan participant is entitled is the amount
+provided by contributions (Company and participant) and investment earnings thereon (including net realized and unrealized investment gains
+and losses) which have been allocated to such participant's account balance. Allocations are based on participant's earnings or account balances,
+as defined.
+Participants may withdraw their after-tax contributions and earnings thereon, at any time. Participants may withdraw before-tax contributions
+only upon meeting certain hardship conditions.
+9JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+5. Investments:
+Investments held by the Plan as of December 31, 1999 are summarized as follows:
+Johnson & Johnson
+Stock Fund
+Fair Value Cost
+---------- --------------
+Johnson & Johnson Common Stock $21,077,906 $11,491,030
+Temporary Cash Investments 36,439 36,439
+----------- -----------
+$21,114,345 $11,527,469
+=========== ===========
+The investments in the USGS, Fixed Interest, and the Diversified Equity Funds reflected in the accompanying Statement of Net Assets
+Available for Benefits represent the Plan's share of investments (approximately 0.6% of fair value) held by the Johnson & Johnson Savings
+Plan Trust. Total investments held by the Savings Plan Trust on behalf of the Plan and the Johnson & Johnson Savings Plan (for salaried and
+non-union hourly employees of the Company) are summarized as follows:
+Description Fair Value Cost
+----------- -------------- --------------
+USGS Fund:
+U.S. Government Securities - Short Term $29,313,150 $29,313,150
+Other* 142,201 142,201
+Fixed Interest Fund:
+Deposits in Group Annuity Contracts 621,653,591 621,653,591
+Other* 3,363,553 3,363,553
+Diversified Equity Fund:
+Common Stocks 992,698,523 700,989,649
+Other* 758,881 758,881
+----------------- -----------------
+$1,647,929,899 $1,356,221,025
+================= =================
+* Other consists of interest and/or dividends receivable.
+10JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+5. Investments (Continued):
+Investments held by the Plan as of December 31, 1998 are summarized as follows:
+Johnson & Johnson
+Stock Fund
+-------------------------
+Fair Value Cost
+---------- -------------
+Johnson & Johnson Common Stock $17,427,035 $8,947,697
+Temporary Cash Investments 9,876 9,876
+----------- ----------
+$17,436,911 $8,957,573
+=========== ==========
+The investments in the USGS, Fixed Interest, and the Diversified Equity Funds reflected in the accompanying Statement of Net Assets
+Available for Benefits represent the Plan's share of investments (approximately 0.5% of fair value) held by the Johnson & Johnson Savings
+Plan Trust. Total investments held by the Trust on behalf of the Plan and the Johnson & Johnson Savings Plan (for salaried and non-union
+hourly employees of the Company) are summarized as follows:
+Description Fair Value Cost
+----------- ------------- --------------
+USGS Fund:
+U.S. Government Securities - Short Term $30,466,695 $30,466,695
+Other* 138,992 138,992
+Fixed Interest Fund:
+Deposits in Group Annuity Contracts 634,215,282 634,215,282
+Other* 3,286,951 3,286,951
+Diversified Equity Fund:
+Common Stocks 764,674,566 548,124,829
+Other* 4,178,130 4,178,130
+--------------- --------------
+$1,436,960,616 $1,220,410,879
+=============== ==============
+* Other consists of interest and/or dividends receivable.
+Realized gains on investments sold and distributed during the years ended December31, 1999 and 1998 are summarized as follows:
+J&J Stock Fund Diversified Equity Fund
+----------------------------------- -----------------------------------
+Book Value Proceeds Gain Book Value Proceeds Gain
+---------- ---------- --------- ---------- ---------- --------
+1999 $693,844 $1,684,509 $990,665 $3,803,034 $4,487,833 $684,799
+1998 $321,078 $ 534,003 $212,925 $3,072,462 $3,437,585 $365,123
+11JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+6. Tax Status:
+The Internal Revenue Service has determined and informed the Company by a letter dated April 26, 1996, that the Plan and related trust are
+designed in accordance with applicable sections of the Internal Revenue Code (IRC). The Plan has been amended since receiving the
+determination letter. However, the Plan administrator believes that the Plan is designed and is currently being operated in compliance with
+applicable requirements of the IRC.
+7. Termination Priorities:
+The Company has the right to terminate the Plan at any time and in the event the Plan is terminated, subject to conditions set forth in ERISA,
+the amount of each participant's account balance in the Plan is fully vested.
+8. Concentrations of Credit Risk:
+Financial instruments which potentially subject the Plan to concentrations of credit risk consist principally of the Fixed Interest Fund holdings
+in fully benefit-responsive group annuity contracts with insurance and other financial institutions.
+The Fund places its fully benefit-responsive group annuity contracts with high-credit quality institutions and, by policy, limits the amount of
+credit exposure to any one financial institution. If any of the insurance companies that the group annuity contracts are invested with fail to
+perform according to the contract, the asset value of the Plan could be impaired.
+9. Reconciliation of Financial Statements to Form 5500:
+The following is a reconciliation of net assets available for benefits per the financial statements to the Form 5500:
+December 31, December 31,
+1999 1998
+------------- ----------
+Net Assets Available for Benefits
+Per the Financial Statements $30,457,374 $24,839,490
+Amounts Allocated to Withdrawing Participants (118,294) (52,942)
+------------ ------------
+Net Assets Available for Benefits Per the Form 5500 $30,339,080 $24,786,548
+============ ============
+12JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+NOTES TO FINANCIAL STATEMENTS, Continued
+9. Reconciliation of Financial Statements to Form 5500 (Continued):
+Year Ended YearEnded
+December 31, December31,
+1999 1998
+-------------- ---------
+Benefits Paid to Participants Per the Financial Statements $1,391,945 $1,074,221
+Add: Amounts Allocated to Withdrawing Participants at
+December 31, 1999 and 1998 118,294 52,942
+Less: Amounts Allocated to Withdrawing Participants
+at December 31, 1998 and 1997 (52,942) (51,617)
+---------- ---------
+Benefits Paid to Participants Per the Form 5500 $1,457,297 $1,075,546
+========== ==========
+Amounts allocated to the withdrawing participants are recorded on the Form 5500 for benefit claims that have been processed and approved for
+payment prior to December 31, 1999 and 1998 but not yet paid as of that date.
+13Supplemental Schedule
+JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+ITEM 27a - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES AS OF DECEMBER 31, 1999
+FACE AMOUNT
+OR SHARES ISSUES COST FAIR VALUE
+--------- ------ ----------- ----------
+J&J STOCK FUND
+--------------
+Common Stock
+------------
+224,831 shs. Johnson & Johnson $11,491,030 $21,077,906
+Temporary Investments
+---------------------
+36,439 BT Pyramid Directed
+Account Cash Fund 36,439 36,439
+----------- -----------
+Total J&J Stock Fund $11,527,469 $21,114,345
+=========== ===========
+14Supplemental Schedule
+JOHNSON & JOHNSON SAVINGS PLAN
+FOR UNION REPRESENTED EMPLOYEES
+ITEM 27d - SCHEDULE OF REPORTABLE TRANSACTIONS
+FOR THE YEAR ENDED DECEMBER 31, 1999
+DISPOSED ACQUIRED
+---------------------------------------------------------------------------
+SECURITY/PARTY GAIN/
+DESCRIPTION SALES COSTS PROCEEDS (LOSS) PURCHASES COSTS
+----- ----- -------- ------ --------- -----
+# of Transactions # of Transactions
+SERIES OF TRANSACTIONS:
+BT Pyramid Directed
+Account-Cash Fund (a) $2,160,655 $2,160,655 $ - (a) $2,164,054
+Johnson & Johnson
+Common Stock 154 $1,876,638
+(a) Trustee is unable to provide detailed information on the number of transactions.
+15CONSENT OF INDEPENDENT ACCOUNTANTS
+We hereby consent to the incorporation by reference in the Registration Statement on Form S-8 (File No. 33-52252) of Johnson & Johnson of
+our report dated June 12, 2000 relating to the financial statements and financial statement schedules of the Johnson & Johnson Savings Plan for
+Union Represented Employees, which appears in this Form 11-K.
+PricewaterhouseCoopers LLP
+Florham Park, New Jersey
+June 23, 2000Exhibit 99(a)(iv)
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 11-K
+(MARK ONE)
+[X] Annual Report Pursuant to Section 15(d) of the Securities Exchange Act of 1934
+For the fiscal year end December 31, 1999
+Or
+[ ] Transition Report Pursuant to Section 15(d) of the Securities Exchange Act of 1934
+For the transition period from to
+Commission file number 1-3215
+CENTOCOR QUALIFIED
+SAVINGS AND RETIREMENT PLAN
+(Full Title of the Plan)
+Johnson & Johnson
+One Johnson & Johnson Plaza
+New Brunswick, New Jersey 08933
+(Name of issuer of the securities held
+pursuant to the plan and the address of its principal executive office)Centocor Qualified Savings and Retirement Plan Index to Financial Statements and Schedules
+Page 3 Report of Independent Accountants
+Page 4 Statements of Net Assets Available for Plan Benefits as of
+December 31, 1999 and 1998
+Page 5 Statements of Changes in Net Assets Available for Plan Benefits
+for the years ended December 31, 1999 and 1998
+Pages 6-11 Notes to Financial Statements
+Page 12 Item 27a - Supplemental Schedule of Assets Held for Investment
+Purposes
+The Plan. Pursuant to the requirements of the Securities Exchange Act of 1934, the trustees (or other persons who administer the employee
+benefit plan) have duly caused this annual report to be signed on its behalf by the undersigned hereunto duly authorized.
+CENTOCOR QUALIFIED SAVINGS
+AND RETIREMENT PLAN
+By: /s/ R.J. Darretta
+-------------------------
+R.J. Darretta
+Chairman, Pension Committee
+June 26, 2000
+2Report of Independent Accountants
+To the 401(k) Administrative Committee of Centocor, Inc.:
+In our opinion, the accompanying statements of net assets available for plan benefits and the related statements of changes in net assets
+available for plan benefits present fairly, in all material respects, the net assets available for plan benefits of the Centocor Qualified Savings and
+Retirement Plan (the "Plan") as of December 31, 1999, and the changes in net assets available for plan benefits for the year then ended, in
+conformity with accounting principles generally accepted in the United States. These financial statements are the responsibility of the Plan's
+management; our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit of these
+statements in accordance with auditing standards generally accepted in the United States, which require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant
+estimates made by management, and evaluating the overall financial statement presentation. We believe our audit provides a reasonable basis
+for the opinion expressed above. The statement of net assets available for plan benefits and the related statement of changes in net assets
+available for plan benefits of the Plan as of December 31, 1998 and for the year then ended were audited by other independent accountants
+whose report dated June 18, 1999 expressed an unqualified opinion on those statements.
+Our audit was conducted for the purpose of forming an opinion on the basic financial statements taken as a whole. The supplemental schedule
+of assets held for investment purposes is presented for the purpose of additional analysis and is not a required part of the basic financial
+statements but is supplemental information required by the Department of Labor's Rules and Regulations for Reporting and Disclosure under
+the Employee Retirement Income Security Act of 1974. This supplemental schedule is the responsibility of the Plan's management. The
+supplemental schedule has been subjected to the auditing procedures applied in the audit of the basic financial statements and, in our opinion, is
+fairly stated in all material respects in relation to the basic financial statements taken as a whole.
+PricewaterhouseCoopers LLP
+Philadelphia, PA
+June 9, 2000
+3CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+STATEMENTS OF NET ASSETS AVAILABLE FOR PLAN BENEFITS
+December 31,
+-----------------------------------------
+1999 1998
+---------------- ---------------
+Assets:
+Investments at Fair Value $ 42,418,711 $ 28,206,185
+Receivables:
+Employer's contribution 2,465,532 1,485,822
+Loans from participants 588,825 205,012
+---------------- ---------------
+3,054,357 1,690,834
+---------------- ---------------
+Total assets $ 45,473,068 $ 29,897,019
+================ ===============
+Net assets available for Plan benefits $ 45,473,068 $ 29,897,019
+================ ===============
+See accompanying Notes to Financial Statements.
+4CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+STATEMENTS OF CHANGES IN NET ASSETS AVAILABLE FOR PLAN BENEFITS
+Years ended December 31,
+------------------------------------------
+1999 1998
+----------------- --------------------
+Additions:
+Interest and dividend income $ 1,558,034 $ 984,109
+Net appreciation in fair value of
+Investments 5,804,353 5,336,589
+Contributions:
+Employee 5,311,075 3,470,946
+Employer 2,465,532 1,485,822
+Participant rollovers into Plan 2,502,043 1,756,048
+----------------- --------------------
+Total additions 17,641,037 13,033,514
+Deductions:
+Benefits paid (2,064,666) (1,210,687)
+Transfer of Centocor Diagnostics'
+Net assets out of Plan - (3,958,022)
+----------------- --------------------
+Total deductions (2,064,666) (5,168,709)
+Other income (expense), net (322) (975)
+----------------- --------------------
+Net increase 15,576,049 7,863,830
+Net assets available for Plan benefits:
+Beginning of year 29,897,019 22,033,189
+----------------- --------------------
+End of year $ 45,473,068 $ 29,897,019
+================= ====================
+See accompanying Notes to Financial Statements.
+5CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting
+The accompanying financial statements have been prepared on the accrual basis of accounting.
+Investments
+The Centocor Qualified Savings and Retirement Plan's (the "Plan") Investments, administered by The Vanguard Group, Inc. (the "Trustee"),
+are stated at fair value based on the market value of the underlying securities on the last business day of the year.
+Johnson & Johnson common shares are carried at market value which is determined by quoted market prices. Participant loans are valued at
+cost which approximates fair value.
+Purchases and sales of investment securities are reflected on a trade date basis. Gains and losses on sales of investment securities are
+determined on the average cost method.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and changes therein, and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of additions and deductions during the reporting period. Actual results could
+differ from estimates.
+Risks and Uncertainties
+The Plan provides for various participant investment options in funds which can invest in any combination of stocks, bonds, fixed income
+securities, mutual funds and other investment securities. Investment securities are exposed to various risks, such as interest rate, market and
+credit. Due to the level of risk associated with certain investment securities and the level of uncertainty related to changes in the value of
+investment securities, it is at least reasonably possible that changes in risks in the near term would materially affect participants' account
+balances and the amounts reported in the statements of net assets available for plan benefits and the statements of changes in net assets
+available for plan benefits.
+6CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+Related Party Transactions
+Certain Plan investments are shares of mutual funds managed by the Trustee. Therefore, these transactions qualify as party-in-interest.
+Payment of benefits
+Benefit payments are recorded when paid.
+NOTE 2 DESCRIPTION OF PLAN
+The following description of the Plan provides only general information. Participants should refer to the Plan document for a more complete
+description of the Plan's provisions.
+General
+Effective January 1, 1985, Centocor, Inc. (the "Company") established the Plan, a defined contribution savings plan subject to the provisions of
+the Employee Retirement Income Security Act of 1974 ("ERISA"). Substantially all U.S. employees of the Company, or any of its subsidiaries
+or affiliates, are eligible to participate in the Plan. Employees may participate as of the first date of his/her employment. Substantially all of the
+legal, accounting and administrative expenses associated with Plan operations are currently paid by the Company. On October 6, 1999, the
+Company and Johnson & Johnson completed a merger between the two companies.
+Contributions
+Eligible employees may make voluntary tax-deferred contributions of 1 to 15 percent of their eligible cash compensation up to certain annual
+limits as prescribed by the U.S. Internal Revenue Code. Maximum annual contributions may be limited at the discretion of the Company.
+Employee contributions are invested as directed by the employee in any of the eight investment programs available under an investment
+contract with the Trustee (see Note 3). Company contributions are made principally in the Johnson & Johnson Common Stock Fund.
+The Company may elect, but is not required, to make contributions to the Plan for the benefit of the participating employees. To date,
+contributions have been made as a percentage of the participants' contributions for the year, as determined by the Company's Board of
+Directors. In 1999 and 1998, the Company elected to contribute an amount equal to 50 percent of the contributions of each employee. The
+Company's contribution is based upon annual employee contributions up to a level of 6 percent of their cash compensation. Additionally, in
+1999 and 1998, the Company committed to make a contribution equal to 1% of each employee's compensation. At December 31, 1999, 26,224
+shares of the Johnson & Johnson
+7CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+Common Stock Fund with a fair value of $94.016 per share determined by the average trade price for the last twenty days in December and
+$66.33 in cash was due to the Plan from the Company for its 1999 contribution.
+Participants' Accounts
+Separate accounts are maintained by the Trustee for each participant. Each participant's account reflects the participant's contribution, the
+Company's contribution, interest, dividends, other income, and gains or losses earned by each of the investment programs. Investment income
+is reinvested in the same programs.
+Participants may transfer all or a portion of their accounts among the eight investment programs available under the Plan by directly contacting
+the Trustee. The transfer would take effect immediately upon the participant's notification of the change.
+Vesting
+Employee contributions are fully (100%) vested and non-forfeitable. Employer contributions are fully vested upon death, total and permanent
+disability, or attainment of age 65; otherwise, employer contributions are subject to vesting percentages based on years of service, as defined by
+the Plan documents. Employee non-vested forfeitures are used by the Company to offset employer contributions. The amount of forfeitures for
+1999 and 1998 were $89,241 and $19,011, respectively. The employer contributions vesting percentages are as follows:
+Less than one year of service 0%
+One year of service 20%
+Two years of service 40%
+Three years of service 60%
+Four years of service 80%
+Five or more years of service 100%
+Payment of Benefits
+Benefits from the participants' vested accounts are normally payable to Plan participants upon retirement, death, termination of Company
+employment or total and permanent disability. There are no benefits payable to former employees at December 31, 1999 and 1998.
+A participant, while still an employee, may generally withdraw all or a portion of his vested, non-forfeitable tax-deferred contribution account
+if such amount is needed to defray the cost of a medical emergency, enable the participant to acquire or improve his principal residence, or
+assist the participant in preventing eviction or foreclosure proceedings. Such a withdrawal must first be taken as a loan as noted below.
+8CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+Any additional funds required will be distributed as a hardship withdrawal subject to income tax and penalties. Such loan and withdrawal shall
+not exceed the amount required to meet the immediate financial need created by the hardship and shall not be reasonably available from other
+sources of the participant.
+Loan Provisions
+Participants may borrow from their accounts a minimum of $1,000 up to a maximum equal to the lesser of $50,000 or 50% of their account
+balance and may have only one loan outstanding at any point of time. All such loans bear interest at prevailing market rates. Loans must be
+repaid within five years in approximately equal installments or up to 15 years if used for the purchase of a primary residence. Loans are secured
+by the balance in participant accounts.
+Transfer of Net Assets
+In November 1998 the Company sold its oncology diagnostics business. Immediately following the closing of the sale, $3,958,022 of the Plan's
+net assets related to diagnostic oncology employees were transferred from the Company's Plan to the plan sponsored by the acquiring company.
+NOTE 3 INVESTMENTS
+The number of participants in the investment programs at December 31, 1999 and 1998 was as follows:
+1999 1998
+--------- ---------
+Centocor Stock Fund - 596
+Johnson & Johnson Common Stock Fund 947 -
+Vanguard Money Market Reserves - Prime Portfolio 261 201
+Vanguard Bond Index Fund - Total Bond Market Portfolio 325 270
+Vanguard Index Trust - 500 Portfolio 890 664
+Vanguard U.S. Growth Portfolio 797 557
+Vanguard/Windsor II 532 448
+Templeton Foreign Fund 329 290
+Fidelity Contrafund 505 387
+The Centocor Stock Fund program consisted of shares of Centocor, Inc. Common Stock. This fund was available to plan participants through
+October 6, 1999. The Johnson & Johnson Common Stock Fund program consists of shares of Johnson & Johnson Common Stock. The
+Vanguard Money Market Reserves - Prime Portfolio invests in short-term, high-quality money market instruments issued by financial
+institutions, non-financial corporations, the U.S. government and federal agencies. The Vanguard Bond
+9CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+Index Fund - Total Bond Market Portfolio invests in U.S. Treasury, federal agency, mortgage backed and corporate securities and attempts to
+match the performance of the Lehman Brothers Aggregate Bond Index, a widely recognized measure of the entire taxable U.S. bond market.
+The Vanguard Index Trust - 500 Portfolio invests in all of the 500 stocks that make up the Standard & Poor's 500 Composite Stock Price Index,
+a widely recognized benchmark of U.S. stock market performance. The Vanguard U.S. Growth Portfolio invests in large, high-quality,
+seasoned U.S. companies. The Vanguard/Windsor II Fund invests in a diversified group of out-of-favor stocks of large-capitalization
+companies. The Templeton Foreign Fund invests primarily in stocks of companies located outside the United States. The Fidelity Contrafund
+invests in undervalued stocks of foreign and U.S. companies with the goal of achieving long-term capital appreciation.
+Custody of the Plan's investments is maintained by the Trustee. Plan investments at fair value at December 31, 1999 and 1998 were as follows:
+Name of Issuer and Title of Issue At December 31, 1999 1998
+------------- --------------
+Centocor Stock Fund $ - $ 5,340,758
+Johnson & Johnson Common Stock Fund 9,204,608 -
+Vanguard Money Market Reserves - Prime Portfolio 1,794,942 1,497,042
+Vanguard Bond Index Fund - Total Bond Market Portfolio 1,838,203 1,567,086
+Vanguard Index Trust - 500 Portfolio 16,135,835 11,555,971
+Vanguard U.S. Growth Portfolio 7,400,761 4,800,634
+Vanguard/Windsor II 1,762,511 1,314,002
+Templeton Foreign Fund 1,488,024 784,293
+Fidelity Contrafund 2,793,827 1,346,399
+------------- --------------
+$ 42,418,711 $ 28,206,185
+============= ==============
+10CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+NOTES TO FINANCIAL STATEMENTS
+During 1999 and 1998, the Plan's investments (including gains and losses on investments bought and sold, as well as held during the year)
+appreciated in value as follows:
+1999 1998
+------------- --------------
+Mutual Funds $ 3,309,486 $ 3,616,403
+Common Stock 2,494,867 1,720,186
+------------- --------------
+$ 5,804,353 $ 5,336,589
+============= ==============
+NOTE 4 TAX STATUS
+The Internal Revenue Service has determined and informed the Company by a letter dated April 26, 1995, that the Plan is designed in
+accordance with applicable sections of the Internal Revenue Code ("IRC"). The Plan has been amended since receiving the determination letter.
+However, the Plan administrator believes that the Plan is designed and is currently operated in compliance with applicable requirements of the
+IRC.
+NOTE 5 PLAN TERMINATION
+Although it has not expressed an intent to do so, the Company has the right under the Plan to discontinue its contributions at any time and to
+terminate the Plan subject to the provisions of ERISA.
+11CENTOCOR QUALIFIED SAVINGS AND RETIREMENT PLAN
+ITEM 27a - SCHEDULE OF ASSETS HELD FOR INVESTMENT PURPOSES AT DECEMBER 31, 1999
+Description of Assets: Cost Market
+----------------- -------------------
+Johnson & Johnson Common Stock
+Fund* $ 4,544,663 $ 9,204,608
+Vanguard Money Market Reserves -
+Prime Portfolio* $ 1,794,942 $ 1,794,942
+Vanguard Bond Index Fund - Total
+Bond Market Portfolio* $ 1,910,280 $ 1,838,203
+Vanguard Index Trust - 500 Portfolio* $ 11,294,537 $ 16,135,835
+Vanguard U.S. Growth Portfolio* $ 5,686,322 $ 7,400,761
+Vanguard/Windsor II* $ 2,112,530 $ 1,762,511
+Templeton Foreign Fund $ 1,348,063 $ 1,488,024
+Fidelity Contrafund $ 2,578,043 $ 2,793,827
+Cost Market
+----------------- -------------------
+Loans from participants maturing
+through 2014 $ 588,825 $ 588,825
+During 1999, interest rates
+ranged from 9%-10%.
+* - party-in-interest
+12Consent of Independent Accountants
+We hereby consent to incorporation by reference in Registration Statement on Form S-8 Nos. 33-00167 and 33-16285 of Centocor, Inc. of our
+report dated June 9, 2000, relating to the statement of net assets available for plan benefits of the Centocor Qualified Savings and Retirement
+Plan as of December 31, 1999, and the related statement of changes in net assets available for plan benefits for the year then ended, which
+report appears in this Form 11-K.
+PricewaterhouseCoopers LLP
+Philadelphia, PA
+June 26, 2000
+End of Filing
+© 2005 | EDGAR Online, Inc.
