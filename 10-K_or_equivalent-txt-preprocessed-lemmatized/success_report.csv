@@ -1,0 +1,266 @@
+,file,initial_length,final_length,chars_removed,initial_tokens,final_tokens,token_removed,is_10k,status
+264,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2023.txt,360238 char,332576 char,27662,44557 tokens,42416 tokens,2141,False,Success
+262,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2022.txt,346861 char,320215 char,26646,42997 tokens,40964 tokens,2033,False,Success
+263,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2021.txt,344916 char,318447 char,26469,42592 tokens,40603 tokens,1989,False,Success
+261,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2020.txt,370584 char,341715 char,28869,45564 tokens,43382 tokens,2182,False,Success
+260,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2019.txt,364885 char,336432 char,28453,45164 tokens,43023 tokens,2141,False,Success
+259,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2018.txt,368440 char,339600 char,28840,45391 tokens,43145 tokens,2246,False,Success
+258,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2017.txt,325056 char,299845 char,25211,40158 tokens,38207 tokens,1951,False,Success
+257,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2016.txt,307872 char,284588 char,23284,38120 tokens,36348 tokens,1772,False,Success
+256,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2015.txt,290079 char,268779 char,21300,35943 tokens,34391 tokens,1552,False,Success
+254,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2014.txt,293393 char,271165 char,22228,36323 tokens,34625 tokens,1698,False,Success
+255,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2013.txt,296242 char,273712 char,22530,36653 tokens,34946 tokens,1707,False,Success
+252,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2012.txt,313896 char,289518 char,24378,38685 tokens,36783 tokens,1902,False,Success
+253,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2011.txt,314540 char,290185 char,24355,38657 tokens,36796 tokens,1861,False,Success
+251,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2010.txt,301412 char,277626 char,23786,36948 tokens,35122 tokens,1826,False,Success
+249,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2006.txt,218627 char,201243 char,17384,26927 tokens,25634 tokens,1293,False,Success
+250,10-K_or_equivalent-txt-preprocessed\ROG\ROG-finance-report-2005.txt,218775 char,201229 char,17546,26903 tokens,25572 tokens,1331,False,Success
+248,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2023.txt,258669 char,237666 char,21003,30509 tokens,28458 tokens,2051,False,Success
+247,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2022.txt,230840 char,208979 char,21861,28067 tokens,25766 tokens,2301,False,Success
+246,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2021.txt,247905 char,225020 char,22885,29891 tokens,27649 tokens,2242,False,Success
+245,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2020.txt,233377 char,212189 char,21188,28020 tokens,25974 tokens,2046,False,Success
+244,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2019.txt,230219 char,209789 char,20430,27815 tokens,25818 tokens,1997,False,Success
+243,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2018.txt,229361 char,209045 char,20316,27750 tokens,25746 tokens,2004,False,Success
+242,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2017.txt,217310 char,198134 char,19176,26067 tokens,24249 tokens,1818,False,Success
+241,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2016.txt,243095 char,221898 char,21197,29234 tokens,27170 tokens,2064,False,Success
+240,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2015.txt,274806 char,251090 char,23716,33021 tokens,30719 tokens,2302,False,Success
+239,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2014.txt,311555 char,284452 char,27103,37626 tokens,34953 tokens,2673,False,Success
+236,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2013.txt,267580 char,244929 char,22651,33065 tokens,30662 tokens,2403,False,Success
+237,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2012.txt,290204 char,264285 char,25919,36319 tokens,33239 tokens,3080,False,Success
+235,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2011.txt,297870 char,273660 char,24210,36216 tokens,33763 tokens,2453,False,Success
+234,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2010.txt,315794 char,308427 char,7367,16592 tokens,15629 tokens,963,False,Success
+231,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2009.txt,274636 char,267186 char,7450,14808 tokens,13686 tokens,1122,False,Success
+238,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2008.txt,513799 char,473706 char,40093,62419 tokens,58864 tokens,3555,False,Success
+233,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2007.txt,247679 char,228376 char,19303,30232 tokens,28791 tokens,1441,False,Success
+230,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2006.txt,205845 char,189279 char,16566,24987 tokens,23288 tokens,1699,False,Success
+229,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2005.txt,218326 char,200392 char,17934,26503 tokens,24655 tokens,1848,False,Success
+232,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2004.txt,284832 char,262555 char,22277,35199 tokens,33186 tokens,2013,False,Success
+227,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2003.txt,267249 char,247118 char,20131,32916 tokens,31179 tokens,1737,False,Success
+225,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2002.txt,235525 char,217775 char,17750,28920 tokens,27314 tokens,1606,False,Success
+226,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2001.txt,215029 char,198649 char,16380,26115 tokens,24749 tokens,1366,False,Success
+223,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-report-2000.txt,179120 char,165811 char,13309,21843 tokens,20743 tokens,1100,False,Success
+228,10-K_or_equivalent-txt-preprocessed\ROG\ROG-annual-finance-report-2009.txt,565966 char,535890 char,30076,50344 tokens,47509 tokens,2835,False,Success
+224,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2023_10-K.txt,418683 char,383970 char,34713,49250 tokens,46205 tokens,3045,False,Success
+222,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2022_10-K.txt,418442 char,383430 char,35012,49319 tokens,46198 tokens,3121,False,Success
+221,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2021_10-K.txt,428517 char,392023 char,36494,50936 tokens,47486 tokens,3450,False,Success
+220,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2020_10-K.txt,409531 char,376089 char,33442,48430 tokens,45615 tokens,2815,False,Success
+218,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2019_10-K.txt,380729 char,349682 char,31047,44986 tokens,42402 tokens,2584,False,Success
+219,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2018_10-K.txt,399581 char,367322 char,32259,47280 tokens,44649 tokens,2631,False,Success
+217,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2017_10-K.txt,391207 char,359511 char,31696,46231 tokens,43624 tokens,2607,False,Success
+216,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2016_10-K.txt,392625 char,360524 char,32101,46608 tokens,43978 tokens,2630,False,Success
+215,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2015_10-K.txt,420478 char,386371 char,34107,49903 tokens,47021 tokens,2882,False,Success
+214,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2014_10-K.txt,415237 char,381231 char,34006,49343 tokens,46458 tokens,2885,False,Success
+213,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2013_10-K.txt,403739 char,370736 char,33003,47973 tokens,45134 tokens,2839,False,Success
+211,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2012_10-K.txt,405517 char,372788 char,32729,48207 tokens,45423 tokens,2784,False,Success
+210,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2011_10-K.txt,436106 char,400888 char,35218,51987 tokens,48974 tokens,3013,False,Success
+208,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2010_10-K.txt,467897 char,430235 char,37662,55639 tokens,52479 tokens,3160,False,Success
+212,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2009_10-K.txt,567846 char,521875 char,45971,68096 tokens,64272 tokens,3824,False,Success
+207,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2008_10-K_Schering.txt,338369 char,310862 char,27507,39111 tokens,36766 tokens,2345,False,Success
+209,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2008_10-K.txt,648588 char,593410 char,55178,79234 tokens,73972 tokens,5262,False,Success
+205,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2007_10-K_Schering.txt,300385 char,276246 char,24139,34799 tokens,32716 tokens,2083,False,Success
+203,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2007_10-K.txt,436882 char,421741 char,15141,25813 tokens,24638 tokens,1175,False,Success
+204,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2006_10-K_Schering.txt,249395 char,229420 char,19975,28770 tokens,26995 tokens,1775,False,Success
+206,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2006_10-K.txt,537273 char,491283 char,45990,65984 tokens,61365 tokens,4619,False,Success
+200,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2005_10-K_Schering.txt,228837 char,209479 char,19358,27319 tokens,25499 tokens,1820,False,Success
+201,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2005_10-K.txt,331576 char,305539 char,26037,40275 tokens,37898 tokens,2377,False,Success
+198,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2004_10-K_Schering.txt,207916 char,190205 char,17711,24768 tokens,23122 tokens,1646,False,Success
+202,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2004_10-K.txt,401639 char,368601 char,33038,49315 tokens,45924 tokens,3391,False,Success
+196,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2003_10-K_Schering.txt,210682 char,192451 char,18231,25210 tokens,23626 tokens,1584,False,Success
+199,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2003_10-K.txt,313990 char,287829 char,26161,37978 tokens,35419 tokens,2559,False,Success
+194,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2002_10-K_Schering.txt,70039 char,63858 char,6181,8460 tokens,7691 tokens,769,False,Success
+197,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2002_10-K.txt,249487 char,228976 char,20511,30327 tokens,28418 tokens,1909,False,Success
+191,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2001_10-K_Schering.txt,54696 char,49723 char,4973,6626 tokens,6027 tokens,599,False,Success
+187,10-K_or_equivalent-txt-preprocessed\MRK\MRK_2000_10-K_Schering.txt,39213 char,35647 char,3566,4734 tokens,4283 tokens,451,False,Success
+195,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2023_10-K.txt,402417 char,368212 char,34205,48717 tokens,45305 tokens,3412,False,Success
+192,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2022_Health for Humanity Report.txt,349161 char,319755 char,29406,42041 tokens,39050 tokens,2991,False,Success
+184,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2022_Annual Report.txt,378994 char,376359 char,2635,7150 tokens,6940 tokens,210,False,Success
+193,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2022_10-K.txt,370242 char,340487 char,29755,44813 tokens,42086 tokens,2727,False,Success
+190,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2021_10-K.txt,315274 char,289756 char,25518,37633 tokens,35507 tokens,2126,False,Success
+188,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2020_Health for Humanity Report.txt,295598 char,270505 char,25093,35701 tokens,33372 tokens,2329,False,Success
+181,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2020_Annual Report.txt,369893 char,366322 char,3571,7850 tokens,7520 tokens,330,False,Success
+189,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2020_10-K.txt,359521 char,331054 char,28467,43414 tokens,40755 tokens,2659,False,Success
+185,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2019_10-K.txt,305658 char,281291 char,24367,36621 tokens,34526 tokens,2095,False,Success
+186,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2018_Health for Humanity Report.txt,339165 char,312017 char,27148,39888 tokens,37627 tokens,2261,False,Success
+177,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2018_Annual Report.txt,439388 char,437322 char,2066,10050 tokens,9875 tokens,175,False,Success
+183,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2018_10-K.txt,279025 char,256925 char,22100,33385 tokens,31551 tokens,1834,False,Success
+180,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2017_10-K.txt,256072 char,235907 char,20165,30586 tokens,28959 tokens,1627,False,Success
+173,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2016_Annual Report.txt,320163 char,317017 char,3146,6963 tokens,6724 tokens,239,False,Success
+179,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2016_10-K.txt,254856 char,234465 char,20391,30416 tokens,28691 tokens,1725,False,Success
+178,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2015_10-K.txt,267828 char,246822 char,21006,32260 tokens,30360 tokens,1900,False,Success
+172,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2014_Annual Report.txt,236815 char,233509 char,3306,5688 tokens,5474 tokens,214,False,Success
+176,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2014_10-K.txt,260712 char,240578 char,20134,31537 tokens,29719 tokens,1818,False,Success
+175,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2013_10-K.txt,256101 char,236361 char,19740,30868 tokens,29085 tokens,1783,False,Success
+166,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2012_Annual Report.txt,238532 char,237052 char,1480,4268 tokens,4173 tokens,95,False,Success
+174,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2012_10-K.txt,273109 char,251517 char,21592,32983 tokens,30953 tokens,2030,False,Success
+170,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2011_Annual Report.txt,259319 char,251509 char,7810,12529 tokens,11802 tokens,727,False,Success
+171,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2010_Annual Report.txt,238147 char,219367 char,18780,28544 tokens,26845 tokens,1699,False,Success
+168,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2009_Annual Report.txt,242406 char,234775 char,7631,13241 tokens,12483 tokens,758,False,Success
+167,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2008_Annual Report.txt,226079 char,208258 char,17821,27077 tokens,25493 tokens,1584,False,Success
+169,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2008_10-K.txt,271935 char,229452 char,42483,33090 tokens,27257 tokens,5833,False,Success
+165,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2007_10-K.txt,230489 char,199302 char,31187,25991 tokens,23620 tokens,2371,False,Success
+163,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2006_Annual Report.txt,248865 char,229252 char,19613,29974 tokens,28156 tokens,1818,False,Success
+161,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2006_10-K.txt,222007 char,194210 char,27797,24910 tokens,22883 tokens,2027,False,Success
+162,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2005_10-K.txt,335924 char,307828 char,28096,39650 tokens,33592 tokens,6058,False,Success
+160,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2004_10-K.txt,194276 char,178412 char,15864,23836 tokens,21943 tokens,1893,False,Success
+159,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2003_10-K.txt,199930 char,182842 char,17088,24694 tokens,22609 tokens,2085,False,Success
+157,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2002_Annual Report.txt,169615 char,157782 char,11833,20308 tokens,19250 tokens,1058,False,Success
+158,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2002_10-K.txt,197320 char,179943 char,17377,24410 tokens,22215 tokens,2195,False,Success
+156,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2001_10-K.txt,136111 char,124837 char,11274,16842 tokens,15412 tokens,1430,False,Success
+155,10-K_or_equivalent-txt-preprocessed\JNJ\JNJ_2000_10-K.txt,73210 char,66962 char,6248,9156 tokens,8521 tokens,635,False,Success
+151,10-K_or_equivalent-txt-preprocessed\GSK\GSK-responsible-business-supplement-2017.txt,70824 char,63633 char,7191,8660 tokens,7953 tokens,707,False,Success
+152,10-K_or_equivalent-txt-preprocessed\GSK\GSK-responsible-business-supplement-2016.txt,77050 char,69659 char,7391,9319 tokens,8651 tokens,668,False,Success
+154,10-K_or_equivalent-txt-preprocessed\GSK\GSK-responsible-business-supplement-2014.txt,123836 char,111184 char,12652,15277 tokens,13913 tokens,1364,False,Success
+150,10-K_or_equivalent-txt-preprocessed\GSK\GSK-responsible-business-supplemen-2015.txt,139136 char,125598 char,13538,16906 tokens,15694 tokens,1212,False,Success
+147,10-K_or_equivalent-txt-preprocessed\GSK\GSK-esg-performance-summary-2020.txt,45883 char,42599 char,3284,5610 tokens,5231 tokens,379,False,Success
+153,10-K_or_equivalent-txt-preprocessed\GSK\GSK-esg-performance-report-2023.txt,178359 char,163258 char,15101,21883 tokens,20427 tokens,1456,False,Success
+149,10-K_or_equivalent-txt-preprocessed\GSK\GSK-esg-performance-report-2022.txt,160544 char,147019 char,13525,19297 tokens,17977 tokens,1320,False,Success
+143,10-K_or_equivalent-txt-preprocessed\GSK\GSK-esg-performance-report-2021.txt,114504 char,105008 char,9496,13766 tokens,12846 tokens,920,False,Success
+148,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2013.txt,195916 char,175167 char,20749,23994 tokens,21786 tokens,2208,False,Success
+142,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2012.txt,177242 char,159087 char,18155,21776 tokens,19821 tokens,1955,False,Success
+144,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2011.txt,243174 char,221214 char,21960,29161 tokens,27276 tokens,1885,False,Success
+146,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2010.txt,444956 char,403111 char,41845,53790 tokens,49548 tokens,4242,False,Success
+182,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2009.txt,1828014 char,1649212 char,178802,220732 tokens,203161 tokens,17571,False,Success
+164,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2008.txt,1406668 char,1272827 char,133841,169622 tokens,156735 tokens,12887,False,Success
+141,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2007.txt,330777 char,298253 char,32524,40394 tokens,36896 tokens,3498,False,Success
+139,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2006.txt,250813 char,227412 char,23401,30279 tokens,28077 tokens,2202,False,Success
+136,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2005.txt,268941 char,244018 char,24923,32602 tokens,30209 tokens,2393,False,Success
+134,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2004.txt,212041 char,192516 char,19525,25529 tokens,23601 tokens,1928,False,Success
+132,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2003.txt,68905 char,62553 char,6352,8251 tokens,7639 tokens,612,False,Success
+131,10-K_or_equivalent-txt-preprocessed\GSK\GSK-corporate-responsibility-report-2002.txt,52404 char,47496 char,4908,6208 tokens,5748 tokens,460,False,Success
+145,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2023.txt,889895 char,815570 char,74325,108338 tokens,100534 tokens,7804,False,Success
+140,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2022.txt,899146 char,826379 char,72767,109084 tokens,102057 tokens,7027,False,Success
+138,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2021.txt,914317 char,840007 char,74310,111449 tokens,103881 tokens,7568,False,Success
+137,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2020.txt,867394 char,797484 char,69910,105474 tokens,98513 tokens,6961,False,Success
+135,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2019.txt,879527 char,807329 char,72198,107381 tokens,99776 tokens,7605,False,Success
+133,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2018.txt,785388 char,721177 char,64211,95888 tokens,89148 tokens,6740,False,Success
+130,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2017.txt,738309 char,676683 char,61626,90233 tokens,83688 tokens,6545,False,Success
+129,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2016.txt,756818 char,694514 char,62304,92248 tokens,85725 tokens,6523,False,Success
+128,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2015.txt,725334 char,666967 char,58367,87502 tokens,81892 tokens,5610,False,Success
+127,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2014.txt,749979 char,687063 char,62916,91318 tokens,84858 tokens,6460,False,Success
+126,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2013.txt,688382 char,630415 char,57967,84076 tokens,78404 tokens,5672,False,Success
+125,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2012.txt,736799 char,683062 char,53737,81950 tokens,77102 tokens,4848,False,Success
+124,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2011.txt,641619 char,589339 char,52280,78097 tokens,73292 tokens,4805,False,Success
+123,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2010.txt,581099 char,531340 char,49759,71147 tokens,65843 tokens,5304,False,Success
+122,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2009.txt,527052 char,481437 char,45615,64680 tokens,59587 tokens,5093,False,Success
+121,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2008.txt,510756 char,467012 char,43744,62536 tokens,57960 tokens,4576,False,Success
+120,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2007.txt,517439 char,472703 char,44736,63541 tokens,58634 tokens,4907,False,Success
+119,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2006.txt,517212 char,474580 char,42632,62333 tokens,57833 tokens,4500,False,Success
+118,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2005.txt,518954 char,475745 char,43209,62516 tokens,57978 tokens,4538,False,Success
+117,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2004.txt,516967 char,474061 char,42906,61228 tokens,56689 tokens,4539,False,Success
+116,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2003.txt,482538 char,438620 char,43918,59134 tokens,53671 tokens,5463,False,Success
+115,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2002.txt,458743 char,419366 char,39377,55124 tokens,50883 tokens,4241,False,Success
+114,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2001.txt,415208 char,380162 char,35046,49807 tokens,45899 tokens,3908,False,Success
+113,10-K_or_equivalent-txt-preprocessed\GSK\GSK-annual-report-2000.txt,414423 char,379576 char,34847,49888 tokens,45868 tokens,4020,False,Success
+112,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2023_10-K.txt,275550 char,251356 char,24194,32460 tokens,30271 tokens,2189,False,Success
+109,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2022_ESG Impact Report.txt,166778 char,153074 char,13704,19887 tokens,18878 tokens,1009,False,Success
+111,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2022_10-K.txt,268538 char,244651 char,23887,31666 tokens,29494 tokens,2172,False,Success
+110,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2021_10-K.txt,295085 char,269464 char,25621,34854 tokens,32615 tokens,2239,False,Success
+105,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2020_Annual Review.txt,120295 char,110063 char,10232,14456 tokens,13615 tokens,841,False,Success
+108,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2020_10-K.txt,306525 char,280091 char,26434,36299 tokens,33938 tokens,2361,False,Success
+107,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2019_10-K.txt,272924 char,248645 char,24279,32473 tokens,30256 tokens,2217,False,Success
+102,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2018_Annual Review.txt,102724 char,89917 char,12807,14169 tokens,11384 tokens,2785,False,Success
+106,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2018_10-K.txt,272563 char,248184 char,24379,32617 tokens,30348 tokens,2269,False,Success
+104,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2017_10-K.txt,339735 char,310302 char,29433,40619 tokens,38003 tokens,2616,False,Success
+97,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2016_Annual Review.txt,73061 char,66660 char,6401,9115 tokens,8406 tokens,709,False,Success
+103,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2016_10-K.txt,329357 char,301070 char,28287,39303 tokens,36761 tokens,2542,False,Success
+101,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2015_10-K.txt,320343 char,292753 char,27590,38466 tokens,35825 tokens,2641,False,Success
+93,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2014_Annual Report.txt,19494 char,17843 char,1651,2481 tokens,2209 tokens,272,False,Success
+99,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2014_10-K.txt,371917 char,339877 char,32040,44618 tokens,41589 tokens,3029,False,Success
+100,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2013_10-K.txt,413365 char,376654 char,36711,49825 tokens,46057 tokens,3768,False,Success
+92,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2012_Annual Report.txt,31642 char,29275 char,2367,3880 tokens,3582 tokens,298,False,Success
+98,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2012_10-K.txt,368501 char,336643 char,31858,44212 tokens,41048 tokens,3164,False,Success
+87,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2011_Annual Report.txt,30808 char,28222 char,2586,3846 tokens,3503 tokens,343,False,Success
+96,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2011_10-K.txt,386987 char,353686 char,33301,46330 tokens,43184 tokens,3146,False,Success
+94,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2010_10-K.txt,352896 char,323328 char,29568,42125 tokens,39426 tokens,2699,False,Success
+91,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2009_10-K.txt,331655 char,303266 char,28389,39434 tokens,36846 tokens,2588,False,Success
+84,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2008_Annual Report.txt,24132 char,22195 char,1937,2988 tokens,2725 tokens,263,False,Success
+90,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2008_10-K.txt,332457 char,303724 char,28733,39701 tokens,37070 tokens,2631,False,Success
+89,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2007_10-K.txt,331061 char,303092 char,27969,39579 tokens,37062 tokens,2517,False,Success
+82,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2006_Annual Report.txt,38917 char,35978 char,2939,4879 tokens,4489 tokens,390,False,Success
+88,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2006_10-K.txt,313121 char,286927 char,26194,37466 tokens,35156 tokens,2310,False,Success
+85,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2005_10-K.txt,240555 char,220119 char,20436,28923 tokens,27114 tokens,1809,False,Success
+95,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2004_Annual Report.txt,688827 char,624199 char,64628,84907 tokens,77948 tokens,6959,False,Success
+81,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2004_10-K.txt,219495 char,200807 char,18688,26290 tokens,24619 tokens,1671,False,Success
+83,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2003_10-K.txt,228100 char,208291 char,19809,27456 tokens,25522 tokens,1934,False,Success
+86,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2002_Annual Report.txt,514992 char,464695 char,50297,62541 tokens,57197 tokens,5344,False,Success
+79,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2002_10-K.txt,230812 char,210231 char,20581,27791 tokens,25602 tokens,2189,False,Success
+78,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2001_10-K.txt,233093 char,212432 char,20661,28096 tokens,25935 tokens,2161,False,Success
+80,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2000_Annual Report.txt,262402 char,238292 char,24110,31999 tokens,29269 tokens,2730,False,Success
+77,10-K_or_equivalent-txt-preprocessed\GILD\GILD_2000_10-K.txt,213447 char,194302 char,19145,25857 tokens,23672 tokens,2185,False,Success
+75,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2022_Annual Report.txt,140800 char,129330 char,11470,17075 tokens,15881 tokens,1194,False,Success
+76,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2021_Annual Report.txt,183944 char,169876 char,14068,22225 tokens,20789 tokens,1436,False,Success
+74,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2020_Annual Report.txt,180384 char,166343 char,14041,21769 tokens,20317 tokens,1452,False,Success
+73,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2019_Annual Report.txt,163843 char,151244 char,12599,19839 tokens,18515 tokens,1324,False,Success
+71,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2018_Annual Report.txt,160006 char,147462 char,12544,19291 tokens,17996 tokens,1295,False,Success
+72,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2017_Annual Report.txt,211136 char,190308 char,20828,26733 tokens,23700 tokens,3033,False,Success
+70,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2016_Annual Report.txt,188495 char,171418 char,17077,23500 tokens,21436 tokens,2064,False,Success
+68,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2015_Annual Report.txt,207668 char,189622 char,18046,25685 tokens,23587 tokens,2098,False,Success
+65,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2014_Annual Report.txt,186969 char,171978 char,14991,22755 tokens,21270 tokens,1485,False,Success
+64,10-K_or_equivalent-txt-preprocessed\Boehringer Ingelheim\boehringer-ingelheim_2013_Annual Report.txt,190477 char,175211 char,15266,23651 tokens,22033 tokens,1618,False,Success
+69,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2023_10-K.txt,374809 char,341958 char,32851,44569 tokens,41427 tokens,3142,False,Success
+62,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2022_Annual Report.txt,960183 char,958667 char,1516,12017 tokens,11794 tokens,223,False,Success
+66,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2022_10-K.txt,353692 char,323311 char,30381,42021 tokens,39217 tokens,2804,False,Success
+67,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2021_10-K.txt,384867 char,351887 char,32980,45860 tokens,42695 tokens,3165,False,Success
+60,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2020_Annual Report.txt,1082695 char,1078747 char,3948,17142 tokens,16636 tokens,506,False,Success
+63,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2020_10-K.txt,381923 char,349432 char,32491,45339 tokens,42314 tokens,3025,False,Success
+61,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2019_10-K.txt,349262 char,319287 char,29975,41502 tokens,38721 tokens,2781,False,Success
+57,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2018_Annual Report.txt,241404 char,220801 char,20603,29055 tokens,27238 tokens,1817,False,Success
+59,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2018_10-K.txt,307037 char,279953 char,27084,36552 tokens,34026 tokens,2526,False,Success
+58,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2017_10-K.txt,292476 char,266708 char,25768,34891 tokens,32500 tokens,2391,False,Success
+55,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2016_Annual Report.txt,235256 char,215512 char,19744,28159 tokens,26416 tokens,1743,False,Success
+54,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2016_10-K.txt,287627 char,262548 char,25079,34055 tokens,31754 tokens,2301,False,Success
+56,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2015_10-K.txt,319740 char,292507 char,27233,37980 tokens,35408 tokens,2572,False,Success
+53,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2014_Annual Report.txt,290275 char,264524 char,25751,34864 tokens,32527 tokens,2337,False,Success
+52,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2014_10-K.txt,316974 char,289628 char,27346,37559 tokens,35058 tokens,2501,False,Success
+51,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2013_10-K.txt,334947 char,306094 char,28853,39717 tokens,36975 tokens,2742,False,Success
+48,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2012_Annual Report.txt,273349 char,249546 char,23803,32880 tokens,30654 tokens,2226,False,Success
+50,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2012_10-K.txt,337260 char,308225 char,29035,39983 tokens,37139 tokens,2844,False,Success
+49,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2011_10-K.txt,329943 char,301958 char,27985,39229 tokens,36497 tokens,2732,False,Success
+47,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2010_Annual Report.txt,323659 char,296597 char,27062,38856 tokens,36456 tokens,2400,False,Success
+46,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2010_10-K.txt,393342 char,360415 char,32927,46843 tokens,43768 tokens,3075,False,Success
+45,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2009_10-K.txt,370539 char,338729 char,31810,44153 tokens,41205 tokens,2948,False,Success
+42,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2008_Annual Report.txt,277114 char,254095 char,23019,33316 tokens,31385 tokens,1931,False,Success
+43,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2008_10-K.txt,380613 char,348809 char,31804,45361 tokens,42552 tokens,2809,False,Success
+44,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2007_10-K.txt,446495 char,409632 char,36863,53006 tokens,49801 tokens,3205,False,Success
+40,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2006_Annual Report.txt,373471 char,342143 char,31328,44512 tokens,41668 tokens,2844,False,Success
+41,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2006_10-K.txt,461965 char,422361 char,39604,55145 tokens,51400 tokens,3745,False,Success
+39,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2005_10-K.txt,407735 char,373697 char,34038,48472 tokens,45380 tokens,3092,False,Success
+38,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2004_Annual Report.txt,332607 char,303696 char,28911,40353 tokens,37770 tokens,2583,False,Success
+35,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2004_10-K.txt,172290 char,157576 char,14714,20563 tokens,19331 tokens,1232,False,Success
+37,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2003_Annual Report.txt,275984 char,252715 char,23269,33391 tokens,31272 tokens,2119,False,Success
+36,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2003_10-K.txt,319352 char,293700 char,25652,37601 tokens,35539 tokens,2062,False,Success
+34,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2002_10-K.txt,219867 char,200942 char,18925,26304 tokens,24385 tokens,1919,False,Success
+33,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2001_10-K.txt,213824 char,195528 char,18296,25236 tokens,23584 tokens,1652,False,Success
+26,10-K_or_equivalent-txt-preprocessed\BMY\BMY_2000_10-K.txt,97098 char,88420 char,8678,11887 tokens,10909 tokens,978,False,Success
+32,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2023_10-K.txt,281042 char,257229 char,23813,33476 tokens,31225 tokens,2251,False,Success
+31,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2022_10-K.txt,277784 char,254172 char,23612,33067 tokens,30871 tokens,2196,False,Success
+30,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2021_10-K.txt,281715 char,257589 char,24126,33644 tokens,31334 tokens,2310,False,Success
+29,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2020_10-K.txt,287250 char,262422 char,24828,34297 tokens,31842 tokens,2455,False,Success
+28,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2019_10-K.txt,254922 char,232747 char,22175,30414 tokens,28268 tokens,2146,False,Success
+27,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2018_10-K.txt,250662 char,228830 char,21832,29961 tokens,27834 tokens,2127,False,Success
+25,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2017_10-K.txt,257625 char,235128 char,22497,30770 tokens,28585 tokens,2185,False,Success
+24,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2016_10-K.txt,265113 char,242061 char,23052,31633 tokens,29337 tokens,2296,False,Success
+22,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2015_10-K.txt,261067 char,238297 char,22770,31173 tokens,28860 tokens,2313,False,Success
+23,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2014_10-K.txt,251712 char,229815 char,21897,30089 tokens,27888 tokens,2201,False,Success
+20,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2013_10-K.txt,242812 char,221356 char,21456,29151 tokens,27004 tokens,2147,False,Success
+19,10-K_or_equivalent-txt-preprocessed\ABBV\ABBV_2012_10-K.txt,232787 char,211810 char,20977,28023 tokens,25826 tokens,2197,False,Success
+15,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2023_Annual Consolidated Financial Statements.txt,47054 char,43215 char,3839,5681 tokens,5352 tokens,329,False,Success
+21,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2022_Sustainability Report.txt,326936 char,296133 char,30803,40437 tokens,35879 tokens,4558,False,Success
+16,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2022_Annual Consolidated Financial Statements.txt,104904 char,94788 char,10116,12761 tokens,11873 tokens,888,False,Success
+18,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2021_Integrated Report.txt,252144 char,224805 char,27339,32765 tokens,27840 tokens,4925,False,Success
+13,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2021_Annual Consolidated Financial Statements.txt,103076 char,93097 char,9979,12531 tokens,11658 tokens,873,False,Success
+17,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2020_Integrated Report.txt,199464 char,178613 char,20851,25609 tokens,21867 tokens,3742,False,Success
+1,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2020_Annual Consolidated Financial Statements.txt,101279 char,91611 char,9668,12308 tokens,11437 tokens,871,False,Success
+4,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2019_Integrated Report.txt,200593 char,179266 char,21327,25942 tokens,22054 tokens,3888,False,Success
+14,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2019_Annual Consolidated Financial Statements.txt,121787 char,110245 char,11542,14762 tokens,13725 tokens,1037,False,Success
+2,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2018_Integrated Report.txt,198163 char,179768 char,18395,25243 tokens,22410 tokens,2833,False,Success
+0,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2018_Annual Consolidated Financial Statements.txt,127631 char,116131 char,11500,15425 tokens,14424 tokens,1001,False,Success
+6,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2017_Integrated Report.txt,151937 char,140029 char,11908,19008 tokens,17476 tokens,1532,False,Success
+8,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2017_Annual Consolidated Financial Statements.txt,112492 char,102382 char,10110,13636 tokens,12768 tokens,868,False,Success
+5,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2016_CSR Report.txt,135509 char,121875 char,13634,17805 tokens,15488 tokens,2317,False,Success
+3,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2016_Annual Consolidated Financial Statements.txt,145316 char,132001 char,13315,17596 tokens,16442 tokens,1154,False,Success
+12,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2015_CSR Report.txt,118866 char,108794 char,10072,14910 tokens,13816 tokens,1094,False,Success
+9,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2014_CSR Report.txt,130374 char,119015 char,11359,16425 tokens,15279 tokens,1146,False,Success
+7,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2013_CSR Report.txt,119774 char,110043 char,9731,14935 tokens,14009 tokens,926,False,Success
+11,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2012_CSR Report.txt,131971 char,116195 char,15776,18187 tokens,15047 tokens,3140,False,Success
+10,10-K_or_equivalent-txt-preprocessed\4578JPX (OTSUKA)\OTSUKA_2011_CSR Report.txt,231761 char,210803 char,20958,28986 tokens,26631 tokens,2355,False,Success

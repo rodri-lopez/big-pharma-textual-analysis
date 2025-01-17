@@ -12,3 +12,5 @@
 **/*.csv
 !**/*2000.csv
 !CSR_scores_timeseries.csv
+!TDMs/tdm_2017.csv
+!10-K_or_equivalent-txt-preprocessed-lemmatized/success_report.csv
