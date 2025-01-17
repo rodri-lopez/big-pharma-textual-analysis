@@ -62,6 +62,6 @@ Zeros remain zeros, but the top score $a = \max(S) = 100$. All other scores fall
 The [scores CSVs](SCORES/scores_2000.csv)  are the result of one final aggregation, which connect back to the vocabulary hierarchy mentioned in [mapped](#mapped). After **Normalization 2**, the count scores are ready to be aggregated into CSR topic scores. The program iterates through every **mapped_collapsed_normalized** TDM and computes a new DataFrame, which aggregates the scores **across columns (vocabulary words)** using 'SUM', leaving only 3 columns in the new DataFrame: **GOVERNANCE**, **SOCIAL**, and **ENVIRONMENTAL**, and rows for each ticker/firm.
 
 ## CSR_scores_timeseries.csv
-The last step is to take the scores CSV for every year and compile them into one large timeseries. The gaps exist either because of a gap in data collection (rare) or, more usually, because the firm is 1) private, or 2) was private at some point during the observation period.
+The last step is to take the scores CSV for every year and compile them into one large [timeseries](/CSR_data/CSR_scores_timeseries.csv). The gaps exist either because of a gap in data collection (rare) or, more usually, because the firm is 1) private, or 2) was private at some point during the observation period.
 
 
