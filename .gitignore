@@ -10,3 +10,5 @@
 *.pdf
 **/*.pdf
 **/*.csv
+!**/*2000.csv
+!CSR_scores_timeseries.csv
