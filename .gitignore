@@ -5,12 +5,22 @@
 # Ignore the specific subfolder '10-K'
 10-K/*
 
-# Ignore zip files
+# Ignore some files types
 *.zip
 *.pdf
 **/*.pdf
 **/*.csv
+
+# Exceptions for example TDMs
 !**/*2000.csv
+
 !CSR_scores_timeseries.csv
+
+
+!n1_max_compile_sum/CSR_n1_max_compile_sum_scores_timeseries.csv
+!n1_max_compile_avg/CSR_n1_max_compile_avg_scores_timeseries.csv
+!n1_avg_compile_avg/CSR_n1_avg_compile_avg_scores_timeseries.csv
+!n1_avg_compile_sum/CSR_n1_avg_compile_sum_scores_timeseries.csv
+
 !TDMs/tdm_2017.csv
 !10-K_or_equivalent-txt-preprocessed-lemmatized/success_report.csv

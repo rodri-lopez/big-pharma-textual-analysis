@@ -68,8 +68,7 @@ def scoring_tdm(tdm_df: pd.DataFrame, token_count_df: pd.DataFrame, year: str):
     yearly_norm_final_tdm_df = normalize_tdm_by_yearly_statistics(mapped_norm_collapsed_tdm_df)
 
     CSR_category_scores_df = compute_CSR_category_scores(yearly_norm_final_tdm_df, weight=False)
-    return yearly_norm_final_tdm_df, CSR_category_scores_df, year, num_companies, len(yearly_norm_final_tdm_df)
-    
+    return yearly_norm_final_tdm_df, CSR_category_scores_df, year, num_companies, len(yearly_norm_final_tdm_df) 
 
 def merge_tdm_with_token_counts(tdm_df: pd.DataFrame, token_count_df: pd.DataFrame)-> pd.DataFrame:
     tokens_tdm_df = pd.merge(tdm_df, token_count_df[['final_tokens']], left_index=True, right_index=True, how='inner')
@@ -126,6 +125,7 @@ def map_terms_to_hierarchy(tdm_df: pd.DataFrame):
     
     return mapped_terms
 
+# Norm 1
 def ticker_collapse_tdm(tdm_df: pd.DataFrame):
     tdm_df['document name'] = tdm_df.index
     tdm_df['ticker'] = tdm_df['document name'].str.extract(r'^([A-Z]{3,})')
@@ -138,7 +138,7 @@ def ticker_collapse_tdm(tdm_df: pd.DataFrame):
     # Aggregate count data
     count_columns = tdm_df.columns.difference(['ticker', 'document name'])
     aggregated_df = tdm_df.groupby('ticker').agg({
-        **{col: 'max' for col in count_columns},
+        **{col: 'mean' for col in count_columns},
         'document name': lambda x: "; ".join(x)
     })
     num_companies = len(aggregated_df)
@@ -185,6 +185,7 @@ def normalize_tdm_by_yearly_statistics(tdm_df: pd.DataFrame)-> pd.DataFrame:
     tdm_df_normalized = pd.concat([tdm_df_normalized, vocab_hierarchy], axis=0)
     return tdm_df_normalized
 
+# Compiler
 def compute_CSR_category_scores(tdm_df: pd.DataFrame, weight: bool) -> pd.DataFrame:
     if weight:
         return None
@@ -211,7 +212,7 @@ def compute_CSR_category_scores(tdm_df: pd.DataFrame, weight: bool) -> pd.DataFr
     
     return aggregated_df
     
-def compile_scores(scores_dict: dict[pd.DataFrame])-> pd.DataFrame:  
+def compile_scores(scores_dict: dict[pd.DataFrame], output_dir: str, timeseries_name: str)-> pd.DataFrame:  
     all_indexes = set()
     for year, df in scores_dict.items():
         all_indexes.update(df.index)
@@ -235,20 +236,22 @@ def compile_scores(scores_dict: dict[pd.DataFrame])-> pd.DataFrame:
     
     # Step 3: Concatenate all reindexed DataFrames along columns
     time_series_df = pd.concat(reindexed_dfs, axis=1)
-    time_series_df.to_csv('CSR_data/CSR_scores_timeseries.csv')
+    time_series_df.to_csv(os.path.join(output_dir, timeseries_name))
     
 
 def main():
     input_dir = 'TDMs/'
-    TDMs_output_dir = 'TDMs_mapped_collapsed_normalized'
-    scores_output_dir = 'SCORES'
+    parent_output_dir = 'n1_avg_compile_sum/'
+    TDMs_output_dir = f'{parent_output_dir}TDMs_mapped_collapsed_normalized'
+    scores_output_dir = f'{parent_output_dir}SCORES'
+    timeseries_name = 'CSR_n1_avg_compile_sum_scores_timeseries.csv'
     global vocab 
     vocab = get_vocabulary()
     global vocab_df
     vocab_df = get_vocabulary_df()
     
     scores = scoring_yearly_tdms(input_dir, TDMs_output_dir, scores_output_dir)
-    compile_scores(scores)
+    compile_scores(scores, parent_output_dir, timeseries_name)
 
 if __name__ == "__main__":
     main()
